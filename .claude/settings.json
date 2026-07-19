@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($w = Get-Command winget -ErrorAction SilentlyContinue; if \\($w\\) { \"winget: $\\($w.Source\\)\"; winget --version } else { \"winget NOT available\" })",
+      "PowerShell(winget install --id Python.Python.3.12 -e --source winget --accept-package-agreements --accept-source-agreements --disable-interactivity --scope user)",
+      "PowerShell($out = & cmd /c \"py --version 2>&1\"; \"py -> $out\"; $out2 = & cmd /c \"python --version 2>&1\"; \"python -> $out2\"; $pyexe = Get-ChildItem \"$env:LOCALAPPDATA\\\\Programs\\\\Python\\\\Python312\\\\python.exe\" -ErrorAction SilentlyContinue; if \\($pyexe\\) { \"installed at: $\\($pyexe.FullName\\)\" }; $pl = Get-ChildItem \"C:\\\\Windows\\\\py.exe\" -ErrorAction SilentlyContinue; if \\($pl\\) { \"py launcher: $\\($pl.FullName\\)\" } else { \"no C:\\\\Windows\\\\py.exe\" })",
+      "Bash(cd \"e:/Projects/Personal Project/xuanvt-learning-vault\" && echo topik-grammar-compile > .claude/state/active_skill && echo \"sentinel:\" && cat .claude/state/active_skill)",
+      "PowerShell(& 'C:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\e--Projects-Personal-Project-xuanvt-learning-vault\\\\02d7d081-c647-43e1-8ceb-1dd38e4b6c16\\\\scratchpad\\\\rename_exams.ps1')",
+      "Edit(/.claude/skills/topik-exam-analysis/**)",
+      "Edit(/.claude/skills/topik-grammar-compile/**)",
+      "Bash(mkdir -p .claude/state)",
+      "Bash(echo topik-exam-analysis *)",
+      "Bash(cd \"e:/Projects/Personal Project/xuanvt-learning-vault\" && echo template-editor > .claude/state/active_skill && cat .claude/state/active_skill)",
+      "Bash(cd \"e:/Projects/Personal Project/xuanvt-learning-vault\" && echo topik-exam-analysis > .claude/state/active_skill && cat .claude/state/active_skill)",
+      "Bash(cd \"e:/Projects/Personal Project/xuanvt-learning-vault\" && echo vault-sync > .claude/state/active_skill && cat .claude/state/active_skill)",
+      "Bash(read -r l)",
+      "Bash(:)"
+    ],
+    "additionalDirectories": [
+      "e:\\Projects\\Personal Project\\xuanvt-learning-vault\\.claude\\state"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Users/Admin/AppData/Local/Programs/Python/Python312/python.exe\" \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/pre_tool_use.py"
+          }
+        ]
+      }
+    ]
+  }
+}

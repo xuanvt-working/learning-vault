@@ -1,0 +1,28 @@
+# Domain manifest — vault-sync / review-scheduler / hook đọc file này thay vì hard-code path.
+# Thêm domain mới = thêm 1 block + bộ templates + (tùy chọn) skill riêng. Không sửa skill chung.
+
+topik:
+  root: TOPIK
+  display_name: "Korean TOPIK II"
+  note_dirs: [10_Grammar, 20_Pairs, 25_Groups, 30_Distractors, 40_Vocab, 45_Topics, 46_Traps, 50_Exams, 90_MOC]
+  templates_dir: TOPIK/00_Templates
+  dashboard_dir: TOPIK/99_Dashboard
+  schema_rule: .claude/rules/topik/frontmatter_schema.md
+  sr_dirs: [TOPIK/10_Grammar]              # thư mục có note tham gia spaced repetition
+  immutable_when_verified: [TOPIK/50_Exams]
+  ingest_skill: topik-exam-analysis
+  compile_skill: topik-grammar-compile
+  status: active
+
+ba:
+  root: BA
+  display_name: "Business Analyst"
+  note_dirs: [10_Knowledge_Areas, 20_Techniques, 30_Terms, 40_Cases]
+  templates_dir: BA/00_Templates
+  dashboard_dir: BA/99_Dashboard
+  schema_rule: .claude/rules/ba/frontmatter_schema.md   # tạo khi domain kích hoạt
+  sr_dirs: [BA/20_Techniques, BA/30_Terms]
+  immutable_when_verified: []
+  ingest_skill: ""                          # ba-note-builder — viết sau khi có ngữ liệu thật
+  compile_skill: ""                         # ba-compile — viết sau
+  status: placeholder                       # learn-first: chưa kích hoạt, chờ dữ liệu thực tế
