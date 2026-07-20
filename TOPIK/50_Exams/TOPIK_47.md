@@ -408,3 +408,177 @@ tags: [korean/topik, exam]
     - 같다 — giống/bằng
     - 높다 — cao
     - 낮다 — thấp
+
+---
+
+## Câu 11 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 만화방이 단순히 만화를 보는 공간에서 벗어나 볼거리, 먹을거리를 함께 즐길 수 있는 '만화카페'로 다시 태어나고 있다. 이 만화카페는 '만화를 보는 공간'이라는 점에서 만화방과 비슷하다. 그러나 밝은 조명과 세련된 분위기에서 고급 커피까지 마실 수 있다는 점이 다르다. 만화방이 주로 남자들에게 인기가 많았다면 만화카페는 10, 20대 여성들에게 인기가 많다.
+
+**Dịch:**
+> Tiệm truyện tranh (만화방) đang thoát khỏi việc chỉ là không gian xem truyện để tái sinh thành 'cà phê truyện tranh' (만화카페) — nơi có thể vừa xem vừa ăn uống. Cà phê truyện tranh này giống tiệm truyện ở điểm là 'không gian xem truyện'. Nhưng khác ở chỗ có thể uống cả cà phê cao cấp trong ánh đèn sáng và không gian tinh tế. Nếu tiệm truyện tranh chủ yếu được nam giới ưa chuộng thì cà phê truyện tranh lại được nữ giới độ tuổi 10, 20 yêu thích.
+
+**Chủ đề:** 카페문화 (văn hóa quán cà phê / không gian giải trí) → [[TOPIC_카페문화]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 만화카페는 만화방과 실내 분위기가 비슷하다 | Cà phê truyện tranh giống tiệm truyện về không khí trong nhà | ❌ | Bài ghi 밝은 조명·세련된 분위기라는 점이 **다르다** → khác về không khí (비슷↔다름) — [[TRAP_dao_thong_tin]]. |
+| ② | 만화카페는 주로 남성들에게 인기를 끌고 있다 | Cà phê truyện tranh chủ yếu được nam giới ưa chuộng | ❌ | Bài ghi 만화카페는 **10, 20대 여성들**에게 인기 → nữ giới (남성↔여성) — [[TRAP_dao_thong_tin]]. |
+| ③ | 만화카페는 커피를 마시기 위한 곳으로 새롭게 태어났다 | Cà phê truyện tranh tái sinh thành nơi để uống cà phê | ❌ | Bài ghi 볼거리·먹을거리를 **함께** 즐기는 곳 (커피는 그중 하나) → thu hẹp sai mục đích — [[TRAP_sai_muc_dich]]. |
+| ④ | 만화카페는 볼거리와 먹을거리를 모두 즐길 수 있는 곳이다 | Cà phê truyện tranh là nơi có thể tận hưởng cả thứ để xem lẫn thứ để ăn | ✅ | 볼거리, 먹을거리를 **함께 즐길 수 있는** 만화카페 → khớp. |
+
+### Chú giải chi tiết
+
+> 만화방이 단순히 만화를 보는 공간에서 벗어나 볼거리, 먹을거리를 함께 즐길 수 있는 '만화카페'로 다시 태어나고 있다.
+→ Tiệm truyện tranh đang thoát khỏi việc chỉ là không gian xem truyện để tái sinh thành 'cà phê truyện tranh' — nơi có thể vừa xem vừa ăn uống.
+- **Ngữ pháp:**
+  - N이/가 (chủ ngữ — 만화방이)
+  - 단순히 (đơn thuần/chỉ)
+  - V-는 + N (định ngữ — 보는 공간)
+  - N에서 벗어나다 (thoát khỏi — 공간에서 벗어나)
+  - -을 수 있는 + N (định ngữ khả năng — 즐길 수 있는 만화카페)
+  - N(으)로 (thành — 만화카페로)
+  - V-고 있다 (đang — 태어나고 있다)
+- **Từ vựng:**
+  - 만화방 — tiệm truyện tranh
+  - 단순히 — đơn thuần
+  - 만화 — truyện tranh
+  - 공간 — không gian
+  - 벗어나다 — thoát khỏi
+  - 볼거리 — thứ để xem
+  - 먹을거리 — thứ để ăn
+  - 함께 — cùng nhau
+  - 즐기다 — tận hưởng
+  - 다시 태어나다 — tái sinh (nghĩa bóng)
+
+> 이 만화카페는 '만화를 보는 공간'이라는 점에서 만화방과 비슷하다.
+→ Cà phê truyện tranh này giống tiệm truyện ở điểm là 'không gian xem truyện'.
+- **Ngữ pháp:**
+  - N은/는 (chủ đề — 만화카페는)
+  - N(이)라는 점에서 (ở điểm là — 공간이라는 점에서)
+  - N와/과 비슷하다 (giống với — 만화방과 비슷하다)
+- **Từ vựng:**
+  - 점 — điểm
+  - 비슷하다 — giống/tương tự
+
+> 그러나 밝은 조명과 세련된 분위기에서 고급 커피까지 마실 수 있다는 점이 다르다.
+→ Nhưng khác ở chỗ có thể uống cả cà phê cao cấp trong ánh đèn sáng và không gian tinh tế.
+- **Ngữ pháp:**
+  - 그러나 (nhưng)
+  - A-(으)ㄴ + N (định ngữ — 밝은 조명, 세련된 분위기)
+  - N에서 (trong — 분위기에서)
+  - N까지 (đến cả — 고급 커피까지)
+  - -을 수 있다는 점 (điểm là có thể — 마실 수 있다는 점)
+  - N이/가 다르다 (khác — 점이 다르다)
+- **Từ vựng:**
+  - 밝다 — sáng
+  - 조명 — ánh đèn
+  - 세련되다 — tinh tế/sang
+  - 분위기 — bầu không khí
+  - 고급 — cao cấp
+  - 커피 — cà phê
+  - 마시다 — uống
+  - 다르다 — khác
+
+> 만화방이 주로 남자들에게 인기가 많았다면 만화카페는 10, 20대 여성들에게 인기가 많다.
+→ Nếu tiệm truyện tranh chủ yếu được nam giới ưa chuộng thì cà phê truyện tranh lại được nữ giới độ tuổi 10, 20 yêu thích.
+- **Ngữ pháp:**
+  - 주로 (chủ yếu)
+  - N에게 (với — 남자들에게)
+  - N이/가 많다 (nhiều — 인기가 많았다)
+  - A-았/었다면 (nếu (đối chiếu) — 많았다면)
+  - N대 (độ tuổi — 10, 20대)
+- **Từ vựng:**
+  - 주로 — chủ yếu
+  - 남자 — nam
+  - 인기 — sự ưa chuộng
+  - 여성 — nữ giới
+
+---
+
+## Câu 12 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 카카오가 건강에 도움이 된다는 사실이 새롭게 알려졌다. 카카오에 있는 단백질, 지방, 칼슘과 같은 영양 성분이 감기 예방, 집중력 향상 등에 효과가 있다는 것이다. 그러나 카카오는 그 자체로 먹기가 어려워 일반적으로 초콜릿 형태로 먹는다. 그런데 너무 단 초콜릿은 오히려 건강을 해칠 수 있어 많이 먹는 것은 피해야 한다.
+
+**Dịch:**
+> Sự thật rằng cacao có ích cho sức khỏe vừa được biết đến. Đó là các thành phần dinh dưỡng như protein, chất béo, canxi có trong cacao có hiệu quả trong việc phòng cảm, nâng cao khả năng tập trung, v.v. Nhưng cacao tự thân khó ăn nên thường được ăn dưới dạng sô-cô-la. Thế nhưng sô-cô-la quá ngọt ngược lại có thể gây hại cho sức khỏe nên phải tránh ăn nhiều.
+
+**Chủ đề:** 음식건강 (thực phẩm & sức khỏe) → [[TOPIC_음식건강]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 카카오를 먹으면 집중력을 높일 수 있다 | Ăn cacao thì có thể nâng cao khả năng tập trung | ✅ | 카카오 영양 성분이 **집중력 향상**에 효과 → khớp. |
+| ② | 초콜릿은 영양 성분이 풍부해서 많이 먹어야 한다 | Sô-cô-la giàu dinh dưỡng nên phải ăn nhiều | ❌ | Bài ghi 많이 먹는 것은 **피해야 한다** → nên tránh ăn nhiều (피해야↔먹어야) — [[TRAP_dao_thong_tin]]. |
+| ③ | 카카오보다 초콜릿 형태로 먹는 것이 건강에 더 좋다 | Ăn dưới dạng sô-cô-la tốt cho sức khỏe hơn cacao | ❌ | Bài ghi 너무 단 초콜릿은 오히려 **건강을 해칠 수 있다** → không nói tốt hơn (bịa so sánh) — [[TRAP_khong_co_thong_tin]]. |
+| ④ | 초콜릿의 재료가 카카오라는 사실이 처음으로 알려졌다 | Sự thật nguyên liệu của sô-cô-la là cacao vừa lần đầu được biết | ❌ | Điều **새롭게 알려진** là 카카오가 건강에 도움 (không phải "chocolate làm từ cacao") → đảo trọng tâm thông tin — [[TRAP_dao_thong_tin]]. |
+
+### Chú giải chi tiết
+
+> 카카오가 건강에 도움이 된다는 사실이 새롭게 알려졌다.
+→ Sự thật rằng cacao có ích cho sức khỏe vừa được biết đến.
+- **Ngữ pháp:**
+  - N이/가 (chủ ngữ — 카카오가)
+  - N에 도움이 되다 (có ích cho — 건강에 도움이 된다)
+  - V-ㄴ/는다는 + N (định ngữ trích dẫn — 된다는 사실)
+  - N이/가 알려지다 (được biết đến — 사실이 알려졌다)
+  - 새롭게 (mới, một cách mới)
+- **Từ vựng:**
+  - 카카오 — cacao
+  - 건강 — sức khỏe
+  - 도움이 되다 — có ích
+  - 사실 — sự thật
+  - 새롭다 — mới
+  - 알려지다 — được biết đến
+
+> 카카오에 있는 단백질, 지방, 칼슘과 같은 영양 성분이 감기 예방, 집중력 향상 등에 효과가 있다는 것이다.
+→ Đó là các thành phần dinh dưỡng như protein, chất béo, canxi có trong cacao có hiệu quả trong việc phòng cảm, nâng cao tập trung, v.v.
+- **Ngữ pháp:**
+  - N에 있는 + N (định ngữ — 카카오에 있는 성분)
+  - N와/과 같은 + N (như là — 칼슘과 같은 영양 성분)
+  - N 등 (v.v. — 향상 등)
+  - N에 효과가 있다 (có hiệu quả trong — 예방·향상 등에 효과가 있다)
+  - -다는 것이다 (nghĩa là (giải thích) — 있다는 것이다)
+- **Từ vựng:**
+  - 단백질 — protein
+  - 지방 — chất béo
+  - 칼슘 — canxi
+  - 영양 성분 — thành phần dinh dưỡng
+  - 감기 — cảm cúm
+  - 예방 — phòng ngừa
+  - 집중력 — khả năng tập trung
+  - 향상 — nâng cao/cải thiện
+  - 효과 — hiệu quả
+
+> 그러나 카카오는 그 자체로 먹기가 어려워 일반적으로 초콜릿 형태로 먹는다.
+→ Nhưng cacao tự thân khó ăn nên thường được ăn dưới dạng sô-cô-la.
+- **Ngữ pháp:**
+  - 그러나 (nhưng)
+  - N 자체로 (tự thân — 그 자체로)
+  - V-기가 어렵다 (khó (làm) — 먹기가 어려워)
+  - V-아/어 (nên/nối — 어려워)
+  - N(으)로 (dưới dạng — 초콜릿 형태로)
+- **Từ vựng:**
+  - 자체 — bản thân/tự thân
+  - 어렵다 — khó
+  - 일반적으로 — nói chung/thường
+  - 초콜릿 — sô-cô-la
+  - 형태 — hình thái/dạng
+
+> 그런데 너무 단 초콜릿은 오히려 건강을 해칠 수 있어 많이 먹는 것은 피해야 한다.
+→ Thế nhưng sô-cô-la quá ngọt ngược lại có thể gây hại cho sức khỏe nên phải tránh ăn nhiều.
+- **Ngữ pháp:**
+  - 그런데 (thế nhưng)
+  - 너무 (quá)
+  - A-(으)ㄴ + N (định ngữ — 단 초콜릿)
+  - 오히려 (ngược lại)
+  - N을/를 해치다 (gây hại — 건강을 해칠)
+  - -을 수 있다 (có thể — 해칠 수 있어)
+  - V-는 것 (việc — 많이 먹는 것)
+  - V-아/어야 하다 (phải — 피해야 한다)
+- **Từ vựng:**
+  - 달다 — ngọt
+  - 오히려 — ngược lại
+  - 해치다 — làm hại
+  - 피하다 — tránh

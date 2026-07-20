@@ -419,3 +419,191 @@ tags: [korean/topik, exam]
   - 가방류 — nhóm túi xách
   - 늘다 — tăng
   - 줄다 — giảm
+
+---
+
+## Câu 11 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 최근 초록 콩나물을 찾는 주부들이 늘고 있다. 노란 콩나물은 보통 검은색 천으로 덮어 어두운 곳에서 기른다. 그러나 초록 콩나물은 천으로 가리지 않고 밝은 곳에서 자라게 한다. 햇빛을 받아 초록색으로 변한 콩나물은 노란 콩나물보다 영양가가 높다. 특히 초록 콩나물은 노란 콩나물보다 비타민이 많이 들어 있어서 피로 회복에 좋다.
+
+**Dịch:**
+> Gần đây số bà nội trợ tìm mua giá đỗ xanh đang tăng lên. Giá đỗ vàng thường được nuôi trồng ở nơi tối, phủ bằng vải màu đen. Nhưng giá đỗ xanh thì không che vải mà cho lớn ở nơi sáng. Giá đỗ nhận ánh nắng chuyển sang màu xanh có giá trị dinh dưỡng cao hơn giá đỗ vàng. Đặc biệt, giá đỗ xanh chứa nhiều vitamin hơn giá đỗ vàng nên tốt cho việc hồi phục mệt mỏi.
+
+**Chủ đề:** 음식건강 (thực phẩm & sức khỏe) → [[TOPIC_음식건강]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 노란 콩나물은 햇빛을 받고 자란다 | Giá đỗ vàng lớn lên nhờ nhận ánh nắng | ❌ | Bài ghi 노란 콩나물은 **어두운 곳**에서 기른다 → nuôi nơi tối (어두운 곳↔햇빛) — [[TRAP_dao_thong_tin]]. |
+| ② | 초록 콩나물은 검은색 천을 덮어서 키운다 | Giá đỗ xanh được phủ vải đen để nuôi | ❌ | Bài ghi 초록 콩나물은 **천으로 가리지 않고** 밝은 곳 → không che vải (안 덮음↔덮음) — [[TRAP_dao_thong_tin]]. |
+| ③ | 노란 콩나물은 초록 콩나물보다 피로 회복에 좋다 | Giá đỗ vàng tốt cho hồi phục mệt mỏi hơn giá đỗ xanh | ❌ | Bài ghi **초록** 콩나물이 비타민 nhiều → tốt cho hồi phục; đảo chiều so sánh (초록>노란 thành 노란>초록) — [[TRAP_dao_thong_tin]]. |
+| ④ | 초록 콩나물은 노란 콩나물에 비해 영양가가 많다 | Giá đỗ xanh có giá trị dinh dưỡng nhiều hơn so với giá đỗ vàng | ✅ | 초록색으로 변한 콩나물은 노란 콩나물보다 **영양가가 높다** → khớp. |
+
+### Chú giải chi tiết
+
+> 최근 초록 콩나물을 찾는 주부들이 늘고 있다.
+→ Gần đây số bà nội trợ tìm mua giá đỗ xanh đang tăng lên.
+- **Ngữ pháp:**
+  - N을/를 (tân ngữ — 콩나물을)
+  - V-는 + N (định ngữ — 찾는 주부들)
+  - V-고 있다 (đang — 늘고 있다)
+- **Từ vựng:**
+  - 최근 — gần đây
+  - 초록 — (màu) xanh lá
+  - 콩나물 — giá đỗ
+  - 찾다 — tìm/tìm mua
+  - 주부 — bà nội trợ
+  - 늘다 — tăng
+
+> 노란 콩나물은 보통 검은색 천으로 덮어 어두운 곳에서 기른다.
+→ Giá đỗ vàng thường được nuôi trồng ở nơi tối, phủ bằng vải màu đen.
+- **Ngữ pháp:**
+  - N은/는 (chủ đề — 콩나물은)
+  - 보통 (thường)
+  - N(으)로 (bằng — 천으로)
+  - V-아/어 (nối — 덮어)
+  - A-(으)ㄴ + N (định ngữ — 어두운 곳)
+  - N에서 (tại — 곳에서)
+- **Từ vựng:**
+  - 노란 — (màu) vàng
+  - 검은색 — màu đen
+  - 천 — vải
+  - 덮다 — phủ/đậy
+  - 어둡다 — tối
+  - 곳 — nơi
+  - 기르다 — nuôi trồng
+
+> 그러나 초록 콩나물은 천으로 가리지 않고 밝은 곳에서 자라게 한다.
+→ Nhưng giá đỗ xanh thì không che vải mà cho lớn ở nơi sáng.
+- **Ngữ pháp:**
+  - 그러나 (nhưng)
+  - N(으)로 (bằng — 천으로)
+  - V-지 않고 (không… mà — 가리지 않고)
+  - A-(으)ㄴ + N (định ngữ — 밝은 곳)
+  - V-게 하다 (cho/để cho — 자라게 한다)
+- **Từ vựng:**
+  - 가리다 — che/che phủ
+  - 밝다 — sáng
+  - 자라다 — lớn lên/mọc
+
+> 햇빛을 받아 초록색으로 변한 콩나물은 노란 콩나물보다 영양가가 높다.
+→ Giá đỗ nhận ánh nắng chuyển sang màu xanh có giá trị dinh dưỡng cao hơn giá đỗ vàng.
+- **Ngữ pháp:**
+  - N을/를 받다 (nhận — 햇빛을 받아)
+  - V-아/어 (do đó/nối — 받아)
+  - N(으)로 변하다 (chuyển sang — 초록색으로 변한)
+  - V-(으)ㄴ + N (định ngữ quá khứ — 변한 콩나물)
+  - N보다 (hơn — 노란 콩나물보다)
+  - N이/가 높다 (cao — 영양가가 높다)
+- **Từ vựng:**
+  - 햇빛 — ánh nắng
+  - 받다 — nhận
+  - 초록색 — màu xanh lá
+  - 변하다 — biến đổi/chuyển
+  - 영양가 — giá trị dinh dưỡng
+  - 높다 — cao
+
+> 특히 초록 콩나물은 노란 콩나물보다 비타민이 많이 들어 있어서 피로 회복에 좋다.
+→ Đặc biệt, giá đỗ xanh chứa nhiều vitamin hơn giá đỗ vàng nên tốt cho việc hồi phục mệt mỏi.
+- **Ngữ pháp:**
+  - 특히 (đặc biệt)
+  - N보다 (hơn — 노란 콩나물보다)
+  - 많이 (nhiều — trạng từ)
+  - [[GR_아어_있다]] (-아/어 있다: trạng thái tồn tại — 들어 있어서)
+  - V-아/어서 (nên — 있어서)
+  - N에 좋다 (tốt cho — 피로 회복에 좋다)
+- **Từ vựng:**
+  - 비타민 — vitamin
+  - 들어 있다 — có chứa (bên trong)
+  - 피로 — mệt mỏi
+  - 회복 — hồi phục
+
+---
+
+## Câu 12 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 손을 움직이는 것은 뇌와 관련이 있다. 그래서 손을 자주 움직이면 뇌 기능이 좋아질 수 있다. 특히 자주 사용하지 않는 손을 움직일 때 뇌가 더 효과적으로 자극될 수 있다. 평소에 오른손을 많이 쓴다면 왼손을, 왼손을 많이 쓴다면 오른손을 사용하는 것이다. 문을 열고 닫는 일처럼 간단한 일을 그렇게 하는 것만으로도 뇌 기능을 유지하는 데 도움이 된다.
+
+**Dịch:**
+> Việc cử động tay có liên quan đến não. Vì vậy nếu cử động tay thường xuyên thì chức năng não có thể tốt lên. Đặc biệt, khi cử động bàn tay ít khi dùng thì não có thể được kích thích hiệu quả hơn. Nghĩa là nếu thường ngày dùng tay phải nhiều thì hãy dùng tay trái, dùng tay trái nhiều thì hãy dùng tay phải. Chỉ cần làm những việc đơn giản như mở và đóng cửa theo cách đó cũng đã giúp duy trì chức năng não.
+
+**Chủ đề:** 건강관리 (quản lý sức khỏe) → [[TOPIC_건강관리]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 뇌 건강과 손을 움직이는 것은 서로 관계가 없다 | Sức khỏe não và việc cử động tay không liên quan gì nhau | ❌ | Bài ghi 손 움직임은 뇌와 **관련이 있다** → có liên quan (관련 있다↔없다) — [[TRAP_dao_thong_tin]]. |
+| ② | 우리 몸과 달리 뇌는 간단한 일로 자극받지 않는다 | Khác với cơ thể, não không bị kích thích bởi việc đơn giản | ❌ | Bài ghi 간단한 일만으로도 **뇌 자극**·기능 유지 → não vẫn được kích thích (자극받는다) — [[TRAP_dao_thong_tin]]. |
+| ③ | 뇌 활동을 위해 익숙한 방법으로 손을 쓰는 것이 더 좋다 | Vì hoạt động của não, dùng tay theo cách quen thuộc tốt hơn | ❌ | Bài ghi **자주 사용하지 않는 손**을 쓸 때 자극 hiệu quả → không phải cách quen (익숙한↔안 쓰던 손) — [[TRAP_dao_thong_tin]]. |
+| ④ | 자주 사용하지 않던 손을 사용하면 뇌 움직임이 활발해진다 | Nếu dùng bàn tay ít khi dùng thì hoạt động của não trở nên sôi nổi | ✅ | 자주 사용하지 않는 손을 움직일 때 **뇌가 더 효과적으로 자극** → khớp. |
+
+### Chú giải chi tiết
+
+> 손을 움직이는 것은 뇌와 관련이 있다.
+→ Việc cử động tay có liên quan đến não.
+- **Ngữ pháp:**
+  - N을/를 (tân ngữ — 손을)
+  - V-는 것 (việc — 움직이는 것)
+  - N와/과 관련이 있다 (có liên quan với — 뇌와 관련이 있다)
+- **Từ vựng:**
+  - 손 — tay
+  - 움직이다 — cử động
+  - 뇌 — não
+  - 관련 — liên quan
+
+> 그래서 손을 자주 움직이면 뇌 기능이 좋아질 수 있다.
+→ Vì vậy nếu cử động tay thường xuyên thì chức năng não có thể tốt lên.
+- **Ngữ pháp:**
+  - 그래서 (vì vậy)
+  - 자주 (thường xuyên)
+  - V-(으)면 (nếu — 움직이면)
+  - A-아/어지다 (trở nên — 좋아지다)
+  - -을 수 있다 (có thể — 좋아질 수 있다)
+- **Từ vựng:**
+  - 기능 — chức năng
+  - 좋아지다 — tốt lên
+
+> 특히 자주 사용하지 않는 손을 움직일 때 뇌가 더 효과적으로 자극될 수 있다.
+→ Đặc biệt, khi cử động bàn tay ít khi dùng thì não có thể được kích thích hiệu quả hơn.
+- **Ngữ pháp:**
+  - 특히 (đặc biệt)
+  - V-지 않는 + N (định ngữ phủ định — 사용하지 않는 손)
+  - V-을 때 (khi — 움직일 때)
+  - 더 (hơn)
+  - N(으)로 (một cách — 효과적으로)
+  - V-될 수 있다 (có thể được — 자극될 수 있다)
+- **Từ vựng:**
+  - 사용하다 — sử dụng
+  - 효과적 — hiệu quả
+  - 자극되다 — được kích thích
+
+> 평소에 오른손을 많이 쓴다면 왼손을, 왼손을 많이 쓴다면 오른손을 사용하는 것이다.
+→ Nghĩa là nếu thường ngày dùng tay phải nhiều thì hãy dùng tay trái, dùng tay trái nhiều thì dùng tay phải.
+- **Ngữ pháp:**
+  - N에 (thời điểm — 평소에)
+  - V-ㄴ/는다면 (nếu (giả định) — 쓴다면)
+  - -는 것이다 (chính là (giải thích) — 사용하는 것이다)
+- **Từ vựng:**
+  - 평소 — thường ngày
+  - 오른손 — tay phải
+  - 왼손 — tay trái
+  - 쓰다 — dùng
+
+> 문을 열고 닫는 일처럼 간단한 일을 그렇게 하는 것만으로도 뇌 기능을 유지하는 데 도움이 된다.
+→ Chỉ cần làm những việc đơn giản như mở và đóng cửa theo cách đó cũng đã giúp duy trì chức năng não.
+- **Ngữ pháp:**
+  - N을/를 (tân ngữ — 문을)
+  - V-고 (và — 열고)
+  - V-는 + N (định ngữ — 닫는 일)
+  - N처럼 (như — 일처럼)
+  - A-(으)ㄴ + N (định ngữ — 간단한 일)
+  - V-는 것만으로도 (chỉ với việc… cũng — 하는 것만으로도)
+  - V-는 데 도움이 되다 (giúp ích cho việc — 유지하는 데 도움이 된다)
+- **Từ vựng:**
+  - 문 — cửa
+  - 열다 — mở
+  - 닫다 — đóng
+  - 일 — việc
+  - 간단하다 — đơn giản
+  - 유지하다 — duy trì
+  - 도움이 되다 — có ích/giúp ích

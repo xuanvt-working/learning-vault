@@ -401,3 +401,173 @@ tags: [korean/topik, exam]
     - 개인 — cá nhân
     - 발전 — phát triển
     - 기타 — khác
+
+---
+
+## Câu 11 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 지난 13일 인주경찰서에 편지 한 통이 배달되었다. 편지를 보낸 사람은 지난달 인주시를 방문했다가 지갑을 잃어버린 외국인 관광객 장 모 씨였다. 장 씨는 말이 통하지 않아 지갑을 찾는 데 어려움을 겪었다. 그때 한 경찰이 사전과 몸짓을 이용해 장 씨와 이야기하며 잃어버린 지갑을 찾는 데 도움을 주었다. 이에 장 씨가 고마움을 담은 감사 편지를 보낸 것이다.
+
+**Dịch:**
+> Ngày 13 vừa qua, một lá thư được chuyển đến Sở cảnh sát Inju. Người gửi thư là ông Jang, khách du lịch nước ngoài, tháng trước đến thăm thành phố Inju rồi làm mất ví. Ông Jang vì bất đồng ngôn ngữ nên gặp khó khăn trong việc tìm ví. Lúc đó, một cảnh sát đã dùng từ điển và cử chỉ để trò chuyện với ông Jang và giúp tìm lại chiếc ví bị mất. Vì thế ông Jang đã gửi lá thư cảm ơn chứa đựng lòng biết ơn.
+
+**Chủ đề:** 나눔봉사 (sẻ chia & lòng tốt / nghĩa cử đẹp) → [[TOPIC_나눔봉사]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 관광객이 경찰에게 감사하는 마음을 표현했다 | Khách du lịch bày tỏ lòng biết ơn với cảnh sát | ✅ | 장 씨가 고마움을 담은 **감사 편지**를 보낸 것 → khớp. |
+| ② | 관광객이 잃어버린 지갑을 찾지 못하고 돌아갔다 | Khách làm mất ví và ra về mà không tìm được | ❌ | Bài ghi 경찰이 잃어버린 지갑을 **찾는 데 도움** → đã tìm được (찾음↔못 찾음) — [[TRAP_dao_thong_tin]]. |
+| ③ | 경찰이 지갑을 잃어버린 관광객에게 편지를 썼다 | Cảnh sát viết thư cho khách bị mất ví | ❌ | Bài ghi **장 씨(관광객)가** 감사 편지를 보냄 → đảo chủ thể người gửi — [[TRAP_dao_thong_tin]]. |
+| ④ | 경찰이 관광객의 말을 이해하지 못해 도와줄 수 없었다 | Cảnh sát không hiểu lời khách nên không thể giúp | ❌ | Bài ghi 사전과 몸짓을 이용해 **도움을 주었다** → vẫn giúp được (도움 줌↔못 줌) — [[TRAP_dao_thong_tin]]. |
+
+### Chú giải chi tiết
+
+> 지난 13일 인주경찰서에 편지 한 통이 배달되었다.
+→ Ngày 13 vừa qua, một lá thư được chuyển đến Sở cảnh sát Inju.
+- **Ngữ pháp:**
+  - 지난 + N (… vừa qua — 지난 13일)
+  - N에 (đến — 경찰서에)
+  - N 한 통 (một lá (thư) — 편지 한 통)
+  - V-되었다 (bị động quá khứ — 배달되었다)
+- **Từ vựng:**
+  - 지난 — vừa qua
+  - 경찰서 — sở/đồn cảnh sát
+  - 편지 — thư
+  - 통 — (đơn vị đếm thư)
+  - 배달되다 — được chuyển/giao
+
+> 편지를 보낸 사람은 지난달 인주시를 방문했다가 지갑을 잃어버린 외국인 관광객 장 모 씨였다.
+→ Người gửi thư là ông Jang, khách du lịch nước ngoài, tháng trước đến thăm thành phố Inju rồi làm mất ví.
+- **Ngữ pháp:**
+  - V-(으)ㄴ + N (định ngữ quá khứ — 보낸 사람)
+  - V-았/었다가 (làm… rồi (chuyển tình huống) — 방문했다가)
+  - V-(으)ㄴ + N (định ngữ — 잃어버린 관광객)
+  - N였다 (là — 씨였다)
+- **Từ vựng:**
+  - 보내다 — gửi
+  - 지난달 — tháng trước
+  - 방문하다 — thăm/viếng
+  - 지갑 — ví
+  - 잃어버리다 — đánh mất
+  - 관광객 — khách du lịch
+  - 모 씨 — ông/bà X (họ + 모)
+
+> 장 씨는 말이 통하지 않아 지갑을 찾는 데 어려움을 겪었다.
+→ Ông Jang vì bất đồng ngôn ngữ nên gặp khó khăn trong việc tìm ví.
+- **Ngữ pháp:**
+  - N이/가 통하다 (thông/giao tiếp được — 말이 통하지 않아)
+  - V-지 않다 (không — 통하지 않아)
+  - V-아/어 (nên/nối — 않아)
+  - V-는 데 (trong việc — 찾는 데)
+  - N을/를 겪다 (trải qua/gặp — 어려움을 겪었다)
+- **Từ vựng:**
+  - 말이 통하다 — giao tiếp được (ngôn ngữ) · [[VC_말이_통하다]]
+  - 찾다 — tìm
+  - 어려움 — khó khăn
+  - 겪다 — trải qua/gặp phải
+
+> 그때 한 경찰이 사전과 몸짓을 이용해 장 씨와 이야기하며 잃어버린 지갑을 찾는 데 도움을 주었다.
+→ Lúc đó, một cảnh sát đã dùng từ điển và cử chỉ để trò chuyện với ông Jang và giúp tìm lại chiếc ví bị mất.
+- **Ngữ pháp:**
+  - 그때 (lúc đó)
+  - N을/를 이용하다 (sử dụng — 사전과 몸짓을 이용해)
+  - N와/과 (với — 장 씨와)
+  - [[GR_으며]] (-(으)며: và song song — 이야기하며)
+  - V-는 데 도움을 주다 (giúp cho việc — 찾는 데 도움을 주었다)
+- **Từ vựng:**
+  - 경찰 — cảnh sát
+  - 사전 — từ điển
+  - 몸짓 — cử chỉ
+  - 이용하다 — sử dụng
+  - 이야기하다 — nói chuyện
+  - 도움을 주다 — giúp đỡ
+
+> 이에 장 씨가 고마움을 담은 감사 편지를 보낸 것이다.
+→ Vì thế ông Jang đã gửi lá thư cảm ơn chứa đựng lòng biết ơn.
+- **Ngữ pháp:**
+  - 이에 (vì thế/nhân đó)
+  - V-(으)ㄴ + N (định ngữ — 고마움을 담은 편지)
+  - -(으)ㄴ 것이다 (chính là đã… (giải thích) — 보낸 것이다)
+- **Từ vựng:**
+  - 고마움 — lòng biết ơn
+  - 담다 — chứa đựng/gói ghém
+  - 감사 — cảm ơn
+
+---
+
+## Câu 12 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 최근 공연을 혼자 보는 사람들이 많아졌다. 친구나 연인이 함께 보는 장르로 생각했던 뮤지컬, 연극 등도 혼자 보는 사람들이 늘어난 것이다. 한 조사 결과에 따르면 열 명 중 네 명이 혼자 공연을 관람하는 것으로 나타났다. 혼자 공연을 보는 사람들은 함께 간 사람에게 신경을 쓰지 않고 공연에만 집중할 수 있어서 좋다고 말한다.
+
+**Dịch:**
+> Gần đây số người xem biểu diễn một mình tăng lên. Ngay cả nhạc kịch, kịch nói… vốn được coi là thể loại xem cùng bạn bè hay người yêu, giờ cũng có nhiều người xem một mình hơn. Theo một kết quả khảo sát, cứ mười người thì có bốn người xem biểu diễn một mình. Những người xem một mình nói rằng thích vì không phải bận tâm đến người đi cùng mà chỉ tập trung vào buổi diễn.
+
+**Chủ đề:** 공연문화 (văn hóa biểu diễn / công diễn) → [[TOPIC_공연문화]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 사람들은 연극과 뮤지컬을 혼자 보는 장르로 생각한다 | Người ta coi kịch và nhạc kịch là thể loại xem một mình | ❌ | Bài ghi 친구나 연인이 **함께 보는 장르**로 생각했던 → vốn coi là xem cùng nhau (함께↔혼자) — [[TRAP_dao_thong_tin]]. |
+| ② | 혼자 공연을 보면 공연에 집중할 수 있다는 장점이 있다 | Xem biểu diễn một mình có ưu điểm là tập trung được vào buổi diễn | ✅ | 공연에만 **집중할 수 있어서 좋다** → khớp. |
+| ③ | 사람들은 공연을 볼 때 다른 사람에게 신경을 쓰지 않는다 | Người ta khi xem biểu diễn không bận tâm đến người khác | ❌ | Bài chỉ nói **혼자 보는 사람들**이 신경 안 씀, không phải mọi người → tổng quát hóa quá mức — [[TRAP_noi_qua]]. |
+| ④ | 조사 결과에 따르면 공연을 혼자 보는 사람들이 줄고 있다 | Theo khảo sát, người xem biểu diễn một mình đang giảm | ❌ | Bài ghi 혼자 보는 사람들이 **많아졌다/늘어난** → đang tăng (많아졌↔줄고) — [[TRAP_dao_thong_tin]]. |
+
+### Chú giải chi tiết
+
+> 최근 공연을 혼자 보는 사람들이 많아졌다.
+→ Gần đây số người xem biểu diễn một mình tăng lên.
+- **Ngữ pháp:**
+  - N을/를 (tân ngữ — 공연을)
+  - 혼자 (một mình)
+  - V-는 + N (định ngữ — 보는 사람들)
+  - A-아/어지다 (trở nên — 많아졌다)
+- **Từ vựng:**
+  - 최근 — gần đây
+  - 공연 — buổi biểu diễn
+  - 혼자 — một mình
+  - 많아지다 — trở nên nhiều/tăng
+
+> 친구나 연인이 함께 보는 장르로 생각했던 뮤지컬, 연극 등도 혼자 보는 사람들이 늘어난 것이다.
+→ Ngay cả nhạc kịch, kịch nói… vốn được coi là thể loại xem cùng bạn bè hay người yêu, giờ cũng có nhiều người xem một mình hơn.
+- **Ngữ pháp:**
+  - N(이)나 (hay/hoặc — 친구나 연인)
+  - N(으)로 생각하다 (coi là — 장르로 생각했던)
+  - V-았/었던 + N (định ngữ hồi tưởng — 생각했던 뮤지컬)
+  - N도 (cũng — 등도)
+  - -(으)ㄴ 것이다 (chính là (giải thích) — 늘어난 것이다)
+- **Từ vựng:**
+  - 친구 — bạn
+  - 연인 — người yêu
+  - 함께 — cùng nhau
+  - 장르 — thể loại
+  - 뮤지컬 — nhạc kịch
+  - 연극 — kịch nói
+  - 늘어나다 — tăng lên
+
+> 한 조사 결과에 따르면 열 명 중 네 명이 혼자 공연을 관람하는 것으로 나타났다.
+→ Theo một kết quả khảo sát, cứ mười người thì có bốn người xem biểu diễn một mình.
+- **Ngữ pháp:**
+  - N에 따르면 (theo — 결과에 따르면)
+  - N 중 (trong số — 열 명 중)
+  - V-는 것으로 나타나다 (kết quả cho thấy — 관람하는 것으로 나타났다)
+- **Từ vựng:**
+  - 조사 결과 — kết quả khảo sát
+  - 명 — người (đơn vị đếm)
+  - 관람하다 — xem/thưởng lãm
+  - 나타나다 — xuất hiện/cho thấy
+
+> 혼자 공연을 보는 사람들은 함께 간 사람에게 신경을 쓰지 않고 공연에만 집중할 수 있어서 좋다고 말한다.
+→ Những người xem một mình nói rằng thích vì không phải bận tâm đến người đi cùng mà chỉ tập trung vào buổi diễn.
+- **Ngữ pháp:**
+  - V-는 + N (định ngữ — 보는 사람들)
+  - V-(으)ㄴ + N (định ngữ quá khứ — 함께 간 사람)
+  - N에게 (đến/với — 사람에게)
+  - N을/를 쓰지 않고 (không… mà — 신경을 쓰지 않고)
+  - N에만 (chỉ vào — 공연에만)
+  - -을 수 있어서 (vì có thể — 집중할 수 있어서)
+  - A-다고 말하다 (nói rằng — 좋다고 말한다)
+- **Từ vựng:**
+  - 신경을 쓰다 — bận tâm/để ý · [[VC_신경을_쓰다]]
+  - 집중하다 — tập trung
+  - 좋다 — thích/tốt

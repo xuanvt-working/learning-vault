@@ -7,7 +7,7 @@ category: 화제
 members: [추억극장, 문화공간, 영화관람]
 history:
   - {exam: TOPIK_35, q: 11, role: correct, reason: "문화공간 — 70~80년대 추억극장(옛날 영화 관람·포스터 전시) 새로 개관"}
-correct_count: 0
+correct_count: 1
 distractor_count: 0
 select_signal: "Đoạn văn giới thiệu một không gian/cơ sở văn hóa-giải trí (극장/문화 공간/전시장): nơi 새로 문을 열다 + 관람/전시/체험 nội dung hoài niệm hoặc văn hóa."
 kill_signal: "Không phải khi đoạn văn bàn về hiện tượng tâm lý/xã hội hay sản phẩm cá nhân — không có địa điểm/cơ sở văn hóa cụ thể."

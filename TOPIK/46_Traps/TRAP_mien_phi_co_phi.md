@@ -5,7 +5,7 @@ trap_id: TRAP_mien_phi_co_phi
 trap_name: "Miễn phí vs có phí (무료 ↔ 유료/돈 내야/사 먹다)"
 scope: cả-hai
 category: miễn-phí
-members: [무료, 유료, 돈을 내야, 사 먹다, 관람료, 참가비, 할인, 입장료]
+members: [무료, 유료, 돈을 내야, 사 먹다, 돈을 벌기, 관람료, 참가비, 할인, 입장료]
 history:
   - {exam: TOPIK_35, q: 9, role: distractor, reason: "③ 놀이 시설 이용료가 할인된다 (thực 특별권 구입 시 놀이 시설 무료 이용 — miễn phí, không phải giảm)"}
   - {exam: TOPIK_35, q: 11, role: distractor, reason: "③ 입장료가 없기 때문에 인기가 많다 (thực 입장료 2,000원 — có phí; văn xuôi)"}
@@ -13,11 +13,12 @@ history:
   - {exam: TOPIK_37, q: 9, role: distractor, reason: "④ 영월에 사는 사람들은 이만 원을 내야 한다 (thực 영월 군민은 무료)"}
   - {exam: TOPIK_47, q: 9, role: distractor, reason: "④ 축제에서 전통 요리를 사 먹을 수 있다 (thực 무료 시식)"}
   - {exam: TOPIK_64, q: 9, role: distractor, reason: "③ 이 대회에 참가하려면 돈을 내야 한다 (thực 참가비 무료)"}
+  - {exam: TOPIK_60, q: 12, role: distractor, reason: "③ 돈을 벌기 위해서 열었다 (thực 택배·청소원 위한 무료 카페; văn xuôi)"}
 correct_count: 1
-distractor_count: 5
+distractor_count: 6
 kill_signal: "Phương án khẳng định phải TRẢ tiền (돈 내야/유료/사 먹다) khi bài ghi 무료/무료 시식/무료 조건 — hoặc ngược lại (nói 없다/무료 khi thực có phí, vd 입장료 2,000원). Đối chiếu mục 참가비/관람료/입장료/무료."
 select_signal: "Đúng khi điều kiện phí trong phương án khớp bài (vd điều kiện X → 무료 입장; miễn phí cho nhóm cụ thể)."
-source: [RA:35-Q9, RA:35-Q11, RA:36-Q9, RA:37-Q9, RA:47-Q9, RA:64-Q9]
+source: [RA:35-Q9, RA:35-Q11, RA:36-Q9, RA:37-Q9, RA:47-Q9, RA:64-Q9, RA:60-Q12-dis]
 status: draft
 tags: [korean/topik, reading/trap]
 created: 2026-07-13
@@ -47,7 +48,8 @@ created: 2026-07-13
 | TOPIK_37 | 9 | ❌ nhiễu | ④ 영월에 사는 사람들은 이만 원을 내야 한다 (thực 영월 군민은 무료) | [RA:37-Q9-dis] |
 | TOPIK_47 | 9 | ❌ nhiễu | ④ 축제에서 전통 요리를 사 먹을 수 있다 (thực 무료 시식) | [RA:47-Q9-dis] |
 | TOPIK_64 | 9 | ❌ nhiễu | ③ 이 대회에 참가하려면 돈을 내야 한다 (thực 참가비 무료) | [RA:64-Q9-dis] |
+| TOPIK_60 | 12 | ❌ nhiễu | ③ 돈을 벌기 위해서 열었다 (thực 무료 카페; văn xuôi) | [RA:60-Q12-dis] |
 <!-- sync:appearances:end -->
 
 ## Liên kết
-[[TOPIK_35]] · [[TOPIK_36]] · [[TOPIK_37]] · [[TOPIK_47]] · [[TOPIK_64]]
+[[TOPIK_35]] · [[TOPIK_36]] · [[TOPIK_37]] · [[TOPIK_47]] · [[TOPIK_60]] · [[TOPIK_64]]

@@ -93,7 +93,10 @@ Kèm danh sách `⚠️ Unverified` cần người dùng xác nhận.
 ## Phase 5 — Write
 
 - Ghi theo diff đã duyệt. Mọi note mới: `status: draft` (Q2). `role_ratio`, `distractor_count`, `correct_count` để trống — vault-sync tính.
-- Ghi xong → tự chạy vault-sync → báo cáo: số file tạo/sửa, note draft chờ verify, PAIR chuyển open→closed.
+- Ghi xong → báo cáo phần đã ghi: số file tạo/sửa, note draft chờ verify, PAIR chuyển open→closed.
+- **⛔ Hỏi xác nhận trước khi sync (DỪNG BẮT BUỘC):** hỏi người dùng có muốn chạy vault-sync ngay không (để tái sinh dashboard + tính counts + five-check). KHÔNG tự chạy.
+  - **Đồng ý** → chạy vault-sync → báo cáo kết quả sync.
+  - **Không / bỏ qua** → KHÔNG chạy vault-sync; nhắc người dùng dashboard/counts chưa cập nhật và có thể chạy `sync vault` sau.
 
 ## Lưu ý chất lượng
 
