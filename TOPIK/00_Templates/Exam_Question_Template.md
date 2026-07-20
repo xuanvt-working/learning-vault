@@ -135,3 +135,46 @@ tags: [korean/topik, exam]
 
 ---
 (lặp block trên cho câu 9 poster, câu 10 đồ thị & câu 11-12 đoạn văn dài)
+
+## Câu {{m}} — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+<!-- "다음을 순서대로 맞게 배열한 것을 고르십시오" (ĐỌC câu 13~15) — 4 mảnh câu (가)(나)(다)(라),
+     4 phương án là HOÁN VỊ thứ tự. Sinh MỘT layer sequence-note (theo kỹ thuật nối câu, ngưỡng ≥2×);
+     KHÔNG sinh GR/PAIR/GROUP/DIS/TOPIC/TRAP (VC vẫn tạo khi có cụm lexical-hóa).
+     Đáp án đúng nhận ra qua Vai ✅ (KHÔNG cite [RA:] trong exam). Cue có note → link [[SEQ_*]] cột Căn cứ; cue 1× mô tả inline. -->
+
+**문제:**
+> (가) {{mảnh 가 nguyên văn Hangul}}
+> (나) {{mảnh 나}}
+> (다) {{mảnh 다}}
+> (라) {{mảnh 라}}
+
+**Dịch:**
+> (가) {{dịch mảnh 가}}
+> (나) {{dịch mảnh 나}}
+> (다) {{dịch mảnh 다}}
+> (라) {{dịch mảnh 라}}
+
+**Trình tự đúng:** ({{X}})→({{Y}})→({{Z}})→({{W}})
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | ({{다}})-({{나}})-({{라}})-({{가}}) | ✅ | {{chuỗi móc nối: mảnh mở đầu + cue nối từng bước}} — [[SEQ_...]] |
+| ② | {{...}} | ❌ | {{vi phạm cue nào — vd đặt mảnh chứa 지시어 lên đầu}} — [[SEQ_...]] |
+| ③ | {{...}} | ❌ | {{...}} |
+| ④ | {{...}} | ❌ | {{...}} |
+
+### Chú giải chi tiết
+
+> (가) {{mảnh 가 Hangul}}
+→ {{dịch mảnh 가}}
+- **Ngữ pháp:**
+  - {{pattern nền — giải thích}} · [[GR_...]]   <!-- link chỉ khi note tồn tại; KHÔNG appearances / KHÔNG tạo GR mới -->
+- **Từ vựng:**
+  - {{từ — nghĩa}}
+  - {{cụm lexical-hóa — nghĩa}} · [[VC_...]]
+
+<!-- lặp > (나)/(다)/(라) như trên, mỗi mảnh: dòng Hàn → dịch → Ngữ pháp / Từ vựng -->
+
+---
+(lặp block trên cho từng câu sắp-xếp-thứ-tự, câu 13~15)

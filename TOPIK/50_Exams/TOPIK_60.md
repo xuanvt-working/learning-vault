@@ -589,3 +589,245 @@ tags: [korean/topik, exam]
   - 간식 — đồ ăn nhẹ
   - 제공하다 — cung cấp
   - 도움을 주다 — giúp đỡ
+
+---
+
+## Câu 13 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 환경 보호를 위해 포장 없이 내용물만 판매하는 가게가 있다.
+> (나) 사람들이 용기에 든 물품을 사려면 빈 통을 준비해 가야 한다.
+> (다) 빈 통이 없는 사람들에게는 가게에서 통을 대여해 주기도 한다.
+> (라) 이 가게에서는 밀가루나 샴푸 등을 커다란 용기에 담아 놓고 판매한다.
+
+**Dịch:**
+> (가) Vì bảo vệ môi trường, có cửa hàng bán không bao bì, chỉ bán phần nội dung (hàng).
+> (나) Người muốn mua hàng đựng trong hộp thì phải chuẩn bị mang thùng rỗng đi.
+> (다) Với những người không có thùng rỗng, cửa hàng còn cho thuê thùng.
+> (라) Ở cửa hàng này, bột mì hay dầu gội… được đựng trong hộp lớn để bán.
+
+**Trình tự đúng:** (가)→(라)→(나)→(다)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(나)-(라)-(다) | ❌ | 라 "이 가게" (hồi chiếu) phải ngay sau 가 (giới thiệu cửa hàng); chèn 나 vào giữa làm 이 가게 xa tiền ngữ. |
+| ② | (가)-(라)-(나)-(다) | ✅ | 가 mở đầu giới thiệu cửa hàng (không 지시어) [[SEQ_cau_mo_dau]] → 라 "이 가게" hồi chiếu, mô tả cách bán [[SEQ_hoi_chieu]] → 나 điều kiện: phải mang thùng rỗng → 다 bổ sung: người không có thì được thuê. |
+| ③ | (가)-(라)-(다)-(나) | ❌ | 다 "빈 통이 없는 사람" cần 나 (chuẩn bị thùng rỗng) làm tiền đề — đảo 다/나 là gãy. |
+| ④ | (라)-(나)-(다)-(가) | ❌ | mở bằng 라 "이 가게" — 지시어 이 cần tiền ngữ (가게 chưa giới thiệu). |
+
+### Chú giải chi tiết
+
+> (가) 환경 보호를 위해 포장 없이 내용물만 판매하는 가게가 있다.
+→ Vì bảo vệ môi trường, có cửa hàng bán không bao bì, chỉ bán phần nội dung (hàng).
+- **Ngữ pháp:**
+  - N을/를 위해 (vì/để — 보호를 위해) · [[GR_기_위해]]
+  - N 없이 (không có — 포장 없이)
+  - N만 (chỉ — 내용물만)
+  - V-는 + N (định ngữ — 판매하는 가게)
+- **Từ vựng:**
+  - 환경 보호 — bảo vệ môi trường
+  - 포장 — bao bì
+  - 내용물 — phần nội dung/hàng bên trong
+  - 판매하다 — bán
+  - 가게 — cửa hàng
+
+> (라) 이 가게에서는 밀가루나 샴푸 등을 커다란 용기에 담아 놓고 판매한다.
+→ Ở cửa hàng này, bột mì hay dầu gội… được đựng trong hộp lớn để bán.
+- **Ngữ pháp:**
+  - 이 + N (chỉ định hồi chiếu — 이 가게)
+  - N(이)나 (hay — 밀가루나 샴푸)
+  - N 등 (v.v. — 샴푸 등)
+  - V-아/어 놓다 (để sẵn — 담아 놓고)
+- **Từ vựng:**
+  - 밀가루 — bột mì
+  - 샴푸 — dầu gội
+  - 커다랗다 — to lớn
+  - 용기 — hộp/thùng chứa
+  - 담다 — đựng
+
+> (나) 사람들이 용기에 든 물품을 사려면 빈 통을 준비해 가야 한다.
+→ Người muốn mua hàng đựng trong hộp thì phải chuẩn bị mang thùng rỗng đi.
+- **Ngữ pháp:**
+  - N에 들다 + ㄴ + N (định ngữ — 용기에 든 물품)
+  - V-(으)려면 (nếu muốn… thì — 사려면) · [[GR_으려면]]
+  - V-아/어 가다 (mang đi — 준비해 가야) · [[GR_아어_가다]]
+  - V-아/어야 하다 (phải — 가야 한다) · [[GR_아어야_하다]]
+- **Từ vựng:**
+  - 물품 — hàng hóa/vật phẩm
+  - 사다 — mua
+  - 빈 통 — thùng rỗng
+  - 준비하다 — chuẩn bị
+
+> (다) 빈 통이 없는 사람들에게는 가게에서 통을 대여해 주기도 한다.
+→ Với những người không có thùng rỗng, cửa hàng còn cho thuê thùng.
+- **Ngữ pháp:**
+  - A-(으)ㄴ + N (định ngữ — 없는 사람들)
+  - N에게는 (với/cho — 사람들에게는)
+  - V-아/어 주다 (làm cho — 대여해 주기도)
+  - V-기도 하다 (còn/cũng (làm) — 주기도 한다) · [[GR_기도_하다]]
+- **Từ vựng:**
+  - 없다 — không có
+  - 대여하다 — cho thuê/mượn
+
+---
+
+## Câu 14 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 요금을 내려고 보니 가방 어디에서도 지갑을 찾을 수 없었다.
+> (나) 감사의 인사를 전하는 나에게 아주머니는 환하게 웃어 주었다.
+> (다) 회사에 지각할 것 같아서 막 출발하려는 버스를 뛰어가서 탔다.
+> (라) 그냥 내리려는데 뒤에 서 있던 아주머니가 대신 요금을 내 주셨다.
+
+**Dịch:**
+> (가) Định trả tiền thì không tìm thấy ví đâu trong túi.
+> (나) Bà cô cười tươi với tôi khi tôi ngỏ lời cảm ơn.
+> (다) Sợ trễ làm nên tôi chạy lên chiếc xe buýt vừa định khởi hành.
+> (라) Định cứ thế xuống xe thì bà cô đứng phía sau đã trả tiền giúp.
+
+**Trình tự đúng:** (다)→(가)→(라)→(나)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(다)-(나)-(라) | ❌ | mở bằng 가 (định trả tiền không thấy ví) khi chưa lên xe (다) làm bối cảnh. |
+| ② | (가)-(다)-(라)-(나) | ❌ | 가 mở sai như trên. |
+| ③ | (다)-(가)-(라)-(나) | ✅ | 다 mở đầu (chạy lên xe buýt, không 지시어) [[SEQ_cau_mo_dau]] → 가 định trả tiền, mất ví → 라 định xuống thì bà cô trả giúp → 나 kết: tôi cảm ơn, bà cười. |
+| ④ | (다)-(나)-(라)-(가) | ❌ | 나 (bà cười khi tôi cảm ơn) là kết, phải sau 라 (bà trả giúp); đặt lên trước là gãy mạch. |
+
+### Chú giải chi tiết
+
+> (다) 회사에 지각할 것 같아서 막 출발하려는 버스를 뛰어가서 탔다.
+→ Sợ trễ làm nên tôi chạy lên chiếc xe buýt vừa định khởi hành.
+- **Ngữ pháp:**
+  - V-을 것 같다 (có vẻ sẽ — 지각할 것 같아서)
+  - V-아/어서 (nên — 같아서)
+  - 막 (vừa mới)
+  - V-(으)려는 + N (định ngữ ý định — 출발하려는 버스)
+  - V-아/어서 (rồi — 뛰어가서)
+- **Từ vựng:**
+  - 회사 — công ty
+  - 지각하다 — đi trễ
+  - 출발하다 — khởi hành
+  - 뛰어가다 — chạy đến
+  - 타다 — lên (xe)
+
+> (가) 요금을 내려고 보니 가방 어디에서도 지갑을 찾을 수 없었다.
+→ Định trả tiền thì không tìm thấy ví đâu trong túi.
+- **Ngữ pháp:**
+  - V-(으)려고 (định — 내려고) · [[GR_으려고]]
+  - V-다 보니 (làm thì mới thấy — 보니)
+  - N에서도 (ở đâu cũng — 어디에서도)
+  - -을 수 없다 (không thể — 찾을 수 없었다)
+- **Từ vựng:**
+  - 요금 — cước phí
+  - 내다 — trả/nộp
+  - 가방 — túi xách
+  - 지갑 — ví
+  - 찾다 — tìm
+
+> (라) 그냥 내리려는데 뒤에 서 있던 아주머니가 대신 요금을 내 주셨다.
+→ Định cứ thế xuống xe thì bà cô đứng phía sau đã trả tiền giúp.
+- **Ngữ pháp:**
+  - 그냥 (cứ thế)
+  - V-(으)려는데 (định… thì — 내리려는데)
+  - V-아/어 있던 + N (định ngữ trạng thái quá khứ — 서 있던 아주머니) · [[GR_아어_있다]]
+  - N 대신 (thay — 대신)
+  - V-아/어 주시다 (làm giúp (kính ngữ) — 내 주셨다)
+- **Từ vựng:**
+  - 내리다 — xuống (xe)
+  - 뒤 — phía sau
+  - 서다 — đứng
+  - 아주머니 — bà cô/cô
+
+> (나) 감사의 인사를 전하는 나에게 아주머니는 환하게 웃어 주었다.
+→ Bà cô cười tươi với tôi khi tôi ngỏ lời cảm ơn.
+- **Ngữ pháp:**
+  - N의 (của — 감사의 인사)
+  - V-는 + N (định ngữ — 전하는 나)
+  - N에게 (với — 나에게)
+  - A-게 (một cách — 환하게)
+  - V-아/어 주다 (làm cho — 웃어 주었다)
+- **Từ vựng:**
+  - 감사 — sự cảm ơn
+  - 인사를 전하다 — gửi/ngỏ lời chào (cảm ơn)
+  - 환하다 — tươi sáng
+  - 웃다 — cười
+
+---
+
+## Câu 15 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 쉬어도 떨림이 계속된다면 마그네슘이 부족해서일 수도 있다.
+> (나) 눈 밑 떨림의 주된 원인은 피로이므로 푹 쉬면 증상은 완화된다.
+> (다) 이런 사람들은 마그네슘이 풍부한 견과류나 바나나를 먹으면 좋다.
+> (라) 누구나 한 번쯤은 눈 밑이 떨리는 경험을 해 본 적이 있을 것이다.
+
+**Dịch:**
+> (가) Nếu đã nghỉ mà vẫn cứ giật thì cũng có thể là do thiếu magie.
+> (나) Nguyên nhân chính của giật mí mắt dưới là mệt mỏi, nên nghỉ ngơi thật kỹ thì triệu chứng sẽ dịu đi.
+> (다) Những người như vậy nếu ăn các loại hạt hay chuối giàu magie thì tốt.
+> (라) Ai cũng từng ít nhất một lần trải nghiệm bị giật mí mắt dưới.
+
+**Trình tự đúng:** (라)→(나)→(가)→(다)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (나)-(다)-(라)-(가) | ❌ | 다 "이런 사람들" cần 가 (nhóm vẫn giật dù đã nghỉ) làm tiền ngữ; đặt sau 나 là hụt hồi chiếu. |
+| ② | (나)-(라)-(다)-(가) | ❌ | mở bằng 나 (nguyên nhân) trong khi 라 là câu dẫn nhập chung "ai cũng từng"; 다 vẫn hụt tiền ngữ. |
+| ③ | (라)-(다)-(나)-(가) | ❌ | 다 "이런 사람들" đặt ngay sau 라 → chưa có nhóm "vẫn giật" (가) để hồi chiếu. |
+| ④ | (라)-(나)-(가)-(다) | ✅ | 라 mở đầu "누구나" (không 지시어) [[SEQ_cau_mo_dau]] → 나 nêu nguyên nhân & cách xử lý → 가 trường hợp vẫn giật (do magie) → 다 "이런 사람들" hồi chiếu, khuyến nghị ăn hạt/chuối [[SEQ_hoi_chieu]]. |
+
+### Chú giải chi tiết
+
+> (라) 누구나 한 번쯤은 눈 밑이 떨리는 경험을 해 본 적이 있을 것이다.
+→ Ai cũng từng ít nhất một lần trải nghiệm bị giật mí mắt dưới.
+- **Ngữ pháp:**
+  - 누구나 (bất cứ ai)
+  - 한 번쯤은 (chừng một lần)
+  - V-는 + N (định ngữ — 떨리는 경험)
+  - V-아/어 본 적이 있다 (đã từng — 해 본 적이 있을) · [[GR_은_적이_있다]]
+  - -을 것이다 (chắc là — 있을 것이다)
+- **Từ vựng:**
+  - 누구나 — bất kỳ ai
+  - 눈 밑 — dưới mắt/mí dưới
+  - 떨리다 — bị giật/run
+  - 경험 — trải nghiệm
+
+> (나) 눈 밑 떨림의 주된 원인은 피로이므로 푹 쉬면 증상은 완화된다.
+→ Nguyên nhân chính của giật mí mắt dưới là mệt mỏi, nên nghỉ ngơi thật kỹ thì triệu chứng sẽ dịu đi.
+- **Ngữ pháp:**
+  - N의 (của — 떨림의 원인)
+  - N(이)므로 (vì là… nên — 피로이므로)
+  - -(으)면 (nếu — 쉬면)
+- **Từ vựng:**
+  - 주되다 — chủ yếu/chính
+  - 원인 — nguyên nhân
+  - 피로 — sự mệt mỏi
+  - 푹 쉬다 — nghỉ ngơi thật kỹ
+  - 증상 — triệu chứng
+  - 완화되다 — được xoa dịu
+
+> (가) 쉬어도 떨림이 계속된다면 마그네슘이 부족해서일 수도 있다.
+→ Nếu đã nghỉ mà vẫn cứ giật thì cũng có thể là do thiếu magie.
+- **Ngữ pháp:**
+  - V-아/어도 (dù — 쉬어도) · [[GR_아어도]]
+  - V-ㄴ/는다면 (nếu (giả định) — 계속된다면) · [[GR_다면]]
+  - A-아/어서이다 (là do — 부족해서일)
+  - -을 수도 있다 (cũng có thể — 있다)
+- **Từ vựng:**
+  - 계속되다 — tiếp diễn
+  - 마그네슘 — magie
+  - 부족하다 — thiếu
+
+> (다) 이런 사람들은 마그네슘이 풍부한 견과류나 바나나를 먹으면 좋다.
+→ Những người như vậy nếu ăn các loại hạt hay chuối giàu magie thì tốt.
+- **Ngữ pháp:**
+  - 이런 + N (chỉ định hồi chiếu — 이런 사람들)
+  - A-(으)ㄴ + N (định ngữ — 풍부한 견과류)
+  - N(이)나 (hay — 견과류나 바나나)
+  - -(으)면 좋다 (nếu… thì tốt — 먹으면 좋다)
+- **Từ vựng:**
+  - 풍부하다 — dồi dào/giàu
+  - 견과류 — các loại hạt
+  - 바나나 — chuối

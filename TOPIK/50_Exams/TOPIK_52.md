@@ -571,3 +571,235 @@ tags: [korean/topik, exam]
   - 신경을 쓰다 — bận tâm/để ý · [[VC_신경을_쓰다]]
   - 집중하다 — tập trung
   - 좋다 — thích/tốt
+
+---
+
+## Câu 13 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 개와 고양이는 사이가 나쁜 것으로 유명하다.
+> (나) 개가 앞발을 드는 행동은 함께 놀고 싶다는 의미이다.
+> (다) 그런데 고양이는 이런 행동을 공격하는 것으로 오해하는 것이다.
+> (라) 둘 사이가 안 좋은 이유는 표현을 서로 다르게 받아들이기 때문이다.
+
+**Dịch:**
+> (가) Chó và mèo nổi tiếng là không hợp nhau.
+> (나) Hành động chó giơ chân trước mang ý nghĩa muốn chơi cùng.
+> (다) Thế nhưng mèo lại hiểu lầm hành động này là tấn công.
+> (라) Lý do hai bên không hợp là vì tiếp nhận cách biểu đạt theo cách khác nhau.
+
+**Trình tự đúng:** (가)→(라)→(나)→(다)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(라)-(나)-(다) | ✅ | 가 mở đầu (chó mèo không hợp, không 지시어) [[SEQ_cau_mo_dau]] → 라 "이유는…때문이다" nêu lý do khái quát [[SEQ_ly_do]] → 나 ví dụ: chó giơ chân = muốn chơi → 다 "그런데…이런 행동" hồi chiếu + tương phản [[SEQ_doi_lap]] [[SEQ_hoi_chieu]]. |
+| ② | (가)-(나)-(라)-(다) | ❌ | 라 (lý do khái quát) nên đứng ngay sau 가; chèn ví dụ 나 vào giữa làm 라 lạc chỗ. |
+| ③ | (나)-(다)-(가)-(라) | ❌ | mở bằng 나 (ví dụ cụ thể) trước câu khái quát 가. |
+| ④ | (나)-(가)-(다)-(라) | ❌ | 나 mở sai; 다 "이런 행동" tách khỏi 나 (tiền ngữ) → hồi chiếu hụt. |
+
+### Chú giải chi tiết
+
+> (가) 개와 고양이는 사이가 나쁜 것으로 유명하다.
+→ Chó và mèo nổi tiếng là không hợp nhau.
+- **Ngữ pháp:**
+  - N와/과 (và — 개와 고양이)
+  - A-(으)ㄴ 것으로 유명하다 (nổi tiếng là… — 나쁜 것으로 유명하다)
+- **Từ vựng:**
+  - 개 — chó
+  - 고양이 — mèo
+  - 사이 — mối quan hệ
+  - 나쁘다 — xấu/không tốt
+  - 유명하다 — nổi tiếng
+
+> (라) 둘 사이가 안 좋은 이유는 표현을 서로 다르게 받아들이기 때문이다.
+→ Lý do hai bên không hợp là vì tiếp nhận cách biểu đạt theo cách khác nhau.
+- **Ngữ pháp:**
+  - N 이유는 …기 때문이다 (lý do… là vì — 이유는 …받아들이기 때문이다) [[SEQ_ly_do]]
+  - 서로 (lẫn nhau)
+  - A-게 (một cách — 다르게)
+- **Từ vựng:**
+  - 둘 — hai (bên)
+  - 이유 — lý do
+  - 표현 — cách biểu đạt
+  - 받아들이다 — tiếp nhận
+
+> (나) 개가 앞발을 드는 행동은 함께 놀고 싶다는 의미이다.
+→ Hành động chó giơ chân trước mang ý nghĩa muốn chơi cùng.
+- **Ngữ pháp:**
+  - V-는 + N (định ngữ — 드는 행동)
+  - V-고 싶다는 + N (định ngữ trích dẫn "muốn…" — 놀고 싶다는 의미)
+- **Từ vựng:**
+  - 앞발 — chân trước
+  - 들다 — giơ/nâng
+  - 행동 — hành động
+  - 함께 — cùng nhau
+  - 의미 — ý nghĩa
+
+> (다) 그런데 고양이는 이런 행동을 공격하는 것으로 오해하는 것이다.
+→ Thế nhưng mèo lại hiểu lầm hành động này là tấn công.
+- **Ngữ pháp:**
+  - 그런데 (thế nhưng — liên từ tương phản)
+  - 이런 + N (chỉ định hồi chiếu — 이런 행동)
+  - V-는 것으로 오해하다 (hiểu lầm là… — 공격하는 것으로 오해하는)
+  - -는 것이다 (chính là (nhấn) — 오해하는 것이다)
+- **Từ vựng:**
+  - 공격하다 — tấn công
+  - 오해하다 — hiểu lầm
+
+---
+
+## Câu 14 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 시대가 변하면서 회식 문화가 바뀌고 있는 것이다.
+> (나) 직장에서는 좋은 업무 분위기를 위해서 회식을 한다.
+> (다) 예전에는 직장에서 회식을 할 때 주로 술을 많이 마셨다.
+> (라) 그러나 요즘에는 회식 대신에 공연을 관람하거나 맛집을 탐방하는 경우가 늘고 있다.
+
+**Dịch:**
+> (가) (Ấy) là do thời đại đổi thay nên văn hóa liên hoan đang thay đổi.
+> (나) Ở công sở, người ta liên hoan để có không khí làm việc tốt.
+> (다) Ngày trước, khi liên hoan ở công sở chủ yếu uống nhiều rượu.
+> (라) Nhưng dạo này, thay vì liên hoan (nhậu), số trường hợp đi xem biểu diễn hoặc khám phá quán ngon đang tăng.
+
+**Trình tự đúng:** (나)→(다)→(라)→(가)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (나)-(다)-(가)-(라) | ❌ | 가 "…것이다" (kết luận) đứng trước 라 → phải nêu thay đổi (요즘) rồi mới kết luận. |
+| ② | (나)-(다)-(라)-(가) | ✅ | 나 mở đầu nêu mục đích 회식 (không 지시어) [[SEQ_cau_mo_dau]] → 다 "예전에는" quá khứ [[SEQ_thoi_gian]] → 라 "그러나 요즘에는" tương phản + hiện tại [[SEQ_doi_lap]] [[SEQ_thoi_gian]] → 가 "…것이다" kết luận. |
+| ③ | (다)-(가)-(나)-(라) | ❌ | mở bằng 다 "예전에는" (mốc quá khứ) trước câu khung 나; 가 kết luận chèn giữa. |
+| ④ | (다)-(나)-(라)-(가) | ❌ | 다 mở đầu bằng mốc "예전에는" mà chưa có khung chung 나. |
+
+### Chú giải chi tiết
+
+> (나) 직장에서는 좋은 업무 분위기를 위해서 회식을 한다.
+→ Ở công sở, người ta liên hoan để có không khí làm việc tốt.
+- **Ngữ pháp:**
+  - N에서는 (ở (chủ đề) — 직장에서는)
+  - N을/를 위해서 (để/vì — 분위기를 위해서) · [[GR_기_위해서]]
+- **Từ vựng:**
+  - 직장 — nơi làm việc
+  - 업무 분위기 — không khí công việc
+  - 회식 — liên hoan (công ty)
+
+> (다) 예전에는 직장에서 회식을 할 때 주로 술을 많이 마셨다.
+→ Ngày trước, khi liên hoan ở công sở chủ yếu uống nhiều rượu.
+- **Ngữ pháp:**
+  - N에는 (vào (thời) — 예전에는)
+  - V-을 때 (khi — 할 때)
+  - 주로 (chủ yếu)
+- **Từ vựng:**
+  - 예전 — ngày trước
+  - 술 — rượu
+  - 많이 — nhiều
+  - 마시다 — uống
+
+> (라) 그러나 요즘에는 회식 대신에 공연을 관람하거나 맛집을 탐방하는 경우가 늘고 있다.
+→ Nhưng dạo này, thay vì liên hoan (nhậu), số trường hợp đi xem biểu diễn hoặc khám phá quán ngon đang tăng.
+- **Ngữ pháp:**
+  - 그러나 (nhưng — liên từ tương phản)
+  - N에는 (vào (thời) — 요즘에는)
+  - N 대신에 (thay cho — 회식 대신에) · [[GR_대신에]]
+  - V-거나 (hoặc — 관람하거나) · [[GR_거나]]
+  - V-고 있다 (đang — 늘고 있다)
+- **Từ vựng:**
+  - 요즘 — dạo này
+  - 관람하다 — xem/thưởng lãm
+  - 맛집 — quán ăn ngon
+  - 탐방하다 — khám phá/tìm đến
+  - 경우 — trường hợp
+
+> (가) 시대가 변하면서 회식 문화가 바뀌고 있는 것이다.
+→ (Ấy) là do thời đại đổi thay nên văn hóa liên hoan đang thay đổi.
+- **Ngữ pháp:**
+  - V-(으)면서 (trong khi/kèm — 변하면서)
+  - V-고 있는 것이다 (chính là đang… — 바뀌고 있는 것이다)
+- **Từ vựng:**
+  - 시대 — thời đại
+  - 변하다 — biến đổi
+  - 문화 — văn hóa
+  - 바뀌다 — thay đổi
+
+---
+
+## Câu 15 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 아들은 보물을 찾기 위해 밭을 파 봤지만 아무것도 나오지 않았다.
+> (나) 아들은 실망했지만 힘들게 밭을 판 것이 아까워서 밭에 씨를 뿌렸다.
+> (다) 한 농부가 게으른 아들에게 밭에 보물을 숨겼다는 말을 남기고 죽었다.
+> (라) 시간이 흘러 많은 열매가 맺혔고 아들은 그때야 아버지의 뜻을 알게 되었다.
+
+**Dịch:**
+> (가) Người con đào ruộng để tìm kho báu nhưng chẳng thấy gì.
+> (나) Con thất vọng nhưng tiếc công đã vất vả đào ruộng nên gieo hạt xuống ruộng.
+> (다) Một nông dân để lại lời rằng đã giấu kho báu trong ruộng cho người con lười rồi qua đời.
+> (라) Thời gian trôi, nhiều quả kết trái, lúc đó người con mới hiểu ra ý của cha.
+
+**Trình tự đúng:** (다)→(가)→(나)→(라)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(라)-(나)-(다) | ❌ | mở bằng 가 (con đào tìm) khi chưa có 다 (cha để lại lời về kho báu) làm mở truyện. |
+| ② | (가)-(나)-(다)-(라) | ❌ | 가 mở sai như trên; 다 (cha chết) rơi vào giữa, đảo trình tự thời gian. |
+| ③ | (다)-(가)-(나)-(라) | ✅ | 다 mở đầu (cha giấu kho báu rồi chết, không 지시어) [[SEQ_cau_mo_dau]] → 가 con đào tìm không thấy → 나 tiếc công nên gieo hạt → 라 "시간이 흘러…그때야" kết: con hiểu ý cha. |
+| ④ | (나)-(다)-(가)-(라) | ❌ | mở bằng 나 (con thất vọng gieo hạt) — giữa truyện, thiếu mở đầu 다. |
+
+### Chú giải chi tiết
+
+> (다) 한 농부가 게으른 아들에게 밭에 보물을 숨겼다는 말을 남기고 죽었다.
+→ Một nông dân để lại lời rằng đã giấu kho báu trong ruộng cho người con lười rồi qua đời.
+- **Ngữ pháp:**
+  - 한 + N (một — 한 농부)
+  - A-(으)ㄴ + N (định ngữ — 게으른 아들)
+  - N에게 (cho — 아들에게)
+  - V-았/었다는 + N (định ngữ trích dẫn quá khứ — 숨겼다는 말)
+  - V-고 (rồi — 남기고)
+- **Từ vựng:**
+  - 농부 — nông dân
+  - 게으르다 — lười biếng
+  - 밭 — ruộng/vườn
+  - 보물 — kho báu
+  - 숨기다 — giấu
+  - 남기다 — để lại
+  - 죽다 — chết
+
+> (가) 아들은 보물을 찾기 위해 밭을 파 봤지만 아무것도 나오지 않았다.
+→ Người con đào ruộng để tìm kho báu nhưng chẳng thấy gì.
+- **Ngữ pháp:**
+  - V-기 위해 (để — 찾기 위해) · [[GR_기_위해]]
+  - V-아/어 보다 (thử — 파 봤지만)
+  - -지만 (nhưng — 봤지만)
+  - V-지 않다 (không — 나오지 않았다)
+- **Từ vựng:**
+  - 찾다 — tìm
+  - 파다 — đào
+  - 아무것도 — chẳng gì cả
+  - 나오다 — hiện ra
+
+> (나) 아들은 실망했지만 힘들게 밭을 판 것이 아까워서 밭에 씨를 뿌렸다.
+→ Con thất vọng nhưng tiếc công đã vất vả đào ruộng nên gieo hạt xuống ruộng.
+- **Ngữ pháp:**
+  - V-았/었지만 (nhưng — 실망했지만)
+  - A-게 (một cách — 힘들게)
+  - V-(으)ㄴ 것이 아깝다 (tiếc việc đã… — 판 것이 아까워서)
+  - V-아/어서 (nên — 아까워서)
+- **Từ vựng:**
+  - 실망하다 — thất vọng
+  - 아깝다 — tiếc
+  - 씨를 뿌리다 — gieo hạt
+
+> (라) 시간이 흘러 많은 열매가 맺혔고 아들은 그때야 아버지의 뜻을 알게 되었다.
+→ Thời gian trôi, nhiều quả kết trái, lúc đó người con mới hiểu ra ý của cha.
+- **Ngữ pháp:**
+  - 시간이 흘러 (thời gian trôi — mốc chuyển thời gian)
+  - V-았/었고 (và — 맺혔고)
+  - 그때야 (mãi đến lúc đó mới)
+  - V-게 되다 (đi đến chỗ… — 알게 되었다) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 시간이 흐르다 — thời gian trôi
+  - 열매가 맺히다 — kết trái
+  - 그때 — lúc đó
+  - 아버지 — cha
+  - 뜻 — ý/ý nghĩa

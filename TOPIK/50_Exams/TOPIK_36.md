@@ -619,3 +619,236 @@ tags: [korean/topik, exam]
   - 전화를 걸다 — gọi điện thoại
   - 방식 — phương thức/cách
   - 진행되다 — được tiến hành
+
+---
+
+## Câu 13 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 그 때문에 어머니는 지금도 미역국을 별로 좋아하지 않으신다.
+> (나) 생일날 미역국을 먹을 때면 어머니 생각이 난다.
+> (다) 한국에서는 생일뿐 아니라 아이를 낳은 후에도 미역국을 먹는다.
+> (라) 그래서 어머니는 우리 형제 다섯을 낳을 때마다 미역국을 드셔야 했다.
+
+**Dịch:**
+> (가) Vì thế mà đến giờ mẹ vẫn không thích canh rong biển cho lắm.
+> (나) Mỗi khi ăn canh rong biển ngày sinh nhật là tôi lại nhớ đến mẹ.
+> (다) Ở Hàn Quốc, không chỉ sinh nhật mà cả sau khi sinh con cũng ăn canh rong biển.
+> (라) Vì vậy mỗi lần sinh năm anh em chúng tôi, mẹ đều phải ăn canh rong biển.
+
+**Trình tự đúng:** (나)→(다)→(라)→(가)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (나)-(다)-(라)-(가) | ✅ | 나 mở đầu khơi hồi ức (không 지시어) [[SEQ_cau_mo_dau]] → 다 nêu phong tục (sinh nhật + sau sinh con) → 라 "그래서" hệ quả: mẹ ăn mỗi lần sinh con [[SEQ_ket_qua]] → 가 "그 때문에" kết: nay mẹ không thích [[SEQ_ket_qua]]. |
+| ② | (나)-(가)-(라)-(다) | ❌ | 가 "그 때문에" ngay sau 나 → thiếu chuỗi nhân (다/라). |
+| ③ | (다)-(가)-(라)-(나) | ❌ | 가 "그 때문에" đặt sau 다 mà chưa có 라 → hụt tiền đề; 나 kết thúc bằng "생각이 난다" không hợp câu cuối. |
+| ④ | (다)-(라)-(나)-(가) | ❌ | 나 "생각이 난다" chèn giữa mạch nhân-quả → gãy; câu mở đầu hồi ức 나 bị đẩy xuống. |
+
+### Chú giải chi tiết
+
+> (나) 생일날 미역국을 먹을 때면 어머니 생각이 난다.
+→ Mỗi khi ăn canh rong biển ngày sinh nhật là tôi lại nhớ đến mẹ.
+- **Ngữ pháp:**
+  - N날 (ngày… — 생일날)
+  - V-을 때면 (mỗi khi… thì — 먹을 때면)
+  - N 생각이 나다 (nhớ đến — 어머니 생각이 난다)
+- **Từ vựng:**
+  - 생일 — sinh nhật
+  - 미역국 — canh rong biển
+  - 어머니 — mẹ
+
+> (다) 한국에서는 생일뿐 아니라 아이를 낳은 후에도 미역국을 먹는다.
+→ Ở Hàn Quốc, không chỉ sinh nhật mà cả sau khi sinh con cũng ăn canh rong biển.
+- **Ngữ pháp:**
+  - N에서는 (ở (chủ đề) — 한국에서는)
+  - N뿐 아니라 (không chỉ N mà — 생일뿐 아니라)
+  - V-(으)ㄴ 후에 (sau khi — 낳은 후에)
+  - N도 (cũng — 후에도)
+- **Từ vựng:**
+  - 한국 — Hàn Quốc
+  - 아이 — con/đứa trẻ
+  - 낳다 — sinh (con)
+
+> (라) 그래서 어머니는 우리 형제 다섯을 낳을 때마다 미역국을 드셔야 했다.
+→ Vì vậy mỗi lần sinh năm anh em chúng tôi, mẹ đều phải ăn canh rong biển.
+- **Ngữ pháp:**
+  - 그래서 (vì vậy — liên từ hệ quả)
+  - V-을 때마다 (mỗi lần… — 낳을 때마다) · [[GR_을_때마다]]
+  - V-아/어야 하다 (phải — 드셔야 했다) · [[GR_아어야_하다]]
+- **Từ vựng:**
+  - 형제 — anh em
+  - 다섯 — năm (số)
+  - 드시다 — dùng/ăn (kính ngữ)
+
+> (가) 그 때문에 어머니는 지금도 미역국을 별로 좋아하지 않으신다.
+→ Vì thế mà đến giờ mẹ vẫn không thích canh rong biển cho lắm.
+- **Ngữ pháp:**
+  - 그 때문에 (vì thế — liên từ hệ quả, hồi chiếu 그)
+  - 지금도 (đến giờ vẫn)
+  - 별로 …-지 않다 (không… cho lắm — 별로 좋아하지 않으신다)
+  - 시 (kính ngữ — 않으신다)
+- **Từ vựng:**
+  - 지금 — bây giờ
+  - 별로 — (không)… lắm
+  - 좋아하다 — thích
+
+---
+
+## Câu 14 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 정부는 이러한 규칙 위반을 줄이기 위해 '착한 운전 마일리지 제도'를 실시할 예정이다.
+> (나) 이는 교통 규칙을 잘 지키는 운전자에게 벌점이 아니라 상점을 주는 방식이다.
+> (다) 하지만 벌점 제도가 있어도 규칙 위반은 크게 줄어들지 않고 있다.
+> (라) 보통 운전자들이 교통 규칙을 위반하면 벌점을 받게 된다.
+
+**Dịch:**
+> (가) Chính phủ dự kiến thực hiện 'chế độ tích điểm lái xe tốt' để giảm vi phạm luật này.
+> (나) Đây là cách cho tài xế tuân thủ luật giao thông điểm thưởng thay vì điểm phạt.
+> (다) Nhưng dù có chế độ điểm phạt, vi phạm luật vẫn không giảm nhiều.
+> (라) Thông thường, tài xế vi phạm luật giao thông thì bị nhận điểm phạt.
+
+**Trình tự đúng:** (라)→(다)→(가)→(나)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(다)-(라)-(나) | ❌ | mở bằng 가 "이러한 규칙 위반" — 지시어 이러한 cần tiền ngữ → không thể đầu. |
+| ② | (가)-(나)-(다)-(라) | ❌ | 가 first sai như trên; 나 "이는" cũng cần tiền ngữ. |
+| ③ | (라)-(가)-(다)-(나) | ❌ | 하지만(다) đặt sau 가 → cắt mạch tương phản với 라; 가 "이러한 위반" chưa được 다 làm rõ. |
+| ④ | (라)-(다)-(가)-(나) | ✅ | 라 mở đầu nêu thực trạng điểm phạt (không 지시어) [[SEQ_cau_mo_dau]] → 다 "하지만" tương phản: vẫn không giảm [[SEQ_doi_lap]] → 가 "이러한 위반" hồi chiếu + nêu chế độ mới [[SEQ_hoi_chieu]] → 나 "이는" giải thích chế độ đó [[SEQ_hoi_chieu]]. |
+
+### Chú giải chi tiết
+
+> (라) 보통 운전자들이 교통 규칙을 위반하면 벌점을 받게 된다.
+→ Thông thường, tài xế vi phạm luật giao thông thì bị nhận điểm phạt.
+- **Ngữ pháp:**
+  - 보통 (thông thường)
+  - -(으)면 (nếu/khi — 위반하면)
+  - V-게 되다 (dẫn đến — 받게 된다) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 운전자 — tài xế
+  - 교통 규칙 — luật giao thông
+  - 위반하다 — vi phạm
+  - 벌점 — điểm phạt
+
+> (다) 하지만 벌점 제도가 있어도 규칙 위반은 크게 줄어들지 않고 있다.
+→ Nhưng dù có chế độ điểm phạt, vi phạm luật vẫn không giảm nhiều.
+- **Ngữ pháp:**
+  - 하지만 (nhưng — liên từ tương phản)
+  - V-아/어도 (dù — 있어도) · [[GR_아어도]]
+  - V-지 않고 있다 (đang không — 줄어들지 않고 있다)
+- **Từ vựng:**
+  - 제도 — chế độ
+  - 크게 — nhiều/lớn
+  - 줄어들다 — giảm đi
+
+> (가) 정부는 이러한 규칙 위반을 줄이기 위해 '착한 운전 마일리지 제도'를 실시할 예정이다.
+→ Chính phủ dự kiến thực hiện 'chế độ tích điểm lái xe tốt' để giảm vi phạm luật này.
+- **Ngữ pháp:**
+  - 이러한 + N (chỉ định hồi chiếu — 이러한 규칙 위반)
+  - V-기 위해 (để — 줄이기 위해) · [[GR_기_위해]]
+  - V-을 예정이다 (dự kiến sẽ — 실시할 예정이다)
+- **Từ vựng:**
+  - 정부 — chính phủ
+  - 줄이다 — làm giảm
+  - 마일리지 제도 — chế độ tích điểm
+  - 실시하다 — thực hiện
+
+> (나) 이는 교통 규칙을 잘 지키는 운전자에게 벌점이 아니라 상점을 주는 방식이다.
+→ Đây là cách cho tài xế tuân thủ tốt luật điểm thưởng thay vì điểm phạt.
+- **Ngữ pháp:**
+  - 이는 (điều này — chủ đề hồi chiếu)
+  - V-는 + N (định ngữ — 지키는 운전자)
+  - N에게 (cho — 운전자에게)
+  - N이/가 아니라 (không phải… mà — 벌점이 아니라)
+  - -는 방식이다 (là cách… — 주는 방식이다)
+- **Từ vựng:**
+  - 지키다 — tuân thủ/giữ
+  - 상점 — điểm thưởng
+  - 주다 — cho
+  - 방식 — cách thức
+
+---
+
+## Câu 15 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 네온사인, 상가의 불빛 등으로 길거리가 밝기 때문에 불필요하다는 것이다.
+> (나) 그런 일에 비용을 들이기보다 다른 대안은 없는지 모색해 보는 것이 더 낫다.
+> (다) 가로등이 제 역할을 못하고 있으니 없애자는 의견이 나오고 있다.
+> (라) 하지만 이미 설치해 놓은 공공 시설물을 없애는 것만이 최선은 아닐 것이다.
+
+**Dịch:**
+> (가) Ý kiến (cho rằng) do đèn neon, ánh đèn cửa hàng… làm đường phố sáng nên (đèn đường) là không cần thiết.
+> (나) Thay vì bỏ chi phí cho việc đó, tìm xem có phương án khác không thì tốt hơn.
+> (다) Đang có ý kiến rằng đèn đường không làm tròn vai trò nên hãy bỏ đi.
+> (라) Nhưng việc bỏ đi công trình công cộng đã lắp đặt e rằng không phải là cách tốt nhất.
+
+**Trình tự đúng:** (다)→(가)→(라)→(나)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(라)-(다)-(나) | ❌ | mở bằng 가 "…불필요하다는 것이다" — câu giải thích, cần ý kiến 다 đứng trước. |
+| ② | (가)-(다)-(라)-(나) | ❌ | 가 first sai như trên. |
+| ③ | (다)-(가)-(라)-(나) | ✅ | 다 mở đầu nêu ý kiến bỏ đèn đường (không 지시어) [[SEQ_cau_mo_dau]] → 가 giải thích lý do ý kiến đó → 라 "하지만" phản biện [[SEQ_doi_lap]] → 나 "그런 일" hồi chiếu, đề xuất thay thế [[SEQ_hoi_chieu]]. |
+| ④ | (다)-(나)-(라)-(가) | ❌ | 나 "그런 일" đặt ngay sau 다 (thiếu 하지만 라 làm bản lề); 가 giải thích lại rơi xuống cuối. |
+
+### Chú giải chi tiết
+
+> (다) 가로등이 제 역할을 못하고 있으니 없애자는 의견이 나오고 있다.
+→ Đang có ý kiến rằng đèn đường không làm tròn vai trò nên hãy bỏ đi.
+- **Ngữ pháp:**
+  - 제 역할 (vai trò của chính nó)
+  - V-지 못하고 있다 (đang không thể — 못하고 있으니)
+  - -(으)니 (nên/vì — 있으니)
+  - V-자는 + N (định ngữ đề nghị "hãy…" — 없애자는 의견)
+  - V-고 있다 (đang — 나오고 있다)
+- **Từ vựng:**
+  - 가로등 — đèn đường
+  - 역할 — vai trò
+  - 없애다 — bỏ/loại đi
+  - 의견 — ý kiến
+  - 나오다 — xuất hiện/nêu ra
+
+> (가) 네온사인, 상가의 불빛 등으로 길거리가 밝기 때문에 불필요하다는 것이다.
+→ Ý kiến (cho rằng) do đèn neon, ánh đèn cửa hàng… làm đường phố sáng nên (đèn đường) là không cần thiết.
+- **Ngữ pháp:**
+  - N 등으로 (do/bằng… v.v. — 불빛 등으로)
+  - A-기 때문에 (vì — 밝기 때문에)
+  - A-다는 것이다 (chính là (ý rằng)… — 불필요하다는 것이다)
+- **Từ vựng:**
+  - 네온사인 — đèn neon
+  - 상가 — khu cửa hàng
+  - 불빛 — ánh đèn
+  - 길거리 — đường phố
+  - 밝다 — sáng
+  - 불필요하다 — không cần thiết
+
+> (라) 하지만 이미 설치해 놓은 공공 시설물을 없애는 것만이 최선은 아닐 것이다.
+→ Nhưng việc bỏ đi công trình công cộng đã lắp đặt e rằng không phải là cách tốt nhất.
+- **Ngữ pháp:**
+  - 하지만 (nhưng — liên từ tương phản)
+  - 이미 (đã, rồi)
+  - V-아/어 놓다 (làm sẵn — 설치해 놓은)
+  - V-는 것만이 (chỉ mỗi việc… — 없애는 것만이)
+  - N은/는 아닐 것이다 (e rằng không phải — 최선은 아닐 것이다)
+- **Từ vựng:**
+  - 설치하다 — lắp đặt
+  - 공공 시설물 — công trình công cộng
+  - 최선 — điều tốt nhất
+
+> (나) 그런 일에 비용을 들이기보다 다른 대안은 없는지 모색해 보는 것이 더 낫다.
+→ Thay vì bỏ chi phí cho việc đó, tìm xem có phương án khác không thì tốt hơn.
+- **Ngữ pháp:**
+  - 그런 + N (chỉ định hồi chiếu — 그런 일)
+  - N에 비용을 들이다 (bỏ chi phí vào — 일에 비용을 들이기)
+  - V-기보다 (thay vì — 들이기보다)
+  - V-는지 (xem có… không — 없는지)
+  - V-아/어 보다 (thử — 모색해 보는)
+  - A-는 것이 더 낫다 (… thì tốt hơn — 더 낫다)
+- **Từ vựng:**
+  - 비용 — chi phí
+  - 대안 — phương án thay thế
+  - 모색하다 — tìm tòi/tìm kiếm
+  - 낫다 — tốt hơn

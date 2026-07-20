@@ -1,6 +1,6 @@
 ---
 name: topik-exam-analysis
-description: Phân tích đề TOPIK (ảnh hoặc text) thành EXAM note + diff cho các layer Grammar/Pair/Group/Distractor/Topic/Trap của learning-vault (domain: topik). Xử lý câu ngữ pháp (ngữ-pháp-chỗ-trống, ngữ-pháp-đồng-nghĩa), câu đọc-hiểu chủ đề (xác-định-chủ-đề — "무엇에 대한 글인지", ĐỌC câu 5~8), và câu đọc-hiểu "내용과 같은 것" (câu-giống-đoạn-văn câu 9 poster + câu-giống-đồ-thị câu 10 đồ thị — sinh song song trap-note + topic-note). Dùng skill này BẤT CỨ KHI NÀO người dùng đưa đề TOPIK mới, ảnh câu hỏi trắc nghiệm tiếng Hàn (ngữ pháp, quảng cáo/thông báo, poster hoặc đồ thị), yêu cầu "phân tích đề", "backfill đề cũ", hoặc nhắc đến việc thêm câu hỏi vào vault — kể cả khi họ chỉ dán một câu hỏi lẻ. Không dùng cho câu hỏi lý thuyết ngữ pháp thuần túy không gắn với đề.
+description: Phân tích đề TOPIK (ảnh hoặc text) thành EXAM note + diff cho các layer Grammar/Pair/Group/Distractor/Topic/Trap/Sequence của learning-vault (domain: topik). Xử lý câu ngữ pháp (ngữ-pháp-chỗ-trống, ngữ-pháp-đồng-nghĩa), câu đọc-hiểu chủ đề (xác-định-chủ-đề — "무엇에 대한 글인지", ĐỌC câu 5~8), câu đọc-hiểu "내용과 같은 것" (câu-giống-đoạn-văn câu 9 poster + câu-giống-đồ-thị câu 10 đồ thị — sinh song song trap-note + topic-note), và câu sắp xếp thứ tự (sắp-xếp-thứ-tự — "순서대로 맞게 배열한 것", ĐỌC câu 13~15, 4 mảnh 가~라 — sinh sequence-note). Dùng skill này BẤT CỨ KHI NÀO người dùng đưa đề TOPIK mới, ảnh câu hỏi trắc nghiệm tiếng Hàn (ngữ pháp, quảng cáo/thông báo, poster, đồ thị, hoặc sắp xếp câu), yêu cầu "phân tích đề", "backfill đề cũ", hoặc nhắc đến việc thêm câu hỏi vào vault — kể cả khi họ chỉ dán một câu hỏi lẻ. Không dùng cho câu hỏi lý thuyết ngữ pháp thuần túy không gắn với đề.
 ---
 
 # Exam Analysis Skill
@@ -23,6 +23,7 @@ Chuyển đề TOPIK thành dữ liệu có cấu trúc của vault theo 5 phase
   - `ngữ-pháp-đồng-nghĩa` [~3~4]: chọn ngữ pháp đồng nghĩa cụm gạch chân.
   - `xác-định-chủ-đề` [ĐỌC câu ~5~8]: "무엇에 대한 글인지 고르십시오" — chọn xem quảng cáo/thông báo nói về CHỦ ĐỀ gì. 4 phương án là danh từ chủ đề (신문/병원/…), KHÔNG phải ngữ pháp. Với dạng này trích thêm: **toàn văn** quảng cáo/thông báo (giữ xuống dòng), nghĩa từng phương án, và **từ khóa tín hiệu** dẫn tới đáp án.
   - `câu-giống-đoạn-văn` [ĐỌC câu 9] + `câu-giống-đồ-thị` [ĐỌC câu 10]: "내용과 같은 것을 고르십시오" — 4 phương án là **câu văn khẳng định** (không phải ngữ pháp/danh từ chủ đề). Trích thêm: chất liệu đọc (câu 9 = poster/안내문/광고 giữ xuống dòng; câu 10 = số liệu đồ thị/도표), nghĩa từng phương án, kỹ thuật bẫy của mỗi phương án sai, và **chủ đề chất liệu** (để sinh topic — xem 2c).
+  - `sắp-xếp-thứ-tự` [ĐỌC câu 13~15]: "다음을 순서대로 맞게 배열한 것을 고르십시오" — chất liệu là **4 mảnh câu** đánh dấu (가)(나)(다)(라); 4 phương án là **hoán vị thứ tự** (vd `(다)-(나)-(라)-(가)`), KHÔNG phải ngữ pháp/danh từ/câu khẳng định. Trích thêm: **nguyên văn Hangul từng mảnh 가~라** + dịch từng mảnh, 4 phương án hoán vị, đáp án từ MOC. **Suy chuỗi đúng:** map số đáp án (MOC) → phương án hoán vị tương ứng → chuỗi đúng; xác định **cue nối câu** của từng mảnh (mảnh mở đầu không 지시어/접속부사; 지시어/그중 하나 = hồi chiếu → sau tiền ngữ; 그래서/따라서 = kết quả; 하지만/그런데 = đối lập; 또한/그리고 = bổ sung). Ghi dòng `**Trình tự đúng:** (X)→(Y)→(Z)→(W)` mức câu (xem 2e).
 - Gán exam_id theo **số hiệu kỳ thi TOPIK thật** dạng `TOPIK_{nn}` (vd `TOPIK_83`); hỏi người dùng nếu đề không ghi số hiệu. Không dùng ID tuần tự Dnn.
 - Dựng nội dung `TOPIK_{nn}.md` theo `TOPIK/00_Templates/Exam_Question_Template.md` — trong RAM, chưa ghi.
 
@@ -71,6 +72,17 @@ Khi chú giải một câu (bất kỳ dạng nào) chứa **cụm động từ 
   - `EXISTS`: append `source` `[TOPIK_nn-Qm]` + thêm dòng vào bảng "Xuất hiện trong đề" trong body.
   - `NEW`: tạo file từ `Vocab_Pattern_Template.md`, đặt tên theo `naming_rule` (`VC_{pattern}`); điền `pattern`, `related_grammar` (list `GR_*` liên quan, có thể `[]`), `source`.
 - Nếu từ/cụm thuộc một **topic category** (đáp án dạng chủ đề, hay từ khóa chủ đề chất liệu đọc) → link `[[TOPIC_*]]` ở bullet Từ vựng (không tạo VC trùng).
+
+### 2e. Câu dạng `sắp-xếp-thứ-tự` (câu 13~15 — single-layer sequence-note, Q19)
+
+Dạng sắp xếp thứ tự sinh **một layer duy nhất `sequence-note`** (`TOPIK/47_Sequence/`, tổ chức **theo kỹ thuật nối câu**, 1 file = 1 kỹ thuật; taxonomy trong `frontmatter_schema.md` §sequence-note). KHÔNG đụng GR/PAIR/GROUP/DIS/TOPIC/TRAP (VC vẫn tạo ở 2d khi có cụm lexical-hóa; link `[[GR_*]]` nền khi note tồn tại).
+
+- Với mỗi câu, xác định **cue quyết định chuỗi đúng** (thường 2-4 cue/câu): mảnh **mở đầu** (nêu chủ đề/định nghĩa, không 지시어/접속부사); mảnh **hồi chiếu** (이것/이런/그것/그중 하나 → phải sau tiền ngữ); mảnh **kết quả** (그래서/따라서/그러므로 → sau nguyên nhân); mảnh **đối lập** (하지만/그런데); mảnh **bổ sung** (또한/그리고). Map mỗi cue → category enum (`mở-đầu|hồi-chiếu|kết-quả|đối-lập|bổ-sung|thời-gian|điều-kiện`).
+- Quét `TOPIK/47_Sequence/` theo `cue_id`:
+  - `EXISTS`: append `history` `{exam, q, role: correct, reason: "({mảnh}) {biểu hiện} → {ràng buộc vị trí}"}` + cập nhật `members` nếu có biểu hiện mới.
+  - Cue mới xuất hiện **≥2×** (tính cả lịch sử) mà chưa có note → đề xuất tạo từ `Sequence_Template.md` (điền `category`, `role_in_order`, `members`, `kill_signal`, `select_signal`, marker sync). Cue 1× ghi inline (cột Căn cứ, KHÔNG link) + liệt kê candidate (theo dõi ở `Seq_Stats.md`).
+  - `role: distractor` (tùy chọn): khi một phương án SAI vi phạm cue rõ rệt (vd đặt mảnh chứa 지시어 lên đầu) → có thể log `{..., role: distractor, reason: "③ đặt (나) 이런 lên đầu"}` để cue tích lũy cả 2 vai.
+- **exam block** (bảng **4 cột** `# | Thứ tự | Vai | Căn cứ / Phân tích`): cột "Thứ tự" ghi hoán vị mỗi phương án; đáp án đúng Vai ✅ (KHÔNG cite `[RA:]`); cột cuối phân tích chuỗi móc nối (✅) hoặc lý do sai vi phạm cue (❌), cue có note → link `[[SEQ_*]]`. Thêm dòng `**Trình tự đúng:** (X)→(Y)→(Z)→(W)` **mức câu** (dưới khối `**Dịch:**`, trước bảng — KHÔNG thêm cột).
 
 ## Phase 3 — Propose
 
