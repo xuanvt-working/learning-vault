@@ -449,3 +449,173 @@ tags: [korean/topik, exam]
   - 자기 자신 — bản thân
   - 혼자서 — một mình
   - 해결하다 — giải quyết
+
+---
+
+## Câu 11 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 주말마다 서울 광화문 주변이 콘서트장으로 바뀐다. 바로 '광화문 콘서트'라는 프로그램 때문이다. 이 프로그램은 매회 가수 한 명이 출연해 10여 곡의 노래를 부르는 음악 프로그램으로 다음 주 첫 방송을 앞두고 있다. 녹화는 광화문 앞 무대에서 일요일 오후 7시부터 시작되며 방청 신청은 프로그램 홈페이지를 통해 300명까지 선착순으로 받는다.
+
+**Dịch:**
+> Cứ mỗi cuối tuần, khu vực quanh Gwanghwamun ở Seoul lại biến thành hội trường ca nhạc. Đó chính là nhờ chương trình mang tên 'Gwanghwamun Concert'. Chương trình âm nhạc này mỗi số có một ca sĩ xuất hiện hát hơn 10 bài, và sắp lên sóng số đầu tiên vào tuần sau. Việc ghi hình bắt đầu từ 7 giờ tối Chủ nhật tại sân khấu trước Gwanghwamun, còn đăng ký làm khán giả nhận qua trang chủ chương trình theo thứ tự đến trước, tối đa 300 người.
+
+**Chủ đề:** 공연문화 (văn hóa biểu diễn / công diễn) → [[TOPIC_공연문화]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 이 프로그램은 평일에 녹화를 진행한다 | Chương trình ghi hình vào ngày thường | ❌ | Bài ghi 녹화는 **일요일** 오후 7시부터 시작 → không phải ngày thường (평일↔일요일) — [[TRAP_dao_thong_tin]]. |
+| ② | 광화문 콘서트는 오래된 음악 프로그램이다 | Gwanghwamun Concert là chương trình âm nhạc lâu đời | ❌ | Bài ghi **다음 주 첫 방송**을 앞두고 있다 → mới, chưa từng phát sóng (오래된↔첫 방송) — [[TRAP_dao_thoi_diem]]. |
+| ③ | 직접 가서 보려면 인터넷으로 신청해야 한다 | Muốn đến xem trực tiếp thì phải đăng ký qua internet | ✅ | 방청 신청은 프로그램 **홈페이지를 통해** 받는다 → đăng ký online, khớp. |
+| ④ | 이 프로그램에는 여러 명의 가수가 출연한다 | Chương trình có nhiều ca sĩ xuất hiện | ❌ | Bài ghi 매회 **가수 한 명**이 출연 → mỗi số chỉ một ca sĩ (한 명↔여러 명) — [[TRAP_dao_thong_tin]]. |
+
+### Chú giải chi tiết
+
+> 주말마다 서울 광화문 주변이 콘서트장으로 바뀐다.
+→ Cứ mỗi cuối tuần, khu vực quanh Gwanghwamun ở Seoul lại biến thành hội trường ca nhạc.
+- **Ngữ pháp:**
+  - N마다 (mỗi — 주말마다)
+  - N이/가 (chủ ngữ — 주변이)
+  - N(으)로 바뀌다 (biến thành — 콘서트장으로 바뀐다)
+- **Từ vựng:**
+  - 주말 — cuối tuần
+  - 주변 — xung quanh
+  - 콘서트장 — hội trường hòa nhạc
+  - 바뀌다 — thay đổi/biến thành
+
+> 바로 '광화문 콘서트'라는 프로그램 때문이다.
+→ Đó chính là nhờ chương trình mang tên 'Gwanghwamun Concert'.
+- **Ngữ pháp:**
+  - 바로 (chính là, nhấn mạnh)
+  - N(이)라는 + N (được gọi là — '광화문 콘서트'라는 프로그램)
+  - N 때문이다 (là do/vì — 프로그램 때문이다)
+- **Từ vựng:**
+  - 프로그램 — chương trình
+  - 때문 — lý do/nguyên nhân
+
+> 이 프로그램은 매회 가수 한 명이 출연해 10여 곡의 노래를 부르는 음악 프로그램으로 다음 주 첫 방송을 앞두고 있다.
+→ Chương trình âm nhạc này mỗi số có một ca sĩ xuất hiện hát hơn 10 bài, và sắp lên sóng số đầu tiên vào tuần sau.
+- **Ngữ pháp:**
+  - N은/는 (chủ đề — 프로그램은)
+  - 매회 (mỗi số/mỗi lần)
+  - V-아/어 (nối động tác — 출연해)
+  - 숫자+여 (hơn/khoảng — 10여 곡)
+  - N의 (của — 10여 곡의 노래)
+  - V-는 + N (định ngữ — 부르는 음악 프로그램)
+  - N(으)로 (với tư cách là — 음악 프로그램으로)
+  - N을/를 앞두고 있다 (đang trước thềm/sắp — 첫 방송을 앞두고 있다)
+- **Từ vựng:**
+  - 매회 — mỗi số/mỗi lần
+  - 가수 — ca sĩ
+  - 출연하다 — xuất hiện/tham gia diễn
+  - 곡 — bài (nhạc)
+  - 노래 — bài hát
+  - 부르다 — hát
+  - 음악 — âm nhạc
+  - 다음 주 — tuần sau
+  - 첫 방송 — buổi phát sóng đầu tiên
+  - 앞두다 — có… trước mắt/sắp tới
+
+> 녹화는 광화문 앞 무대에서 일요일 오후 7시부터 시작되며 방청 신청은 프로그램 홈페이지를 통해 300명까지 선착순으로 받는다.
+→ Việc ghi hình bắt đầu từ 7 giờ tối Chủ nhật tại sân khấu trước Gwanghwamun, còn đăng ký khán giả nhận qua trang chủ chương trình theo thứ tự đến trước, tối đa 300 người.
+- **Ngữ pháp:**
+  - N에서 (tại — 무대에서)
+  - N부터 (từ — 7시부터)
+  - [[GR_으며]] (-(으)며: và/song song — 시작되며)
+  - N을/를 통해 (thông qua — 홈페이지를 통해)
+  - N까지 (đến tận — 300명까지)
+  - N(으)로 (theo cách — 선착순으로)
+- **Từ vựng:**
+  - 녹화 — ghi hình
+  - 무대 — sân khấu
+  - 일요일 — Chủ nhật
+  - 오후 — buổi chiều/tối
+  - 시작되다 — bắt đầu
+  - 방청 — dự thính/làm khán giả
+  - 신청 — đăng ký
+  - 홈페이지 — trang chủ
+  - 선착순 — thứ tự đến trước
+  - 받다 — nhận
+
+---
+
+## Câu 12 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 종이 신문을 읽는 가구가 계속 감소하고 있는 것으로 나타났다. 종이 신문을 읽는 집은 지난해보다 5% 정도 감소해서 다섯 집 중 한 집만이 배달해서 읽고 있었다. 인터넷으로 언제든지 뉴스를 볼 수 있게 되면서 종이 신문을 보는 사람이 감소하고 있는 것이다. 한편 이번 조사는 지난해에 조사에 참여한 집으로 전화를 거는 방식으로 진행되었다.
+
+**Dịch:**
+> Kết quả cho thấy số hộ gia đình đọc báo giấy đang liên tục giảm. Số nhà đọc báo giấy giảm khoảng 5% so với năm ngoái, chỉ còn một trên năm nhà đặt báo về đọc. Khi có thể xem tin tức bất cứ lúc nào qua internet, số người đọc báo giấy đang giảm đi. Mặt khác, cuộc khảo sát lần này được tiến hành bằng cách gọi điện đến những nhà đã tham gia khảo sát năm ngoái.
+
+**Chủ đề:** 매체이용 (sử dụng phương tiện truyền thông) → [[TOPIC_매체이용]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 이번 조사는 직접 방문해서 조사하는 방식을 사용했다 | Khảo sát lần này dùng cách đến thăm trực tiếp | ❌ | Bài ghi **전화를 거는 방식**으로 진행 → gọi điện, không phải đến thăm (전화↔방문) — [[TRAP_dao_thong_tin]]. |
+| ② | 종이 신문을 읽는 사람이 줄면서 인터넷의 사용도 줄었다 | Người đọc báo giấy giảm nên việc dùng internet cũng giảm | ❌ | Bài ghi 인터넷으로 언제든지 뉴스를 볼 수 있게 되면서 báo giấy giảm → internet phổ biến hơn, trái với "internet giảm" — [[TRAP_dao_thong_tin]]. |
+| ③ | 조사된 가구 중에서 절반이 집으로 배달되는 신문을 읽는다 | Một nửa số hộ được khảo sát đọc báo giao tận nhà | ❌ | Bài ghi **다섯 집 중 한 집만이**(1/5) 배달해서 읽음 → không phải một nửa (phóng đại 1/5→1/2) — [[TRAP_noi_qua]]. |
+| ④ | 이번 조사와 지난해 조사는 서로 같은 가구를 대상으로 했다 | Khảo sát lần này và năm ngoái cùng nhắm vào các hộ giống nhau | ✅ | **지난해에 조사에 참여한 집**으로 전화 → cùng đối tượng hộ, khớp. |
+
+### Chú giải chi tiết
+
+> 종이 신문을 읽는 가구가 계속 감소하고 있는 것으로 나타났다.
+→ Kết quả cho thấy số hộ đọc báo giấy đang liên tục giảm.
+- **Ngữ pháp:**
+  - N을/를 (tân ngữ — 신문을)
+  - V-는 + N (định ngữ — 읽는 가구)
+  - V-고 있다 (đang — 감소하고 있는)
+  - N(으)로 나타나다 (kết quả cho thấy — 것으로 나타났다)
+- **Từ vựng:**
+  - 종이 신문 — báo giấy
+  - 가구 — hộ gia đình
+  - 계속 — liên tục
+  - 감소하다 — giảm
+  - 나타나다 — xuất hiện/cho thấy
+
+> 종이 신문을 읽는 집은 지난해보다 5% 정도 감소해서 다섯 집 중 한 집만이 배달해서 읽고 있었다.
+→ Số nhà đọc báo giấy giảm khoảng 5% so với năm ngoái, chỉ còn một trên năm nhà đặt báo về đọc.
+- **Ngữ pháp:**
+  - N보다 (so với — 지난해보다)
+  - N 정도 (khoảng — 5% 정도)
+  - V-아/어서 (do đó — 감소해서)
+  - N 중 (trong số — 다섯 집 중)
+  - N만 (chỉ — 한 집만이)
+  - V-아/어서 (rồi — 배달해서)
+  - V-고 있었다 (đã đang — 읽고 있었다)
+- **Từ vựng:**
+  - 집 — nhà/hộ
+  - 지난해 — năm ngoái
+  - 정도 — khoảng/mức độ
+  - 다섯 — năm
+  - 배달하다 — giao (báo/hàng)
+
+> 인터넷으로 언제든지 뉴스를 볼 수 있게 되면서 종이 신문을 보는 사람이 감소하고 있는 것이다.
+→ Khi có thể xem tin tức bất cứ lúc nào qua internet, số người đọc báo giấy đang giảm đi.
+- **Ngữ pháp:**
+  - N(으)로 (bằng — 인터넷으로)
+  - 언제든지 (bất cứ lúc nào)
+  - -을 수 있다 (có thể — 볼 수 있게)
+  - [[GR_게_되다]] (-게 되다: dẫn đến — 볼 수 있게 되면서)
+  - -(으)면서 (song song/khi — 되면서)
+  - -는 것이다 (chính là việc — 감소하고 있는 것이다)
+- **Từ vựng:**
+  - 인터넷 — internet
+  - 뉴스 — tin tức
+  - 사람 — người
+
+> 한편 이번 조사는 지난해에 조사에 참여한 집으로 전화를 거는 방식으로 진행되었다.
+→ Mặt khác, cuộc khảo sát lần này được tiến hành bằng cách gọi điện đến những nhà đã tham gia khảo sát năm ngoái.
+- **Ngữ pháp:**
+  - 한편 (mặt khác)
+  - N에 (vào — 지난해에)
+  - V-(으)ㄴ + N (định ngữ quá khứ — 참여한 집)
+  - N(으)로 (đến — 집으로)
+  - V-는 + N (định ngữ — 전화를 거는 방식)
+  - N(으)로 (bằng cách — 방식으로)
+  - V-되었다 (bị động quá khứ — 진행되었다)
+- **Từ vựng:**
+  - 조사 — khảo sát/điều tra
+  - 참여하다 — tham gia
+  - 전화를 걸다 — gọi điện thoại
+  - 방식 — phương thức/cách
+  - 진행되다 — được tiến hành

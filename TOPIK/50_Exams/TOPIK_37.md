@@ -428,3 +428,188 @@ tags: [korean/topik, exam]
   - 아침 식사 — bữa sáng
   - 중요하다 — quan trọng
   - 여기다 — coi/cho là
+
+---
+
+## Câu 11 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 아침신문사에서는 오는 12월 20일에 한국어 말하기 대회를 개최한다. 이 대회는 한국에 사는 외국인 대학생을 대상으로 하며 주제는 '나와 한국'이다. 참가를 원하는 사람은 발표할 내용을 원고지 10장 정도의 글로 써서 12월 5일까지 이메일로 보내면 된다. 예선은 원고 심사로 대신하며 본선 참가자는 홈페이지를 통해 공지할 예정이다.
+
+**Dịch:**
+> Tòa soạn báo Achim tổ chức cuộc thi nói tiếng Hàn vào ngày 20 tháng 12 tới. Cuộc thi này dành cho sinh viên đại học người nước ngoài đang sống tại Hàn Quốc, chủ đề là 'Tôi và Hàn Quốc'. Người muốn tham gia chỉ cần viết nội dung phát biểu thành bài khoảng 10 trang giấy ô li và gửi qua email trước ngày 5 tháng 12. Vòng sơ loại được thay bằng việc chấm bài viết, còn người vào vòng chung kết sẽ được thông báo qua trang chủ.
+
+**Chủ đề:** 대회행사 (cuộc thi / sự kiện trao giải) → [[TOPIC_대회행사]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 대회에서 발표할 원고의 양은 제한이 없다 | Lượng bài phát biểu trong cuộc thi không giới hạn | ❌ | Bài ghi 원고지 **10장 정도** → có mức quy định (제한 없다↔10장 정도) — [[TRAP_dao_thong_tin]]. |
+| ② | 외국에서 살고 있는 사람도 참가할 수 있다 | Người đang sống ở nước ngoài cũng có thể tham gia | ❌ | Bài ghi **한국에 사는** 외국인 대학생 대상 → đối tượng sống ở Hàn (한국 거주↔외국 거주) — [[TRAP_dao_thong_tin]]. |
+| ③ | 본선 참가자는 홈페이지에서 확인할 수 있다 | Người vào chung kết có thể xác nhận trên trang chủ | ✅ | 본선 참가자는 **홈페이지를 통해 공지**할 예정 → khớp. |
+| ④ | 신청자는 신문사에 가서 원고를 제출하면 된다 | Người đăng ký chỉ cần đến tòa soạn nộp bài | ❌ | Bài ghi 12월 5일까지 **이메일로 보내면** 된다 → gửi email, không đến nộp trực tiếp (이메일↔방문) — [[TRAP_dao_thong_tin]]. |
+
+### Chú giải chi tiết
+
+> 아침신문사에서는 오는 12월 20일에 한국어 말하기 대회를 개최한다.
+→ Tòa soạn báo Achim tổ chức cuộc thi nói tiếng Hàn vào ngày 20 tháng 12 tới.
+- **Ngữ pháp:**
+  - N에서는 (chủ thể tổ chức + chủ đề — 신문사에서는)
+  - 오는 + N (… sắp tới — 오는 12월 20일)
+  - N에 (vào — 20일에)
+  - N을/를 개최하다 (tổ chức — 대회를 개최한다)
+- **Từ vựng:**
+  - 신문사 — tòa soạn báo
+  - 오는 — (ngày) sắp tới
+  - 한국어 — tiếng Hàn
+  - 말하기 — kỹ năng nói
+  - 대회 — cuộc thi
+  - 개최하다 — tổ chức
+
+> 이 대회는 한국에 사는 외국인 대학생을 대상으로 하며 주제는 '나와 한국'이다.
+→ Cuộc thi dành cho sinh viên nước ngoài đang sống ở Hàn Quốc, chủ đề là 'Tôi và Hàn Quốc'.
+- **Ngữ pháp:**
+  - N은/는 (chủ đề — 대회는)
+  - N에 살다 (sống ở — 한국에 사는)
+  - V-는 + N (định ngữ — 사는 외국인 대학생)
+  - N을/를 대상으로 하다 (nhắm vào đối tượng — 대학생을 대상으로 하며)
+  - [[GR_으며]] (-(으)며: và — 하며)
+  - N와/과 (và — 나와 한국)
+- **Từ vựng:**
+  - 살다 — sống
+  - 외국인 — người nước ngoài
+  - 대학생 — sinh viên đại học
+  - 대상 — đối tượng
+  - 주제 — chủ đề
+
+> 참가를 원하는 사람은 발표할 내용을 원고지 10장 정도의 글로 써서 12월 5일까지 이메일로 보내면 된다.
+→ Người muốn tham gia chỉ cần viết nội dung phát biểu thành bài khoảng 10 trang giấy ô li và gửi qua email trước ngày 5/12.
+- **Ngữ pháp:**
+  - N을/를 원하다 (muốn — 참가를 원하는)
+  - V-는 + N (định ngữ — 원하는 사람)
+  - V-을 + N (định ngữ tương lai — 발표할 내용)
+  - N의 (của — 10장 정도의 글)
+  - N(으)로 (thành/bằng — 글로)
+  - V-아/어서 (rồi — 써서)
+  - N까지 (hạn đến — 5일까지)
+  - N(으)로 (bằng — 이메일로)
+  - V-(으)면 되다 (chỉ cần… là được — 보내면 된다)
+- **Từ vựng:**
+  - 참가 — tham gia
+  - 원하다 — muốn/mong
+  - 발표하다 — phát biểu/trình bày
+  - 내용 — nội dung
+  - 원고지 — giấy viết bài (ô li)
+  - 장 — tờ/trang
+  - 글 — bài viết
+  - 이메일 — email
+  - 보내다 — gửi
+
+> 예선은 원고 심사로 대신하며 본선 참가자는 홈페이지를 통해 공지할 예정이다.
+→ Vòng sơ loại được thay bằng việc chấm bài viết, còn người vào chung kết sẽ được thông báo qua trang chủ.
+- **Ngữ pháp:**
+  - N은/는 (chủ đề — 예선은)
+  - N(으)로 대신하다 (thay bằng — 심사로 대신하며)
+  - [[GR_으며]] (-(으)며: và — 대신하며)
+  - N을/를 통해 (qua — 홈페이지를 통해)
+  - V-을 예정이다 (dự kiến sẽ — 공지할 예정이다)
+- **Từ vựng:**
+  - 예선 — vòng sơ loại
+  - 원고 — bản thảo/bài viết
+  - 심사 — thẩm định/chấm
+  - 대신하다 — thay thế
+  - 본선 — vòng chung kết
+  - 참가자 — người tham gia
+  - 공지하다 — thông báo
+  - 예정 — dự kiến
+
+---
+
+## Câu 12 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 조리실 안이 보이는 한 식당이 인기를 끌고 있다. 이 식당은 처음에 깨끗한 주방을 손님들에게 보여 주려고 조리실을 유리로 만들었다. 그런데 손님들은 주방보다는 음식 만드는 과정에 더 큰 관심을 보였다. 요리사의 요리하는 모습이 신기했기 때문이다. 그래서 식당은 손님들을 위해 매일 한 번씩 요리 만드는 것을 공연처럼 보여 주고 있다.
+
+**Dịch:**
+> Một nhà hàng có thể nhìn thấy bên trong bếp đang rất được ưa chuộng. Ban đầu nhà hàng này làm phòng bếp bằng kính để cho khách thấy gian bếp sạch sẽ. Thế nhưng khách lại quan tâm đến quá trình nấu ăn hơn là gian bếp. Vì hình ảnh đầu bếp nấu nướng trông thật thú vị. Vì vậy, nhà hàng mỗi ngày một lần trình diễn việc nấu ăn cho khách xem như một buổi biểu diễn.
+
+**Chủ đề:** 식당문화 (văn hóa nhà hàng / trải nghiệm ăn uống) → [[TOPIC_식당문화]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 이 식당은 건물 전체가 유리로 만들어졌다 | Nhà hàng này toàn bộ tòa nhà làm bằng kính | ❌ | Bài ghi chỉ **조리실을 유리로** 만듦 → chỉ phòng bếp, không phải cả tòa nhà (조리실만↔건물 전체) — [[TRAP_noi_qua]]. |
+| ② | 이 식당의 손님들은 음식 만드는 것을 볼 수 있다 | Khách của nhà hàng có thể xem việc nấu ăn | ✅ | 조리실 유리 + 요리 만드는 것을 **공연처럼 보여 주고** 있다 → khớp. |
+| ③ | 이 식당은 음식을 먹는 곳과 조리실의 구분이 없다 | Nhà hàng không phân biệt chỗ ăn và phòng bếp | ❌ | Bài chỉ nói bếp làm kính để nhìn thấy, **không** nói bỏ ranh giới hai khu → bịa nội dung — [[TRAP_khong_co_thong_tin]]. |
+| ④ | 이 식당은 손님들을 위해 매일 다른 공연을 준비한다 | Nhà hàng chuẩn bị buổi biểu diễn khác nhau mỗi ngày | ❌ | Bài ghi 요리 만드는 것을 **공연처럼** 보여줌 (như biểu diễn), không phải một buổi biểu diễn khác — [[TRAP_dao_thong_tin]]. |
+
+### Chú giải chi tiết
+
+> 조리실 안이 보이는 한 식당이 인기를 끌고 있다.
+→ Một nhà hàng có thể nhìn thấy bên trong bếp đang rất được ưa chuộng.
+- **Ngữ pháp:**
+  - N이/가 보이다 (nhìn thấy được — 안이 보이는)
+  - V-는 + N (định ngữ — 보이는 식당)
+  - 한 + N (một — 한 식당)
+  - V-고 있다 (đang — 끌고 있다)
+- **Từ vựng:**
+  - 조리실 — phòng bếp/khu chế biến
+  - 안 — bên trong
+  - 보이다 — được nhìn thấy
+  - 식당 — nhà hàng/quán ăn
+  - 인기를 끌다 — thu hút sự yêu thích · [[VC_인기를_끌다]]
+
+> 이 식당은 처음에 깨끗한 주방을 손님들에게 보여 주려고 조리실을 유리로 만들었다.
+→ Ban đầu nhà hàng này làm phòng bếp bằng kính để cho khách thấy gian bếp sạch sẽ.
+- **Ngữ pháp:**
+  - N에 (thời điểm — 처음에)
+  - A-(으)ㄴ + N (định ngữ — 깨끗한 주방)
+  - N에게 (cho — 손님들에게)
+  - V-아/어 주다 (làm cho — 보여 주려고)
+  - V-(으)려고 (để/nhằm — 보여 주려고)
+  - N(으)로 만들다 (làm bằng — 유리로 만들었다)
+- **Từ vựng:**
+  - 처음 — ban đầu
+  - 깨끗하다 — sạch sẽ
+  - 주방 — nhà bếp
+  - 손님 — khách
+  - 보여 주다 — cho xem
+  - 유리 — kính/thủy tinh
+  - 만들다 — làm/tạo
+
+> 그런데 손님들은 주방보다는 음식 만드는 과정에 더 큰 관심을 보였다.
+→ Thế nhưng khách lại quan tâm đến quá trình nấu ăn hơn là gian bếp.
+- **Ngữ pháp:**
+  - 그런데 (thế nhưng, chuyển ý)
+  - N보다는 (hơn là — 주방보다는)
+  - V-는 + N (định ngữ — 만드는 과정)
+  - N에 관심을 보이다 (quan tâm đến — 과정에 관심을 보였다) · [[VC_관심을_보이다]]
+  - 더 큰 (lớn hơn — 더 큰 관심)
+- **Từ vựng:**
+  - 음식 — món ăn
+  - 과정 — quá trình
+  - 관심 — sự quan tâm
+
+> 요리사의 요리하는 모습이 신기했기 때문이다.
+→ Vì hình ảnh đầu bếp nấu nướng trông thật thú vị.
+- **Ngữ pháp:**
+  - N의 (của — 요리사의)
+  - V-는 + N (định ngữ — 요리하는 모습)
+  - A-았/었기 때문이다 (là vì — 신기했기 때문이다)
+- **Từ vựng:**
+  - 요리사 — đầu bếp
+  - 요리하다 — nấu ăn
+  - 모습 — hình ảnh/dáng vẻ
+  - 신기하다 — kỳ thú/thú vị
+
+> 그래서 식당은 손님들을 위해 매일 한 번씩 요리 만드는 것을 공연처럼 보여 주고 있다.
+→ Vì vậy nhà hàng mỗi ngày một lần trình diễn việc nấu ăn cho khách xem như một buổi biểu diễn.
+- **Ngữ pháp:**
+  - 그래서 (vì vậy)
+  - N을/를 위해 (vì/cho — 손님들을 위해)
+  - N씩 (mỗi — 한 번씩)
+  - V-는 것 (việc — 만드는 것)
+  - N처럼 (như — 공연처럼)
+  - V-아/어 주고 있다 (đang cho xem — 보여 주고 있다)
+- **Từ vựng:**
+  - 매일 — mỗi ngày
+  - 번 — lần
+  - 공연 — buổi biểu diễn

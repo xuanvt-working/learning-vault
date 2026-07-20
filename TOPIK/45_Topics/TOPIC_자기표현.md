@@ -7,7 +7,7 @@ category: 화제
 members: [가면, 자기표현]
 history:
   - {exam: TOPIK_35, q: 12, role: correct, reason: "자기표현 — 가면을 통해 현실과 다른/되고 싶은 나를 표현·스스로 만족"}
-correct_count: 0
+correct_count: 1
 distractor_count: 0
 select_signal: "Đoạn văn bàn về tâm lý muốn thể hiện / trở thành một cái tôi khác (가면·역할·표현): giải thích cơ chế tâm lý và hiệu quả tự thỏa mãn."
 kill_signal: "Không phải khi đoạn văn mô tả sự vật/địa điểm/sự kiện cụ thể thay vì hiện tượng tâm lý nội tâm."

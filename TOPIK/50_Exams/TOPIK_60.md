@@ -421,3 +421,171 @@ tags: [korean/topik, exam]
   - 기타 — khác
   - 절반 — một nửa
   - 응답 — câu trả lời
+
+---
+
+## Câu 11 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 인주시의 한 고등학교는 올해부터 여름 교복으로 티셔츠와 반바지를 입고 있다. 기존 정장형 교복은 활동할 때 불편하다는 학생들의 의견이 많았기 때문이다. 몸이 편해지니 학생들은 다양한 활동에 적극적으로 참여하기 시작했고 공부에도 더 집중할 수 있어서 학습 효율이 올라갔다. 새 교복은 기존 교복보다 가격이 저렴해서 학부모에게도 인기다.
+
+**Dịch:**
+> Một trường cấp ba ở thành phố Inju từ năm nay mặc áo thun và quần soóc làm đồng phục hè. Đó là vì có nhiều ý kiến của học sinh cho rằng đồng phục kiểu vest cũ bất tiện khi vận động. Khi cơ thể thoải mái hơn, học sinh bắt đầu tích cực tham gia các hoạt động đa dạng và tập trung học tốt hơn nên hiệu quả học tập tăng lên. Đồng phục mới có giá rẻ hơn đồng phục cũ nên cũng được phụ huynh ưa chuộng.
+
+**Chủ đề:** 학교생활 (đời sống học đường) → [[TOPIC_학교생활]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 학부모들은 정장형 교복을 더 좋아한다 | Phụ huynh thích đồng phục kiểu vest hơn | ❌ | Bài ghi 새 교복이 학부모에게도 **인기** → phụ huynh thích đồng phục mới (정장형↔새 교복) — [[TRAP_dao_thong_tin]]. |
+| ② | 새 교복은 정장형 교복보다 가격이 비싸다 | Đồng phục mới đắt hơn đồng phục vest | ❌ | Bài ghi 새 교복은 기존 교복보다 가격이 **저렴** → rẻ hơn (저렴↔비싸) — [[TRAP_dao_thong_tin]]. |
+| ③ | 기존 교복에 비해 새 교복은 활동할 때 불편하다 | So với đồng phục cũ, đồng phục mới bất tiện khi vận động | ❌ | Bài ghi **기존 정장형** 교복이 활동할 때 불편 → đảo cái nào bất tiện — [[TRAP_dao_thong_tin]]. |
+| ④ | 학교는 학생들의 의견을 받아들여서 교복을 바꿨다 | Trường tiếp thu ý kiến học sinh nên đã đổi đồng phục | ✅ | 불편하다는 학생들의 **의견이 많았기 때문**에 교복 변경 → khớp. |
+
+### Chú giải chi tiết
+
+> 인주시의 한 고등학교는 올해부터 여름 교복으로 티셔츠와 반바지를 입고 있다.
+→ Một trường cấp ba ở thành phố Inju từ năm nay mặc áo thun và quần soóc làm đồng phục hè.
+- **Ngữ pháp:**
+  - N의 (của — 인주시의)
+  - 한 + N (một — 한 고등학교)
+  - N부터 (từ — 올해부터)
+  - N(으)로 (làm/với tư cách — 여름 교복으로)
+  - N와/과 (và — 티셔츠와 반바지)
+  - V-고 있다 (đang — 입고 있다)
+- **Từ vựng:**
+  - 고등학교 — trường cấp ba
+  - 올해 — năm nay
+  - 여름 — mùa hè
+  - 교복 — đồng phục
+  - 티셔츠 — áo thun
+  - 반바지 — quần soóc
+  - 입다 — mặc
+
+> 기존 정장형 교복은 활동할 때 불편하다는 학생들의 의견이 많았기 때문이다.
+→ Đó là vì có nhiều ý kiến của học sinh cho rằng đồng phục kiểu vest cũ bất tiện khi vận động.
+- **Ngữ pháp:**
+  - N은/는 (chủ đề — 교복은)
+  - V-을 때 (khi — 활동할 때)
+  - A-다는 + N (định ngữ trích dẫn — 불편하다는 의견)
+  - N의 (của — 학생들의)
+  - A-았/었기 때문이다 (là vì — 많았기 때문이다)
+- **Từ vựng:**
+  - 기존 — hiện có/cũ
+  - 정장형 — kiểu vest/trang trọng
+  - 활동하다 — hoạt động/vận động
+  - 불편하다 — bất tiện
+  - 학생 — học sinh
+  - 의견 — ý kiến
+
+> 몸이 편해지니 학생들은 다양한 활동에 적극적으로 참여하기 시작했고 공부에도 더 집중할 수 있어서 학습 효율이 올라갔다.
+→ Khi cơ thể thoải mái hơn, học sinh bắt đầu tích cực tham gia các hoạt động đa dạng và tập trung học tốt hơn nên hiệu quả học tập tăng lên.
+- **Ngữ pháp:**
+  - A-아/어지다 (trở nên — 편해지다)
+  - V-(으)니 (do/khi — 편해지니)
+  - A-(으)ㄴ + N (định ngữ — 다양한 활동)
+  - N에 (vào — 활동에)
+  - N(으)로 (một cách — 적극적으로)
+  - V-기 시작하다 (bắt đầu — 참여하기 시작했고)
+  - N에도 (cả vào — 공부에도)
+  - -을 수 있어서 (vì có thể — 집중할 수 있어서)
+- **Từ vựng:**
+  - 몸 — cơ thể
+  - 편하다 — thoải mái
+  - 다양하다 — đa dạng
+  - 적극적 — tích cực
+  - 참여하다 — tham gia
+  - 공부 — học tập
+  - 집중하다 — tập trung
+  - 학습 효율 — hiệu quả học tập
+  - 올라가다 — tăng lên
+
+> 새 교복은 기존 교복보다 가격이 저렴해서 학부모에게도 인기다.
+→ Đồng phục mới có giá rẻ hơn đồng phục cũ nên cũng được phụ huynh ưa chuộng.
+- **Ngữ pháp:**
+  - 새 + N (mới — 새 교복)
+  - N보다 (hơn — 기존 교복보다)
+  - A-아/어서 (nên — 저렴해서)
+  - N에게도 (với cả — 학부모에게도)
+- **Từ vựng:**
+  - 가격 — giá
+  - 저렴하다 — rẻ
+  - 학부모 — phụ huynh
+  - 인기 — sự ưa chuộng
+
+---
+
+## Câu 12 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 최근 한 아파트에서는 힘들게 일하는 택배 기사, 청소원 등을 위한 무료 카페를 열어서 화제가 되고 있다. 이 카페는 언제든 부담 없이 음료를 마시면서 쉴 수 있는 곳이어서 이용자들이 만족해하고 있다. 주민들은 처음에는 관심을 안 보였지만 지금은 카페에 음료와 간식을 제공하는 등 많은 도움을 주고 있다.
+
+**Dịch:**
+> Gần đây, một khu chung cư đang gây chú ý vì mở quán cà phê miễn phí dành cho những người lao động vất vả như tài xế giao hàng, nhân viên vệ sinh, v.v. Quán cà phê này là nơi có thể uống nước và nghỉ ngơi bất cứ lúc nào mà không phải bận tâm, nên người sử dụng rất hài lòng. Cư dân ban đầu không tỏ ra quan tâm, nhưng giờ đây đang giúp đỡ nhiều như cung cấp đồ uống và đồ ăn nhẹ cho quán.
+
+**Chủ đề:** 나눔봉사 (sẻ chia & lòng tốt / nghĩa cử đẹp) → [[TOPIC_나눔봉사]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 이 카페에 간식을 가져다주는 주민들이 생겼다 | Đã xuất hiện những cư dân mang đồ ăn nhẹ đến quán | ✅ | 지금은 주민들이 카페에 **음료와 간식을 제공** → khớp. |
+| ② | 카페를 열 때 아파트 주민들이 적극적으로 도왔다 | Khi mở quán, cư dân đã tích cực giúp đỡ | ❌ | Bài ghi 주민들은 **처음에는 관심을 안 보였**다 → ban đầu thờ ơ (처음↔지금) — [[TRAP_dao_thoi_diem]]. |
+| ③ | 이 카페는 아파트 주민들이 돈을 벌기 위해서 열었다 | Quán do cư dân mở để kiếm tiền | ❌ | Bài ghi 택배 기사·청소원 위한 **무료 카페** → miễn phí, không vì kiếm tiền (무료↔돈 벌기) — [[TRAP_mien_phi_co_phi]]. |
+| ④ | 택배 기사들이 카페의 운영에 참여해 화제가 되고 있다 | Tài xế giao hàng tham gia vận hành quán nên gây chú ý | ❌ | 택배 기사는 서비스를 **받는** 대상 (không phải người vận hành) → đảo vai — [[TRAP_dao_thong_tin]]. |
+
+### Chú giải chi tiết
+
+> 최근 한 아파트에서는 힘들게 일하는 택배 기사, 청소원 등을 위한 무료 카페를 열어서 화제가 되고 있다.
+→ Gần đây, một khu chung cư đang gây chú ý vì mở quán cà phê miễn phí dành cho những người lao động vất vả như tài xế giao hàng, nhân viên vệ sinh, v.v.
+- **Ngữ pháp:**
+  - N에서는 (ở (chủ thể+chủ đề) — 아파트에서는)
+  - A-게 (một cách — 힘들게)
+  - V-는 + N (định ngữ — 일하는 택배 기사)
+  - N 등 (v.v. — 청소원 등)
+  - N을/를 위한 + N (định ngữ mục đích — 위한 무료 카페)
+  - V-아/어서 (nên — 열어서)
+  - N이/가 되다 (trở thành — 화제가 되고 있다)
+- **Từ vựng:**
+  - 아파트 — chung cư
+  - 힘들다 — vất vả
+  - 일하다 — làm việc
+  - 택배 기사 — tài xế giao hàng
+  - 청소원 — nhân viên vệ sinh
+  - 무료 — miễn phí
+  - 카페 — quán cà phê
+  - 열다 — mở
+  - 화제가 되다 — gây chú ý/thành đề tài · [[VC_화제가_되다]]
+
+> 이 카페는 언제든 부담 없이 음료를 마시면서 쉴 수 있는 곳이어서 이용자들이 만족해하고 있다.
+→ Quán này là nơi có thể uống nước và nghỉ ngơi bất cứ lúc nào mà không phải bận tâm, nên người sử dụng rất hài lòng.
+- **Ngữ pháp:**
+  - 언제든 (bất cứ lúc nào)
+  - N 없이 (không có/không cần — 부담 없이)
+  - V-(으)면서 (vừa… vừa — 마시면서)
+  - -을 수 있는 + N (định ngữ khả năng — 쉴 수 있는 곳)
+  - N이어서 (vì là — 곳이어서)
+  - V-아/어하고 있다 (đang cảm thấy — 만족해하고 있다)
+- **Từ vựng:**
+  - 언제든 — bất cứ lúc nào
+  - 부담 — gánh nặng/áy náy
+  - 음료 — đồ uống
+  - 쉬다 — nghỉ ngơi
+  - 곳 — nơi
+  - 이용자 — người sử dụng
+  - 만족하다 — hài lòng
+
+> 주민들은 처음에는 관심을 안 보였지만 지금은 카페에 음료와 간식을 제공하는 등 많은 도움을 주고 있다.
+→ Cư dân ban đầu không tỏ ra quan tâm, nhưng giờ đây đang giúp đỡ nhiều như cung cấp đồ uống và đồ ăn nhẹ cho quán.
+- **Ngữ pháp:**
+  - N은/는 (chủ đề — 주민들은)
+  - N에는 (vào lúc — 처음에는)
+  - 안 + V (không — 안 보였지만)
+  - V-지만 (nhưng — 보였지만)
+  - N에 (cho/vào — 카페에)
+  - V-는 등 (như là/v.v. — 제공하는 등)
+  - V-고 있다 (đang — 주고 있다)
+- **Từ vựng:**
+  - 주민 — cư dân
+  - 관심을 보이다 — tỏ ra quan tâm · [[VC_관심을_보이다]]
+  - 지금 — bây giờ
+  - 간식 — đồ ăn nhẹ
+  - 제공하다 — cung cấp
+  - 도움을 주다 — giúp đỡ

@@ -405,3 +405,172 @@ tags: [korean/topik, exam]
   - 건축가 — kiến trúc sư
   - 군인 — quân nhân
   - 개인 사업 — kinh doanh cá nhân
+
+---
+
+## Câu 11 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 지난 24일에 '제7회 소비자 선정 최고 브랜드 대상' 시상식이 인주신문사 대강당에서 개최됐다. 이 상은 소비자의 온라인 투표로 수상 브랜드가 선정되어 의미가 크다. 지난해와 같이 100개 브랜드가 상을 받았는데 올해는 처음으로 친환경 화장품 브랜드 두 개가 포함되었다.
+
+**Dịch:**
+> Ngày 24 vừa qua, lễ trao giải 'Giải thưởng Thương hiệu tốt nhất do người tiêu dùng bình chọn lần thứ 7' đã được tổ chức tại hội trường lớn của tòa soạn báo Inju. Giải thưởng này có ý nghĩa lớn vì thương hiệu đoạt giải được chọn qua bình chọn trực tuyến của người tiêu dùng. Giống như năm ngoái, 100 thương hiệu đã nhận giải, nhưng năm nay lần đầu tiên có hai thương hiệu mỹ phẩm thân thiện môi trường được đưa vào.
+
+**Chủ đề:** 대회행사 (cuộc thi / sự kiện trao giải) → [[TOPIC_대회행사]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 소비자가 수상 브랜드를 선정했다 | Người tiêu dùng đã chọn thương hiệu đoạt giải | ✅ | 소비자의 **온라인 투표로** 수상 브랜드가 선정 → khớp. |
+| ② | 기업들이 직접 온라인 투표에 참여했다 | Các doanh nghiệp trực tiếp tham gia bình chọn trực tuyến | ❌ | Bài ghi **소비자의** 온라인 투표 → người tiêu dùng bỏ phiếu (소비자↔기업) — [[TRAP_dao_thong_tin]]. |
+| ③ | 지난해보다 더 많은 브랜드가 선정됐다 | Nhiều thương hiệu được chọn hơn năm ngoái | ❌ | Bài ghi **지난해와 같이 100개** 브랜드 → bằng năm ngoái (같음↔더 많음) — [[TRAP_dao_thong_tin]]. |
+| ④ | 친환경 화장품 브랜드는 상을 못 받았다 | Thương hiệu mỹ phẩm thân thiện môi trường không nhận được giải | ❌ | Bài ghi 올해 **처음으로 친환경 화장품 브랜드 두 개가 포함** → đã nhận (포함↔못 받음) — [[TRAP_dao_thong_tin]]. |
+
+### Chú giải chi tiết
+
+> 지난 24일에 '제7회 소비자 선정 최고 브랜드 대상' 시상식이 인주신문사 대강당에서 개최됐다.
+→ Ngày 24 vừa qua, lễ trao giải 'Giải thưởng Thương hiệu tốt nhất do người tiêu dùng bình chọn lần thứ 7' đã được tổ chức tại hội trường lớn của tòa soạn báo Inju.
+- **Ngữ pháp:**
+  - 지난 + N에 (vào… vừa qua — 지난 24일에)
+  - 제-회 (thứ… lần… — 제7회)
+  - N이/가 (chủ ngữ — 시상식이)
+  - N에서 (tại — 대강당에서)
+  - V-되다 (bị động — 개최됐다)
+- **Từ vựng:**
+  - 제N회 — lần thứ N
+  - 소비자 — người tiêu dùng
+  - 선정 — bình chọn/tuyển chọn
+  - 최고 — tốt nhất/cao nhất
+  - 브랜드 — thương hiệu
+  - 대상 — giải thưởng lớn (grand prize)
+  - 시상식 — lễ trao giải
+  - 대강당 — hội trường lớn
+  - 개최되다 — được tổ chức
+
+> 이 상은 소비자의 온라인 투표로 수상 브랜드가 선정되어 의미가 크다.
+→ Giải thưởng này có ý nghĩa lớn vì thương hiệu đoạt giải được chọn qua bình chọn trực tuyến của người tiêu dùng.
+- **Ngữ pháp:**
+  - N은/는 (chủ đề — 상은)
+  - N의 (của — 소비자의)
+  - N(으)로 (bằng/qua — 투표로)
+  - N이/가 선정되다 (được chọn — 브랜드가 선정되어)
+  - V-아/어 (do đó/nối — 선정되어)
+  - N이/가 크다 (lớn — 의미가 크다)
+- **Từ vựng:**
+  - 상 — giải thưởng
+  - 온라인 — trực tuyến
+  - 투표 — bình chọn/bỏ phiếu
+  - 수상 — đoạt giải
+  - 선정되다 — được chọn
+  - 의미 — ý nghĩa
+
+> 지난해와 같이 100개 브랜드가 상을 받았는데 올해는 처음으로 친환경 화장품 브랜드 두 개가 포함되었다.
+→ Giống như năm ngoái, 100 thương hiệu đã nhận giải, nhưng năm nay lần đầu tiên có hai thương hiệu mỹ phẩm thân thiện môi trường được đưa vào.
+- **Ngữ pháp:**
+  - N와/과 같이 (giống như — 지난해와 같이)
+  - N이/가 (chủ ngữ — 브랜드가)
+  - N을/를 받다 (nhận — 상을 받았는데)
+  - [[GR_는데]] (-는데: nhưng/nền — 받았는데)
+  - N은/는 (chủ đề — 올해는)
+  - 처음으로 (lần đầu tiên)
+  - N이/가 포함되다 (được bao gồm — 두 개가 포함되었다)
+- **Từ vựng:**
+  - 지난해 — năm ngoái
+  - 개 — cái (đơn vị đếm)
+  - 올해 — năm nay
+  - 처음으로 — lần đầu tiên
+  - 친환경 — thân thiện môi trường
+  - 화장품 — mỹ phẩm
+  - 포함되다 — được bao gồm
+
+---
+
+## Câu 12 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 최근 한 나라에서 4,400년 전에 만들어진 무덤이 발견됐다. 이 무덤의 주인은 당시 왕으로 밝혀졌으며 무덤 벽에는 고대 문자와 다양한 색의 그림이 가득했다. 이 무덤은 오랜 시간이 지났지만 색이 거의 그대로 보존되어 있어 역사적 가치가 높다고 전문가들은 전했다. 무덤의 일부는 일반인에게도 곧 공개될 예정이다.
+
+**Dịch:**
+> Gần đây tại một quốc gia, người ta phát hiện một ngôi mộ được xây từ 4.400 năm trước. Chủ nhân ngôi mộ được xác định là vua thời đó, và trên tường mộ đầy chữ viết cổ cùng những bức tranh nhiều màu sắc. Các chuyên gia cho biết ngôi mộ này tuy đã trải qua thời gian dài nhưng màu sắc gần như được bảo tồn nguyên vẹn nên có giá trị lịch sử cao. Một phần ngôi mộ dự kiến sẽ sớm được mở cửa cho cả người dân thường.
+
+**Chủ đề:** 역사유물 (di tích / cổ vật lịch sử) → [[TOPIC_역사유물]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 무덤의 주인이 누구인지 찾고 있다 | Đang đi tìm xem chủ nhân ngôi mộ là ai | ❌ | Bài ghi 주인은 당시 **왕으로 밝혀졌**다 → đã xác định (밝혀짐↔찾는 중) — [[TRAP_dao_thong_tin]]. |
+| ② | 무덤 안을 구경하는 사람들이 많아졌다 | Nhiều người vào tham quan bên trong mộ | ❌ | Bài ghi 일부는 **곧 공개될 예정** → chưa mở cửa (곧 공개 예정↔đã đông người tham quan) — [[TRAP_dao_thoi_diem]]. |
+| ③ | 무덤 안의 그림은 색의 상태가 좋은 편이다 | Tranh trong mộ có tình trạng màu sắc khá tốt | ✅ | 색이 거의 **그대로 보존**되어 역사적 가치 높음 → khớp. |
+| ④ | 무덤 바닥에서 다양한 문자와 그림이 발견됐다 | Chữ viết và tranh đa dạng được phát hiện dưới sàn mộ | ❌ | Bài ghi 무덤 **벽에** 문자·그림 가득 → trên tường, không phải sàn (벽↔바닥) — [[TRAP_dao_thong_tin]]. |
+
+### Chú giải chi tiết
+
+> 최근 한 나라에서 4,400년 전에 만들어진 무덤이 발견됐다.
+→ Gần đây tại một quốc gia, người ta phát hiện một ngôi mộ được xây từ 4.400 năm trước.
+- **Ngữ pháp:**
+  - N에서 (tại — 나라에서)
+  - N 전에 (trước… — 4,400년 전에)
+  - V-아/어지다 + ㄴ + N (định ngữ bị động — 만들어진 무덤)
+  - N이/가 발견되다 (được phát hiện — 무덤이 발견됐다)
+- **Từ vựng:**
+  - 나라 — quốc gia
+  - 전 — trước (thời gian)
+  - 만들어지다 — được làm/xây
+  - 무덤 — ngôi mộ
+  - 발견되다 — được phát hiện
+
+> 이 무덤의 주인은 당시 왕으로 밝혀졌으며 무덤 벽에는 고대 문자와 다양한 색의 그림이 가득했다.
+→ Chủ nhân ngôi mộ được xác định là vua thời đó, và trên tường mộ đầy chữ viết cổ cùng những bức tranh nhiều màu sắc.
+- **Ngữ pháp:**
+  - N의 (của — 무덤의)
+  - N(으)로 밝혀지다 (được xác định là — 왕으로 밝혀졌으며)
+  - [[GR_으며]] (-(으)며: và — 밝혀졌으며)
+  - N에는 (trên/vào — 벽에는)
+  - N와/과 (và — 문자와 그림)
+  - N의 (của — 다양한 색의 그림)
+  - N이/가 가득하다 (đầy — 그림이 가득했다)
+- **Từ vựng:**
+  - 주인 — chủ nhân
+  - 당시 — thời đó
+  - 왕 — vua
+  - 밝혀지다 — được làm rõ/xác định
+  - 벽 — tường
+  - 고대 — cổ đại
+  - 문자 — chữ viết
+  - 다양하다 — đa dạng
+  - 색 — màu
+  - 그림 — tranh
+  - 가득하다 — đầy
+
+> 이 무덤은 오랜 시간이 지났지만 색이 거의 그대로 보존되어 있어 역사적 가치가 높다고 전문가들은 전했다.
+→ Các chuyên gia cho biết ngôi mộ này tuy đã trải qua thời gian dài nhưng màu sắc gần như được bảo tồn nguyên vẹn nên có giá trị lịch sử cao.
+- **Ngữ pháp:**
+  - N은/는 (chủ đề — 무덤은)
+  - A-(으)ㄴ + N (định ngữ — 오랜 시간)
+  - V-았/었지만 (tuy… nhưng — 지났지만)
+  - [[GR_아어_있다]] (-아/어 있다: trạng thái tồn tại — 보존되어 있어)
+  - V-아/어 (nên/nối — 있어)
+  - A-다고 전하다 (cho biết rằng — 높다고 전했다)
+- **Từ vựng:**
+  - 오래다 — lâu/dài (thời gian)
+  - 지나다 — trôi qua
+  - 거의 — hầu như/gần như
+  - 그대로 — nguyên vẹn/như cũ
+  - 보존되다 — được bảo tồn
+  - 역사적 — (thuộc) lịch sử
+  - 가치 — giá trị
+  - 전문가 — chuyên gia
+  - 전하다 — truyền đạt/cho biết
+
+> 무덤의 일부는 일반인에게도 곧 공개될 예정이다.
+→ Một phần ngôi mộ dự kiến sẽ sớm được mở cửa cho cả người dân thường.
+- **Ngữ pháp:**
+  - N의 (của — 무덤의)
+  - N은/는 (chủ đề — 일부는)
+  - N에게도 (cho cả — 일반인에게도)
+  - 곧 (sớm/sắp)
+  - V-될 예정이다 (dự kiến sẽ được — 공개될 예정이다)
+- **Từ vựng:**
+  - 일부 — một phần
+  - 일반인 — người dân thường
+  - 곧 — sớm/sắp
+  - 공개되다 — được công khai/mở cửa
+  - 예정 — dự kiến
