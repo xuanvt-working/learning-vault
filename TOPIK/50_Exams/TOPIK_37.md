@@ -613,3 +613,238 @@ tags: [korean/topik, exam]
   - 매일 — mỗi ngày
   - 번 — lần
   - 공연 — buổi biểu diễn
+
+---
+
+## Câu 13 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 그런 과정이 반복되면서 자연스럽게 광고가 된다.
+> (나) 온라인에서 새로운 광고 기법이 주목을 받고 있다.
+> (다) 이것은 제품을 직접 소개하지 않고 재미있는 동영상을 이용하는 방법이다.
+> (라) 동영상을 보고 재미있으면 사람들은 친한 사람들에게 그 동영상을 전달한다.
+
+**Dịch:**
+> (가) Quá trình đó lặp đi lặp lại thì tự nhiên trở thành quảng cáo.
+> (나) Trên mạng, một kỹ thuật quảng cáo mới đang được chú ý.
+> (다) Đây là cách không giới thiệu sản phẩm trực tiếp mà dùng video thú vị.
+> (라) Xem video thấy vui thì người ta chuyển video đó cho những người thân.
+
+**Trình tự đúng:** (나)→(다)→(라)→(가)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (나)-(가)-(라)-(다) | ❌ | 가 "그런 과정" ngay sau 나 → 그런 과정 chưa có tiền ngữ (quá trình lan truyền). |
+| ② | (나)-(다)-(라)-(가) | ✅ | 나 mở đầu giới thiệu kỹ thuật mới (không 지시어) [[SEQ_cau_mo_dau]] → 다 "이것" hồi chiếu định nghĩa cách làm [[SEQ_hoi_chieu]] → 라 mô tả người xem chuyển video → 가 "그런 과정" hồi chiếu, kết: thành quảng cáo [[SEQ_hoi_chieu]]. |
+| ③ | (라)-(가)-(나)-(다) | ❌ | mở bằng 라 (bước chi tiết) trước khi giới thiệu chủ đề 나. |
+| ④ | (라)-(나)-(가)-(다) | ❌ | 라 mở sai; 다 "이것" bị đẩy xuống cuối, mất tiền ngữ gần. |
+
+### Chú giải chi tiết
+
+> (나) 온라인에서 새로운 광고 기법이 주목을 받고 있다.
+→ Trên mạng, một kỹ thuật quảng cáo mới đang được chú ý.
+- **Ngữ pháp:**
+  - N에서 (ở/trên — 온라인에서)
+  - A-(으)ㄴ + N (định ngữ — 새로운 기법)
+  - N이/가 주목을 받다 (được chú ý — 기법이 주목을 받고)
+  - V-고 있다 (đang — 받고 있다)
+- **Từ vựng:**
+  - 온라인 — trực tuyến
+  - 광고 기법 — kỹ thuật quảng cáo
+  - 주목을 받다 — được chú ý · [[VC_주목을_받다]]
+
+> (다) 이것은 제품을 직접 소개하지 않고 재미있는 동영상을 이용하는 방법이다.
+→ Đây là cách không giới thiệu sản phẩm trực tiếp mà dùng video thú vị.
+- **Ngữ pháp:**
+  - 이것은 (điều này — chủ đề hồi chiếu)
+  - V-지 않고 (không… mà — 소개하지 않고)
+  - V-는 + N (định ngữ — 이용하는 방법)
+- **Từ vựng:**
+  - 제품 — sản phẩm
+  - 직접 — trực tiếp
+  - 소개하다 — giới thiệu
+  - 동영상 — video
+  - 이용하다 — sử dụng
+
+> (라) 동영상을 보고 재미있으면 사람들은 친한 사람들에게 그 동영상을 전달한다.
+→ Xem video thấy vui thì người ta chuyển video đó cho những người thân.
+- **Ngữ pháp:**
+  - V-고 (rồi/và — 보고)
+  - A-(으)면 (nếu/khi — 재미있으면)
+  - N에게 (cho — 사람들에게)
+  - 그 + N (chỉ định — 그 동영상)
+- **Từ vựng:**
+  - 재미있다 — thú vị/vui
+  - 친하다 — thân
+  - 전달하다 — chuyển/truyền đi
+
+> (가) 그런 과정이 반복되면서 자연스럽게 광고가 된다.
+→ Quá trình đó lặp đi lặp lại thì tự nhiên trở thành quảng cáo.
+- **Ngữ pháp:**
+  - 그런 + N (chỉ định hồi chiếu — 그런 과정)
+  - V-(으)면서 (trong khi/kèm theo — 반복되면서)
+  - N이/가 되다 (trở thành — 광고가 된다)
+- **Từ vựng:**
+  - 과정 — quá trình
+  - 반복되다 — được lặp lại
+  - 자연스럽게 — một cách tự nhiên
+  - 광고 — quảng cáo
+
+---
+
+## Câu 14 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 그리고 그 불꽃이 주위로 번지면서 화재로 이어지게 된다.
+> (나) 페트병을 통해 모아진 빛이 얼마 지나지 않아 불꽃을 만든다.
+> (다) 이는 물이 든 투명한 페트병이 빛을 모으는 역할을 하기 때문이다.
+> (라) 등산을 갔다가 아무 생각 없이 버린 생수병이 산불을 일으킬 수 있다.
+
+**Dịch:**
+> (가) Và tia lửa đó lan ra xung quanh rồi dẫn đến hỏa hoạn.
+> (나) Ánh sáng gom lại qua chai nhựa không lâu sau tạo ra tia lửa.
+> (다) Đó là vì chai nhựa trong suốt có nước đóng vai trò gom ánh sáng.
+> (라) Chai nước bỏ đi vô ý khi đi leo núi có thể gây cháy rừng.
+
+**Trình tự đúng:** (라)→(다)→(나)→(가)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (나)-(가)-(라)-(다) | ❌ | mở bằng 나 "모아진 빛" khi chưa nói chai gom sáng → thiếu tiền đề. |
+| ② | (나)-(라)-(다)-(가) | ❌ | 나 first sai; 가 "그리고" (kết quả) rơi xuống cuối tách khỏi 나. |
+| ③ | (라)-(나)-(가)-(다) | ❌ | 다 "이는…때문이다" (giải thích cơ chế) phải đứng ngay sau 라; đặt cuối là lệch; 가 "그리고" chèn sớm. |
+| ④ | (라)-(다)-(나)-(가) | ✅ | 라 mở đầu cảnh báo (không 지시어) [[SEQ_cau_mo_dau]] → 다 "이는…때문이다" hồi chiếu + giải thích cơ chế [[SEQ_hoi_chieu]] [[SEQ_ly_do]] → 나 mô tả tạo tia lửa → 가 "그리고" bổ sung: lan thành hỏa hoạn [[SEQ_bo_sung]]. |
+
+### Chú giải chi tiết
+
+> (라) 등산을 갔다가 아무 생각 없이 버린 생수병이 산불을 일으킬 수 있다.
+→ Chai nước bỏ đi vô ý khi đi leo núi có thể gây cháy rừng.
+- **Ngữ pháp:**
+  - V-았/었다가 (đang… rồi (chuyển) — 갔다가) · [[GR_다가]]
+  - N 없이 (không có — 생각 없이)
+  - V-(으)ㄴ + N (định ngữ quá khứ — 버린 생수병)
+  - -을 수 있다 (có thể — 일으킬 수 있다)
+- **Từ vựng:**
+  - 등산 — leo núi
+  - 아무 생각 없이 — vô ý/không suy nghĩ
+  - 버리다 — vứt bỏ
+  - 생수병 — chai nước
+  - 산불 — cháy rừng
+  - 일으키다 — gây ra
+
+> (다) 이는 물이 든 투명한 페트병이 빛을 모으는 역할을 하기 때문이다.
+→ Đó là vì chai nhựa trong suốt có nước đóng vai trò gom ánh sáng.
+- **Ngữ pháp:**
+  - 이는 (điều này — chủ đề hồi chiếu)
+  - N이/가 들다 + ㄴ + N (định ngữ — 물이 든 페트병)
+  - A-(으)ㄴ + N (định ngữ — 투명한 페트병)
+  - N을/를 하다 + 기 때문이다 (là vì làm… — 역할을 하기 때문이다)
+- **Từ vựng:**
+  - 물이 들다 — có nước (bên trong)
+  - 투명하다 — trong suốt
+  - 페트병 — chai nhựa (PET)
+  - 빛을 모으다 — gom ánh sáng
+  - 역할 — vai trò
+
+> (나) 페트병을 통해 모아진 빛이 얼마 지나지 않아 불꽃을 만든다.
+→ Ánh sáng gom lại qua chai nhựa không lâu sau tạo ra tia lửa.
+- **Ngữ pháp:**
+  - N을/를 통해 (qua — 페트병을 통해)
+  - V-아/어지다 + ㄴ + N (định ngữ bị động — 모아진 빛)
+  - 얼마 지나지 않아 (không lâu sau)
+- **Từ vựng:**
+  - 모아지다 — được gom lại
+  - 빛 — ánh sáng
+  - 불꽃 — tia lửa
+  - 만들다 — tạo ra
+
+> (가) 그리고 그 불꽃이 주위로 번지면서 화재로 이어지게 된다.
+→ Và tia lửa đó lan ra xung quanh rồi dẫn đến hỏa hoạn.
+- **Ngữ pháp:**
+  - 그리고 (và — liên từ bổ sung)
+  - 그 + N (chỉ định — 그 불꽃)
+  - V-(으)면서 (trong khi — 번지면서)
+  - N(으)로 이어지다 (dẫn đến — 화재로 이어지게)
+  - V-게 되다 (dẫn đến — 이어지게 된다) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 주위 — xung quanh
+  - 번지다 — lan ra
+  - 화재 — hỏa hoạn
+  - 이어지다 — nối tiếp/dẫn đến
+
+---
+
+## Câu 15 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 새로운 생각은 그동안 쌓은 폭넓은 지식으로부터 나온다.
+> (나) 하지만 그저 멍하니 있다고 기발한 생각이 나오는 것은 아니다.
+> (다) 다양한 지식들이 서로 연결되어서 창의적인 생각이 되는 것이다.
+> (라) 휴식을 취할 때 창의적인 생각이 떠오른다고 주장하는 사람들이 많다.
+
+**Dịch:**
+> (가) Ý tưởng mới đến từ vốn kiến thức rộng đã tích lũy bấy lâu.
+> (나) Nhưng cứ ngẩn ngơ (không làm gì) thì cũng không nảy ra ý tưởng độc đáo.
+> (다) Các kiến thức đa dạng kết nối với nhau mới thành ý tưởng sáng tạo.
+> (라) Nhiều người cho rằng khi nghỉ ngơi thì nảy ra ý tưởng sáng tạo.
+
+**Trình tự đúng:** (라)→(나)→(가)→(다)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(나)-(라)-(다) | ❌ | 가 (ý tưởng đến từ kiến thức) đứng đầu thì 하지만(나) mất đối tượng phản biện (quan điểm nghỉ→ý tưởng chưa nêu). |
+| ② | (가)-(다)-(라)-(나) | ❌ | 가 first sai; 나 "하지만" rơi xuống cuối, không phản biện được ai. |
+| ③ | (라)-(나)-(가)-(다) | ✅ | 라 mở đầu nêu quan điểm phổ biến (không 지시어) [[SEQ_cau_mo_dau]] → 나 "하지만" phản biện quan điểm đó [[SEQ_doi_lap]] → 가 nêu nguồn thật (kiến thức) → 다 "…되는 것이다" kết luận. |
+| ④ | (라)-(가)-(나)-(다) | ❌ | 나 "하지만" nên đứng ngay sau 라 để phản biện; chèn 가 vào giữa làm đứt mạch. |
+
+### Chú giải chi tiết
+
+> (라) 휴식을 취할 때 창의적인 생각이 떠오른다고 주장하는 사람들이 많다.
+→ Nhiều người cho rằng khi nghỉ ngơi thì nảy ra ý tưởng sáng tạo.
+- **Ngữ pháp:**
+  - N을/를 취하다 (nghỉ/lấy — 휴식을 취할)
+  - V-을 때 (khi — 취할 때)
+  - A/V-다고 주장하다 (chủ trương rằng — 떠오른다고 주장하는)
+  - V-는 + N (định ngữ — 주장하는 사람들)
+- **Từ vựng:**
+  - 휴식 — sự nghỉ ngơi
+  - 창의적 — (tính) sáng tạo
+  - 떠오르다 — nảy ra/hiện lên
+  - 주장하다 — chủ trương
+
+> (나) 하지만 그저 멍하니 있다고 기발한 생각이 나오는 것은 아니다.
+→ Nhưng cứ ngẩn ngơ (không làm gì) thì cũng không nảy ra ý tưởng độc đáo.
+- **Ngữ pháp:**
+  - 하지만 (nhưng — liên từ tương phản)
+  - 그저 (chỉ, cứ)
+  - A/V-다고 (rằng/cho là — 있다고)
+  - V-는 것은 아니다 (không phải là… — 나오는 것은 아니다)
+- **Từ vựng:**
+  - 멍하니 — ngẩn ngơ
+  - 기발하다 — độc đáo/tài tình
+  - 생각 — ý tưởng
+  - 나오다 — nảy ra
+
+> (가) 새로운 생각은 그동안 쌓은 폭넓은 지식으로부터 나온다.
+→ Ý tưởng mới đến từ vốn kiến thức rộng đã tích lũy bấy lâu.
+- **Ngữ pháp:**
+  - A-(으)ㄴ + N (định ngữ — 새로운 생각)
+  - V-(으)ㄴ + N (định ngữ quá khứ — 쌓은 지식)
+  - N(으)로부터 (từ — 지식으로부터)
+- **Từ vựng:**
+  - 그동안 — bấy lâu nay
+  - 쌓다 — tích lũy
+  - 폭넓다 — rộng lớn
+  - 지식 — kiến thức
+
+> (다) 다양한 지식들이 서로 연결되어서 창의적인 생각이 되는 것이다.
+→ Các kiến thức đa dạng kết nối với nhau mới thành ý tưởng sáng tạo.
+- **Ngữ pháp:**
+  - A-(으)ㄴ + N (định ngữ — 다양한 지식들)
+  - 서로 (lẫn nhau)
+  - V-아/어서 (rồi/nên — 연결되어서)
+  - N이/가 되는 것이다 (chính là trở thành… — 되는 것이다)
+- **Từ vựng:**
+  - 다양하다 — đa dạng
+  - 연결되다 — được kết nối
+  - 창의적인 생각 — ý tưởng sáng tạo

@@ -607,3 +607,238 @@ tags: [korean/topik, exam]
   - 간단하다 — đơn giản
   - 유지하다 — duy trì
   - 도움이 되다 — có ích/giúp ích
+
+---
+
+## Câu 13 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 이것으로 만든 차는 여름철에 마시면 특히 좋다.
+> (나) 오미자는 다섯 가지 맛이 난다고 붙여진 이름이다.
+> (다) 땀이 나지 않게 하고 배탈을 낫게 하는 효과가 있어서이다.
+> (라) 또한 무더위에 지친 사람에게 입맛이 나게 하는 데도 도움이 된다.
+
+**Dịch:**
+> (가) Trà làm từ thứ này uống vào mùa hè thì đặc biệt tốt.
+> (나) "Omija" (ngũ vị tử) là cái tên được đặt vì có năm vị.
+> (다) Là vì (nó) có tác dụng chống ra mồ hôi và chữa đau bụng.
+> (라) Ngoài ra còn giúp người mệt vì nóng bức lấy lại cảm giác ngon miệng.
+
+**Trình tự đúng:** (나)→(가)→(다)→(라)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(라)-(다)-(나) | ❌ | mở bằng 가 "이것으로" — 지시어 이것 cần tiền ngữ (오미자) → không thể đầu. |
+| ② | (가)-(다)-(라)-(나) | ❌ | 가 first sai như trên. |
+| ③ | (나)-(가)-(다)-(라) | ✅ | 나 mở đầu giới thiệu 오미자 (không 지시어) [[SEQ_cau_mo_dau]] → 가 "이것으로" hồi chiếu, nêu trà tốt cho mùa hè [[SEQ_hoi_chieu]] → 다 "…있어서이다" giải thích lý do tốt [[SEQ_ly_do]] → 라 "또한" bổ sung công dụng [[SEQ_bo_sung]]. |
+| ④ | (나)-(가)-(라)-(다) | ❌ | 다 (lý do "있어서이다") phải đứng ngay sau 가; 또한(라) là ý bổ sung nên đứng cuối → đảo 다/라 là sai. |
+
+### Chú giải chi tiết
+
+> (나) 오미자는 다섯 가지 맛이 난다고 붙여진 이름이다.
+→ "Omija" (ngũ vị tử) là cái tên được đặt vì có năm vị.
+- **Ngữ pháp:**
+  - N은/는 (chủ đề — 오미자는)
+  - N이/가 나다 (có/tỏa ra — 맛이 난다)
+  - A/V-다고 (rằng — 난다고)
+  - V-아/어지다 + ㄴ + N (định ngữ bị động — 붙여진 이름)
+- **Từ vựng:**
+  - 오미자 — ngũ vị tử
+  - 다섯 가지 — năm loại
+  - 맛 — vị
+  - 붙이다 — đặt/gắn (tên)
+  - 이름 — tên
+
+> (가) 이것으로 만든 차는 여름철에 마시면 특히 좋다.
+→ Trà làm từ thứ này uống vào mùa hè thì đặc biệt tốt.
+- **Ngữ pháp:**
+  - 이것으로 (bằng thứ này — hồi chiếu 오미자)
+  - V-(으)ㄴ + N (định ngữ quá khứ — 만든 차)
+  - N에 (vào — 여름철에)
+  - -(으)면 (nếu/khi — 마시면)
+  - 특히 (đặc biệt)
+- **Từ vựng:**
+  - 차 — trà
+  - 여름철 — mùa hè
+  - 마시다 — uống
+
+> (다) 땀이 나지 않게 하고 배탈을 낫게 하는 효과가 있어서이다.
+→ Là vì (nó) có tác dụng chống ra mồ hôi và chữa đau bụng.
+- **Ngữ pháp:**
+  - V-지 않게 하다 (làm cho không — 나지 않게 하고)
+  - V-게 하다 (làm cho — 낫게 하는)
+  - N이/가 있어서이다 (là vì có… — 효과가 있어서이다) [[SEQ_ly_do]]
+- **Từ vựng:**
+  - 땀이 나다 — ra mồ hôi
+  - 배탈 — đau bụng/rối loạn tiêu hóa
+  - 낫다 — khỏi (bệnh)
+  - 효과 — tác dụng
+
+> (라) 또한 무더위에 지친 사람에게 입맛이 나게 하는 데도 도움이 된다.
+→ Ngoài ra còn giúp người mệt vì nóng bức lấy lại cảm giác ngon miệng.
+- **Ngữ pháp:**
+  - 또한 (ngoài ra — liên từ bổ sung)
+  - N에 지치다 (mệt vì — 무더위에 지친)
+  - N에게 (cho — 사람에게)
+  - V-게 하다 (làm cho — 나게 하는)
+  - V-는 데도 도움이 되다 (giúp ích cả cho việc — 하는 데도 도움이 된다)
+- **Từ vựng:**
+  - 무더위 — cái nóng oi bức
+  - 지치다 — kiệt sức/mệt
+  - 입맛이 나다 — có cảm giác ngon miệng
+
+---
+
+## Câu 14 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 이런 행복을 느낄 때도 있지만 가끔 힘들고 어려울 때도 있다.
+> (나) 하지만 나는 그들을 가르칠 때마다 내가 국가대표라고 생각한다.
+> (다) 한국어로 다른 문화권의 학생들과 교류하는 것은 참 행복한 일이다.
+> (라) 나는 그들을 통해 세상을 보고 그들은 나를 통해 한국을 보기 때문이다.
+
+**Dịch:**
+> (가) Có lúc cảm nhận niềm hạnh phúc này, nhưng đôi khi cũng có lúc mệt mỏi và khó khăn.
+> (나) Nhưng mỗi lần dạy họ, tôi nghĩ mình là (như) một đại diện quốc gia.
+> (다) Giao lưu với sinh viên các nền văn hóa khác bằng tiếng Hàn là việc thật hạnh phúc.
+> (라) Vì tôi qua họ nhìn ra thế giới, còn họ qua tôi nhìn về Hàn Quốc.
+
+**Trình tự đúng:** (다)→(가)→(나)→(라)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (다)-(가)-(나)-(라) | ✅ | 다 mở đầu nêu chủ đề (không 지시어) [[SEQ_cau_mo_dau]] → 가 "이런 행복" hồi chiếu 행복한 일 [[SEQ_hoi_chieu]] → 나 "하지만" chuyển ý quyết tâm [[SEQ_doi_lap]] → 라 "…때문이다" giải thích lý do, đứng cuối [[SEQ_ly_do]]. |
+| ② | (다)-(나)-(가)-(라) | ❌ | 가 "이런 행복" phải ngay sau 다 (hồi chiếu 행복); chèn 나 vào giữa làm 이런 행복 mất tiền ngữ gần. |
+| ③ | (라)-(다)-(가)-(나) | ❌ | mở bằng 라 "…때문이다" (câu lý do) → không thể đầu. |
+| ④ | (라)-(다)-(나)-(가) | ❌ | 라 mở sai như trên. |
+
+### Chú giải chi tiết
+
+> (다) 한국어로 다른 문화권의 학생들과 교류하는 것은 참 행복한 일이다.
+→ Giao lưu với sinh viên các nền văn hóa khác bằng tiếng Hàn là việc thật hạnh phúc.
+- **Ngữ pháp:**
+  - N(으)로 (bằng — 한국어로)
+  - N의 (của — 문화권의 학생들)
+  - N와/과 교류하다 (giao lưu với — 학생들과 교류하는)
+  - V-는 것은 (việc… thì — 교류하는 것은)
+- **Từ vựng:**
+  - 한국어 — tiếng Hàn
+  - 문화권 — vùng/nền văn hóa
+  - 학생 — sinh viên/học sinh
+  - 교류하다 — giao lưu
+  - 행복하다 — hạnh phúc
+
+> (가) 이런 행복을 느낄 때도 있지만 가끔 힘들고 어려울 때도 있다.
+→ Có lúc cảm nhận niềm hạnh phúc này, nhưng đôi khi cũng có lúc mệt mỏi và khó khăn.
+- **Ngữ pháp:**
+  - 이런 + N (chỉ định hồi chiếu — 이런 행복)
+  - V-을 때도 있다 (cũng có lúc — 느낄 때도 있지만)
+  - -지만 (nhưng — 있지만)
+  - A-고 (và — 힘들고)
+- **Từ vựng:**
+  - 느끼다 — cảm nhận
+  - 가끔 — đôi khi
+  - 힘들다 — vất vả
+  - 어렵다 — khó khăn
+
+> (나) 하지만 나는 그들을 가르칠 때마다 내가 국가대표라고 생각한다.
+→ Nhưng mỗi lần dạy họ, tôi nghĩ mình là (như) một đại diện quốc gia.
+- **Ngữ pháp:**
+  - 하지만 (nhưng — liên từ tương phản)
+  - V-을 때마다 (mỗi lần — 가르칠 때마다) · [[GR_을_때마다]]
+  - N(이)라고 생각하다 (nghĩ rằng là — 국가대표라고 생각한다)
+- **Từ vựng:**
+  - 가르치다 — dạy
+  - 그들 — họ
+  - 국가대표 — đại diện quốc gia
+
+> (라) 나는 그들을 통해 세상을 보고 그들은 나를 통해 한국을 보기 때문이다.
+→ Vì tôi qua họ nhìn ra thế giới, còn họ qua tôi nhìn về Hàn Quốc.
+- **Ngữ pháp:**
+  - N을/를 통해 (qua — 그들을 통해)
+  - V-고 (và — 보고)
+  - V-기 때문이다 (là vì — 보기 때문이다) [[SEQ_ly_do]]
+- **Từ vựng:**
+  - 세상 — thế giới
+  - 보다 — nhìn/thấy
+  - 한국 — Hàn Quốc
+
+---
+
+## Câu 15 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 정부에 건의할 내용이 있을 때 이곳을 활용할 수 있다.
+> (나) 오늘날에는 '인터넷 신문고'가 이러한 역할을 하고 있다.
+> (다) 과거에는 '신문고'라는 북을 설치해서 국민의 생각을 들었다.
+> (라) 이렇게 시대는 달라져도 국가가 국민의 생각을 들으려는 노력은 계속된다.
+
+**Dịch:**
+> (가) Khi có nội dung muốn kiến nghị chính phủ, có thể tận dụng nơi này.
+> (나) Ngày nay, "internet sinmun-go" đang đảm nhận vai trò này.
+> (다) Ngày xưa, người ta đặt chiếc trống gọi là "sinmun-go" để lắng nghe suy nghĩ của dân.
+> (라) Như vậy, dù thời đại đổi thay, nỗ lực lắng nghe suy nghĩ của dân của nhà nước vẫn tiếp tục.
+
+**Trình tự đúng:** (다)→(가)→(나)→(라)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (나)-(다)-(가)-(라) | ❌ | mở bằng 나 "오늘날에는…이러한 역할" — 이러한 역할 cần tiền ngữ + 오늘날 nên đứng sau 과거. |
+| ② | (나)-(가)-(다)-(라) | ❌ | 나 first sai như trên. |
+| ③ | (다)-(가)-(나)-(라) | ✅ | 다 mở đầu "과거에는…신문고" (không 지시어) [[SEQ_cau_mo_dau]] [[SEQ_thoi_gian]] → 가 "이곳" hồi chiếu 신문고 [[SEQ_hoi_chieu]] → 나 "오늘날에는…이러한 역할" hồi chiếu + mốc hiện tại [[SEQ_hoi_chieu]] [[SEQ_thoi_gian]] → 라 "이렇게" tổng kết [[SEQ_hoi_chieu]]. |
+| ④ | (다)-(나)-(가)-(라) | ❌ | 가 "이곳"(=신문고) phải ngay sau 다; chèn 나 (internet 신문고) vào giữa làm 이곳 mơ hồ. |
+
+### Chú giải chi tiết
+
+> (다) 과거에는 '신문고'라는 북을 설치해서 국민의 생각을 들었다.
+→ Ngày xưa, người ta đặt chiếc trống gọi là "sinmun-go" để lắng nghe suy nghĩ của dân.
+- **Ngữ pháp:**
+  - N에는 (vào (thời) — 과거에는)
+  - N(이)라는 + N (định ngữ "gọi là" — 신문고라는 북)
+  - V-아/어서 (rồi — 설치해서)
+  - N의 (của — 국민의 생각)
+- **Từ vựng:**
+  - 과거 — quá khứ/ngày xưa
+  - 북 — cái trống
+  - 설치하다 — lắp/đặt
+  - 국민 — quốc dân/người dân
+  - 듣다 — nghe
+
+> (가) 정부에 건의할 내용이 있을 때 이곳을 활용할 수 있다.
+→ Khi có nội dung muốn kiến nghị chính phủ, có thể tận dụng nơi này.
+- **Ngữ pháp:**
+  - N에 (đến/với — 정부에)
+  - V-을 + N (định ngữ tương lai — 건의할 내용)
+  - V-을 때 (khi — 있을 때)
+  - 이곳 (nơi này — hồi chiếu 신문고)
+  - -을 수 있다 (có thể — 활용할 수 있다)
+- **Từ vựng:**
+  - 정부 — chính phủ
+  - 건의하다 — kiến nghị
+  - 내용 — nội dung
+  - 활용하다 — tận dụng
+
+> (나) 오늘날에는 '인터넷 신문고'가 이러한 역할을 하고 있다.
+→ Ngày nay, "internet sinmun-go" đang đảm nhận vai trò này.
+- **Ngữ pháp:**
+  - N에는 (vào (thời) — 오늘날에는)
+  - 이러한 + N (chỉ định hồi chiếu — 이러한 역할)
+  - N을/를 하고 있다 (đang làm/đảm nhận — 역할을 하고 있다)
+- **Từ vựng:**
+  - 오늘날 — ngày nay
+  - 인터넷 — internet
+  - 역할 — vai trò
+
+> (라) 이렇게 시대는 달라져도 국가가 국민의 생각을 들으려는 노력은 계속된다.
+→ Như vậy, dù thời đại đổi thay, nỗ lực lắng nghe suy nghĩ của dân của nhà nước vẫn tiếp tục.
+- **Ngữ pháp:**
+  - 이렇게 (như vậy — hồi chiếu tổng kết)
+  - A-아/어도 (dù — 달라져도)
+  - V-(으)려는 + N (định ngữ ý định — 들으려는 노력)
+  - N이/가 계속되다 (tiếp tục — 노력은 계속된다)
+- **Từ vựng:**
+  - 시대 — thời đại
+  - 달라지다 — thay đổi
+  - 국가 — nhà nước/quốc gia
+  - 노력 — nỗ lực
+  - 계속되다 — tiếp diễn

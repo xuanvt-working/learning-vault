@@ -582,3 +582,235 @@ tags: [korean/topik, exam]
   - 오히려 — ngược lại
   - 해치다 — làm hại
   - 피하다 — tránh
+
+---
+
+## Câu 13 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 요즘 꽃차를 즐겨 마시는 사람들이 늘고 있다.
+> (나) 마음을 안정시키는 효과를 얻을 수 있기 때문이다.
+> (다) 깨끗하게 재배한 꽃으로 차를 만들어 마시는 것이 좋다.
+> (라) 그런데 길가에 피어 있는 꽃으로 차를 만드는 것은 피해야 한다.
+
+**Dịch:**
+> (가) Gần đây, số người thích uống trà hoa đang tăng lên.
+> (나) Là vì có thể đạt được hiệu quả làm ổn định tâm trí.
+> (다) Nên làm trà uống từ hoa được trồng sạch sẽ.
+> (라) Thế nhưng nên tránh làm trà từ hoa mọc ven đường.
+
+**Trình tự đúng:** (가)→(나)→(라)→(다)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(나)-(라)-(다) | ✅ | 가 mở đầu nêu hiện tượng "요즘" (không 지시어) [[SEQ_cau_mo_dau]] → 나 "…때문이다" giải thích lý do được ưa chuộng [[SEQ_ly_do]] → 라 "그런데" cảnh báo hoa ven đường [[SEQ_doi_lap]] → 다 khuyến nghị dùng hoa sạch. |
+| ② | (가)-(나)-(다)-(라) | ❌ | 라 "그런데" (cảnh báo) phải đứng trước 다 (khuyến nghị hoa sạch) — đảo 다/라 làm gãy mạch "nhưng… nên…". |
+| ③ | (다)-(라)-(가)-(나) | ❌ | mở bằng 다 (khuyến nghị) trước khi nêu hiện tượng 가. |
+| ④ | (다)-(가)-(라)-(나) | ❌ | 다 mở sai như trên. |
+
+### Chú giải chi tiết
+
+> (가) 요즘 꽃차를 즐겨 마시는 사람들이 늘고 있다.
+→ Gần đây, số người thích uống trà hoa đang tăng lên.
+- **Ngữ pháp:**
+  - 요즘 (dạo này)
+  - V-아/어 마시다 (thích… — 즐겨 마시는)
+  - V-는 + N (định ngữ — 마시는 사람들)
+  - V-고 있다 (đang — 늘고 있다)
+- **Từ vựng:**
+  - 꽃차 — trà hoa
+  - 즐기다 — thưởng thức/thích
+  - 늘다 — tăng lên
+
+> (나) 마음을 안정시키는 효과를 얻을 수 있기 때문이다.
+→ Là vì có thể đạt được hiệu quả làm ổn định tâm trí.
+- **Ngữ pháp:**
+  - N을/를 안정시키다 (làm ổn định — 마음을 안정시키는)
+  - -을 수 있다 (có thể — 얻을 수 있기)
+  - V-기 때문이다 (là vì — 있기 때문이다) [[SEQ_ly_do]]
+- **Từ vựng:**
+  - 마음 — tâm/lòng
+  - 안정시키다 — làm ổn định
+  - 효과 — hiệu quả
+  - 얻다 — đạt được
+
+> (라) 그런데 길가에 피어 있는 꽃으로 차를 만드는 것은 피해야 한다.
+→ Thế nhưng nên tránh làm trà từ hoa mọc ven đường.
+- **Ngữ pháp:**
+  - 그런데 (thế nhưng — liên từ tương phản)
+  - V-아/어 있다 (trạng thái — 피어 있는) · [[GR_아어_있다]]
+  - N(으)로 (bằng — 꽃으로)
+  - V-는 것은 (việc… thì — 만드는 것은)
+  - V-아/어야 하다 (nên/phải — 피해야 한다) · [[GR_아어야_하다]]
+- **Từ vựng:**
+  - 길가 — ven đường
+  - 피다 — nở (hoa)
+  - 피하다 — tránh
+
+> (다) 깨끗하게 재배한 꽃으로 차를 만들어 마시는 것이 좋다.
+→ Nên làm trà uống từ hoa được trồng sạch sẽ.
+- **Ngữ pháp:**
+  - A-게 (một cách — 깨끗하게)
+  - V-(으)ㄴ + N (định ngữ quá khứ — 재배한 꽃)
+  - V-아/어 (nối — 만들어)
+  - V-는 것이 좋다 (nên… — 마시는 것이 좋다)
+- **Từ vựng:**
+  - 깨끗하다 — sạch sẽ
+  - 재배하다 — trồng trọt
+  - 만들다 — làm
+
+---
+
+## Câu 14 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 이불을 세탁해서 밖에 널어 두고 장을 보러 나갔다.
+> (나) 비가 오는 것을 보고 이웃이 대신 이불을 걷어 준 것이었다.
+> (다) 갑자기 비가 내려서 이불이 걱정되어 집으로 서둘러 돌아왔다.
+> (라) 도착해 보니 이불을 보관하고 있다는 메모가 문 앞에 붙어 있었다.
+
+**Dịch:**
+> (가) Giặt chăn phơi ngoài trời rồi đi chợ.
+> (나) Hóa ra hàng xóm thấy trời mưa nên đã thu chăn giúp.
+> (다) Trời bỗng đổ mưa, lo cho chăn nên vội vàng về nhà.
+> (라) Về đến nơi thì thấy tờ giấy nhắn dán trước cửa ghi (nhà bên) đang giữ chăn.
+
+**Trình tự đúng:** (가)→(다)→(라)→(나)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(다)-(나)-(라) | ❌ | 나 "…것이었다" (câu giải thích chốt) đứng trước 라 (thấy giấy nhắn) → phải thấy giấy nhắn rồi mới chốt được ai làm. |
+| ② | (가)-(다)-(라)-(나) | ✅ | 가 mở đầu (phơi chăn đi chợ, không 지시어) [[SEQ_cau_mo_dau]] → 다 mưa bất ngờ vội về → 라 về thấy giấy nhắn → 나 "…것이었다" chốt: hàng xóm đã thu giúp [[SEQ_ly_do]]. |
+| ③ | (다)-(라)-(가)-(나) | ❌ | mở bằng 다 (về nhà vì lo chăn) khi chưa có việc phơi chăn (가) làm bối cảnh. |
+| ④ | (다)-(나)-(라)-(가) | ❌ | 다 mở sai; 가 (phơi chăn) rơi xuống cuối, đảo trình tự thời gian. |
+
+### Chú giải chi tiết
+
+> (가) 이불을 세탁해서 밖에 널어 두고 장을 보러 나갔다.
+→ Giặt chăn phơi ngoài trời rồi đi chợ.
+- **Ngữ pháp:**
+  - V-아/어서 (rồi — 세탁해서)
+  - V-아/어 두다 (làm sẵn/để đó — 널어 두고)
+  - V-(으)러 가다 (đi để — 보러 나갔다)
+- **Từ vựng:**
+  - 이불 — chăn
+  - 세탁하다 — giặt
+  - 널다 — phơi
+  - 장을 보다 — đi chợ
+
+> (다) 갑자기 비가 내려서 이불이 걱정되어 집으로 서둘러 돌아왔다.
+→ Trời bỗng đổ mưa, lo cho chăn nên vội vàng về nhà.
+- **Ngữ pháp:**
+  - 갑자기 (đột nhiên)
+  - V-아/어서 (nên — 내려서)
+  - V-아/어 (nên/nối — 걱정되어)
+  - N(으)로 (về — 집으로)
+- **Từ vựng:**
+  - 비가 내리다 — mưa rơi
+  - 걱정되다 — lo lắng
+  - 서둘러 — vội vàng
+  - 돌아오다 — trở về
+
+> (라) 도착해 보니 이불을 보관하고 있다는 메모가 문 앞에 붙어 있었다.
+→ Về đến nơi thì thấy tờ giấy nhắn dán trước cửa ghi (nhà bên) đang giữ chăn.
+- **Ngữ pháp:**
+  - V-아/어 보니 (làm thì mới thấy — 도착해 보니)
+  - V-고 있다는 + N (định ngữ trích dẫn — 보관하고 있다는 메모)
+  - V-아/어 있다 (trạng thái — 붙어 있었다) · [[GR_아어_있다]]
+- **Từ vựng:**
+  - 도착하다 — đến nơi
+  - 보관하다 — cất giữ
+  - 메모 — giấy ghi chú
+  - 문 앞 — trước cửa
+  - 붙다 — dán/dính
+
+> (나) 비가 오는 것을 보고 이웃이 대신 이불을 걷어 준 것이었다.
+→ Hóa ra hàng xóm thấy trời mưa nên đã thu chăn giúp.
+- **Ngữ pháp:**
+  - V-는 것을 보다 (thấy việc — 오는 것을 보고)
+  - N 대신 (thay cho — 대신)
+  - V-아/어 주다 (làm giúp — 걷어 준)
+  - V-(으)ㄴ 것이었다 (hóa ra là đã… — 준 것이었다) [[SEQ_ly_do]]
+- **Từ vựng:**
+  - 이웃 — hàng xóm
+  - 대신 — thay thế
+  - 걷다 — thu/dỡ (đồ phơi)
+
+---
+
+## Câu 15 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 회의 결과 쓰레기 주소 실명제를 실시하기로 의견을 모았다.
+> (나) 시청 직원들이 쓰레기를 줄이는 방안에 대해 회의를 열었다.
+> (다) 그러나 주민들은 개인 정보 유출 가능성 때문에 반대하고 있다.
+> (라) 주소를 써서 버리면 책임 의식이 생길 것이라고 보았기 때문이다.
+
+**Dịch:**
+> (가) Kết quả cuộc họp đã thống nhất ý kiến thực hiện "chế độ ghi tên thật địa chỉ rác".
+> (나) Nhân viên tòa thị chính đã mở cuộc họp về phương án giảm rác thải.
+> (다) Nhưng cư dân đang phản đối vì khả năng bị lộ thông tin cá nhân.
+> (라) Vì (họ) cho rằng nếu ghi địa chỉ khi vứt rác thì sẽ nảy sinh ý thức trách nhiệm.
+
+**Trình tự đúng:** (나)→(가)→(라)→(다)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(나)-(다)-(라) | ❌ | mở bằng 가 "회의 결과" — 결과 cần cuộc họp 나 đứng trước. |
+| ② | (가)-(다)-(나)-(라) | ❌ | 가 first sai như trên. |
+| ③ | (나)-(가)-(라)-(다) | ✅ | 나 mở đầu (mở họp, không 지시어) [[SEQ_cau_mo_dau]] → 가 "회의 결과" kết quả họp [[SEQ_ket_qua]] → 라 "…때문이다" giải thích lý do chọn thực명제 [[SEQ_ly_do]] → 다 "그러나" cư dân phản đối [[SEQ_doi_lap]]. |
+| ④ | (나)-(가)-(다)-(라) | ❌ | 라 "…때문이다" (giải thích lý do lập chế độ) phải đứng ngay sau 가; đẩy 다 "그러나" lên trước làm gãy mạch. |
+
+### Chú giải chi tiết
+
+> (나) 시청 직원들이 쓰레기를 줄이는 방안에 대해 회의를 열었다.
+→ Nhân viên tòa thị chính đã mở cuộc họp về phương án giảm rác thải.
+- **Ngữ pháp:**
+  - V-는 + N (định ngữ — 줄이는 방안)
+  - N에 대해 (về — 방안에 대해)
+  - N을/를 열다 (mở — 회의를 열었다)
+- **Từ vựng:**
+  - 시청 — tòa thị chính
+  - 직원 — nhân viên
+  - 쓰레기 — rác
+  - 방안 — phương án
+  - 회의 — cuộc họp
+
+> (가) 회의 결과 쓰레기 주소 실명제를 실시하기로 의견을 모았다.
+→ Kết quả cuộc họp đã thống nhất ý kiến thực hiện "chế độ ghi tên thật địa chỉ rác".
+- **Ngữ pháp:**
+  - N 결과 (kết quả của — 회의 결과)
+  - V-기로 (quyết định… — 실시하기로) · [[GR_기로_하다]]
+  - N을/를 모으다 (gom/thống nhất — 의견을 모았다)
+- **Từ vựng:**
+  - 결과 — kết quả
+  - 주소 — địa chỉ
+  - 실명제 — chế độ tên thật
+  - 실시하다 — thực hiện
+  - 의견 — ý kiến
+
+> (라) 주소를 써서 버리면 책임 의식이 생길 것이라고 보았기 때문이다.
+→ Vì (họ) cho rằng nếu ghi địa chỉ khi vứt rác thì sẽ nảy sinh ý thức trách nhiệm.
+- **Ngữ pháp:**
+  - V-아/어서 (rồi — 써서)
+  - -(으)면 (nếu — 버리면)
+  - V-을 것이라고 보다 (cho rằng sẽ — 생길 것이라고 보았기)
+  - V-았/었기 때문이다 (là vì đã — 보았기 때문이다) [[SEQ_ly_do]]
+- **Từ vựng:**
+  - 쓰다 — viết/ghi
+  - 버리다 — vứt bỏ
+  - 책임 의식 — ý thức trách nhiệm
+  - 생기다 — nảy sinh
+
+> (다) 그러나 주민들은 개인 정보 유출 가능성 때문에 반대하고 있다.
+→ Nhưng cư dân đang phản đối vì khả năng bị lộ thông tin cá nhân.
+- **Ngữ pháp:**
+  - 그러나 (nhưng — liên từ tương phản)
+  - N 때문에 (vì — 가능성 때문에)
+  - V-고 있다 (đang — 반대하고 있다)
+- **Từ vựng:**
+  - 주민 — cư dân
+  - 개인 정보 — thông tin cá nhân
+  - 유출 — rò rỉ/lộ ra
+  - 가능성 — khả năng
+  - 반대하다 — phản đối

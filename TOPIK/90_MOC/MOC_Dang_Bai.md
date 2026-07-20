@@ -24,13 +24,15 @@ Hub taxonomy **dạng bài** domain topik. File này thay cho field `question_co
 | 4a | `câu-giống-đồ-thị` | 도표의 내용과 같은 것 고르기 | 도표의 내용과 같은 것 | Chọn câu có nội dung giống biểu đồ / số liệu (도표/그래프) | 10 | đang dùng |
 | 4b | `câu-giống-đoạn-văn` | 글의 내용과 같은 것 고르기 | 글의 내용과 같은 것 | Chọn câu có nội dung giống đoạn văn / poster (안내문/광고) | 9 | đang dùng |
 | 4c | `câu-giống-đoạn-văn-dài` | 글의 내용과 같은 것 고르기 | 글의 내용과 같은 것 | Chọn câu có nội dung giống **đoạn văn dài / văn xuôi** (줄글 nhiều câu) | 11–12 | đang dùng |
-| 5 | `sắp-xếp-thứ-tự` | 순서대로 맞게 나열하기 | 순서대로 맞게 나열 | Sắp xếp các câu theo đúng thứ tự | — | dự phòng |
+| 5 | `sắp-xếp-thứ-tự` | 순서대로 맞게 배열한 것 고르기 | 순서대로 맞게 배열한 것 | Sắp xếp 4 mảnh câu (가~라) theo đúng thứ tự | 13–15 | đang dùng |
 | 6 | `điền-nội-dung` | 빈칸에 들어갈 알맞은 내용 고르기 | 빈칸에 들어갈 알맞은 내용 | Chọn nội dung thích hợp điền vào chỗ trống ( ) | — | dự phòng |
 | 7 | `từ-vựng+nội-dung-giống` | 빈칸에 알맞은 어휘 + 내용과 같은 것 고르기 | 빈칸에 알맞은 어휘 + 내용과 같은 것 | Chọn từ vựng điền chỗ trống + chọn câu giống nội dung | — | dự phòng |
 | 8 | `thành-ngữ-tục-ngữ+nội-dung-giống` | 빈칸에 알맞은 관용 표현이나 속담 + 내용과 같은 것 고르기 | 빈칸에 알맞은 관용 표현이나 속담 + 내용과 같은 것 | Chọn thành ngữ/tục ngữ điền chỗ trống + chọn câu giống nội dung | — | dự phòng |
 | 9 | `tâm-trạng+nội-dung-giống` | 심정 + 내용과 같은 것 고르기 | 심정 + 내용과 같은 것 | Chọn tâm trạng + chọn câu giống nội dung | — | dự phòng |
 
 > Dạng 4a/4b/4c cùng đề bài "다음 글 또는 도표의 내용과 같은 것을 고르십시오" nhưng **tách theo chất liệu**: 4a `câu-giống-đồ-thị` (도표/그래프, câu 10), 4b `câu-giống-đoạn-văn` (poster/안내문/광고 ngắn, câu 9), 4c `câu-giống-đoạn-văn-dài` (văn xuôi nhiều câu, câu 11–12). 4b và 4c chung hậu tố `글의 내용과 같은 것` — phân biệt bằng độ dài/chất liệu (poster ngắn ↔ đoạn văn dài).
+
+> Dạng 5 `sắp-xếp-thứ-tự` (câu 13–15, đề bài "다음을 순서대로 맞게 배열한 것을 고르십시오"): 4 phương án là **hoán vị** của 4 mảnh câu (가)(나)(다)(라). Sinh **layer cue `sequence-note`** (`TOPIK/47_Sequence/`, tổ chức theo kỹ thuật nối câu, ngưỡng ≥2× như trap-note) — chi tiết ở [[frontmatter_schema]] §sequence-note; KHÔNG sinh GR/PAIR/GROUP/DIS/TOPIC/TRAP.
 
 > Dạng 7–9 là câu **kép** (2 nhiệm vụ / 1 câu). Slug đã đặt sẵn để đề tương lai dùng ngay; tên có thể tinh chỉnh khi phân tích đề thực tế.
 

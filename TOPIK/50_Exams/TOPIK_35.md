@@ -715,3 +715,237 @@ tags: [korean/topik, exam]
   - 이 — điều này (이를 = 이것을)
   - 스스로 — tự (mình)
   - 만족하다 — thỏa mãn
+
+---
+
+## Câu 13 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 또한 재료 가격이 싸서 제작 비용도 적게 든다.
+> (나) 그중 하나가 운동선수들의 유니폼을 만드는 것이다.
+> (다) 플라스틱 병을 재활용하는 방법에는 여러 가지가 있다.
+> (라) 플라스틱 병을 소재로 해서 운동복을 만들면 가볍고 시원하다.
+
+**Dịch:**
+> (가) Ngoài ra, giá nguyên liệu rẻ nên chi phí sản xuất cũng thấp.
+> (나) Một trong số đó là làm đồng phục cho vận động viên.
+> (다) Có nhiều cách để tái chế chai nhựa.
+> (라) Nếu dùng chai nhựa làm nguyên liệu để may đồ thể thao thì nhẹ và mát.
+
+**Trình tự đúng:** (다)→(나)→(라)→(가)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (다)-(나)-(라)-(가) | ✅ | 다 mở đầu nêu "여러 가지" (không 지시어) [[SEQ_cau_mo_dau]] → 나 "그중 하나" hồi chiếu tập hợp đó [[SEQ_hoi_chieu]] → 라 khai triển một cách → 가 "또한" bổ sung ưu điểm [[SEQ_bo_sung]]. |
+| ② | (다)-(라)-(나)-(가) | ❌ | 나 "그중 하나" bị tách khỏi 다 "여러 가지" → đứt hồi chiếu. |
+| ③ | (라)-(가)-(나)-(다) | ❌ | mở bằng 라 (một cách cụ thể) trước câu khái quát 다; 가 "또한" không thể đứng thứ 2. |
+| ④ | (라)-(나)-(다)-(가) | ❌ | mở bằng 라, lại tách 다 khỏi vị trí nêu tập hợp. |
+
+### Chú giải chi tiết
+
+> (다) 플라스틱 병을 재활용하는 방법에는 여러 가지가 있다.
+→ Có nhiều cách để tái chế chai nhựa.
+- **Ngữ pháp:**
+  - N에는 (trợ từ vị trí + 는 nhấn — 방법에는)
+  - V-는 + N (định ngữ hiện tại — 재활용하는 방법)
+  - N이/가 있다 (tồn tại — 여러 가지가 있다)
+- **Từ vựng:**
+  - 플라스틱 병 — chai nhựa
+  - 재활용하다 — tái chế
+  - 방법 — cách, phương pháp
+  - 여러 가지 — nhiều loại/cách
+
+> (나) 그중 하나가 운동선수들의 유니폼을 만드는 것이다.
+→ Một trong số đó là làm đồng phục cho vận động viên.
+- **Ngữ pháp:**
+  - 그중 하나 (một trong số đó — hồi chiếu tập hợp phía trước)
+  - -는 것이다 (kết cấu nhấn/giải thích — 만드는 것이다)
+- **Từ vựng:**
+  - 운동선수 — vận động viên
+  - 유니폼 — đồng phục
+  - 만들다 — làm, chế tạo
+
+> (라) 플라스틱 병을 소재로 해서 운동복을 만들면 가볍고 시원하다.
+→ Nếu dùng chai nhựa làm nguyên liệu để may đồ thể thao thì nhẹ và mát.
+- **Ngữ pháp:**
+  - N을/를 소재로 하다 (lấy N làm nguyên liệu — 소재로 해서)
+  - -(으)면 (điều kiện — 만들면)
+  - -고 (liệt kê — 가볍고 시원하다)
+- **Từ vựng:**
+  - 소재 — chất liệu, nguyên liệu
+  - 운동복 — quần áo thể thao
+  - 가볍다 — nhẹ
+  - 시원하다 — mát mẻ
+
+> (가) 또한 재료 가격이 싸서 제작 비용도 적게 든다.
+→ Ngoài ra, giá nguyên liệu rẻ nên chi phí sản xuất cũng thấp.
+- **Ngữ pháp:**
+  - 또한 (ngoài ra — liên từ bổ sung, nối ý thứ hai)
+  - -아/어서 (nguyên nhân — 싸서)
+  - N도 (cũng — 비용도)
+  - 비용이 들다 (tốn chi phí — 비용이 든다)
+- **Từ vựng:**
+  - 재료 — nguyên liệu
+  - 가격 — giá
+  - 싸다 — rẻ
+  - 제작 비용 — chi phí sản xuất
+  - 적게 — ít
+
+---
+
+## Câu 14 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 그러자 남자는 다른 쪽 신발도 벗어 그 옆으로 떨어뜨렸다.
+> (나) 남자가 신발을 주우려고 했지만 기차가 움직이기 시작했다.
+> (다) 신발의 짝이 맞아야 누군가 신을 수 있다고 생각했기 때문이었다.
+> (라) 남자가 기차에 타려는 순간 신발 한 짝이 벗겨져 아래로 떨어졌다.
+
+**Dịch:**
+> (가) Thế là người đàn ông cởi luôn chiếc giày bên kia, thả xuống bên cạnh nó.
+> (나) Người đàn ông định nhặt giày nhưng tàu bắt đầu chuyển bánh.
+> (다) Đó là vì (anh) nghĩ phải đủ đôi thì ai đó mới đi được.
+> (라) Khoảnh khắc người đàn ông định lên tàu, một chiếc giày tuột ra rơi xuống dưới.
+
+**Trình tự đúng:** (라)→(나)→(가)→(다)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (나)-(다)-(라)-(가) | ❌ | mở bằng 나 (định nhặt giày) khi giày chưa rơi (라 chưa xuất hiện) → vô lý. |
+| ② | (나)-(라)-(다)-(가) | ❌ | 나 first sai như trên; 다 "때문이었다" (giải thích) không thể đứng giữa mạch hành động. |
+| ③ | (라)-(가)-(나)-(다) | ❌ | 가 "그러자" đặt ngay sau 라 nhưng thiếu kích (나 tàu chạy) làm cớ → 그러자 hụt tiền đề. |
+| ④ | (라)-(나)-(가)-(다) | ✅ | 라 mở đầu bối cảnh (không 지시어) [[SEQ_cau_mo_dau]] → 나 định nhặt nhưng tàu chạy → 가 "그러자" hệ quả: cởi luôn chiếc kia [[SEQ_ket_qua]] → 다 "때문이었다" giải thích lý do, đứng cuối [[SEQ_ly_do]]. |
+
+### Chú giải chi tiết
+
+> (라) 남자가 기차에 타려는 순간 신발 한 짝이 벗겨져 아래로 떨어졌다.
+→ Khoảnh khắc người đàn ông định lên tàu, một chiếc giày tuột ra rơi xuống dưới.
+- **Ngữ pháp:**
+  - N에 (đến/lên — 기차에)
+  - V-(으)려는 + N (định ngữ ý định — 타려는 순간)
+  - V-아/어 (nối — 벗겨져)
+  - N(으)로 (hướng — 아래로)
+- **Từ vựng:**
+  - 기차 — tàu hỏa
+  - 타다 — lên (xe/tàu)
+  - 순간 — khoảnh khắc
+  - 신발 (한 짝) — (một chiếc) giày
+  - 벗겨지다 — bị tuột ra
+  - 떨어지다 — rơi
+
+> (나) 남자가 신발을 주우려고 했지만 기차가 움직이기 시작했다.
+→ Người đàn ông định nhặt giày nhưng tàu bắt đầu chuyển bánh.
+- **Ngữ pháp:**
+  - V-(으)려고 하다 (định làm — 주우려고 했지만) · [[GR_으려고]]
+  - -지만 (nhưng — 했지만)
+  - V-기 시작하다 (bắt đầu — 움직이기 시작했다)
+- **Từ vựng:**
+  - 줍다 — nhặt (주우려고)
+  - 움직이다 — chuyển động
+  - 시작하다 — bắt đầu
+
+> (가) 그러자 남자는 다른 쪽 신발도 벗어 그 옆으로 떨어뜨렸다.
+→ Thế là người đàn ông cởi luôn chiếc giày bên kia, thả xuống bên cạnh nó.
+- **Ngữ pháp:**
+  - 그러자 (thế là/thế rồi — liên từ nối tiếp hệ quả)
+  - N도 (cũng — 신발도)
+  - V-아/어 (nối — 벗어)
+  - 그 + N (chỉ định — 그 옆으로)
+- **Từ vựng:**
+  - 다른 쪽 — bên kia
+  - 벗다 — cởi (giày)
+  - 옆 — bên cạnh
+  - 떨어뜨리다 — làm rơi/thả xuống
+
+> (다) 신발의 짝이 맞아야 누군가 신을 수 있다고 생각했기 때문이었다.
+→ Đó là vì (anh) nghĩ phải đủ đôi thì ai đó mới đi được.
+- **Ngữ pháp:**
+  - N의 (của — 신발의 짝)
+  - V-아/어야 (phải… thì mới — 맞아야)
+  - -을 수 있다 (có thể — 신을 수 있다)
+  - A/V-다고 생각하다 (nghĩ rằng — 있다고 생각했기)
+  - V-았/었기 때문이었다 (là vì đã… — kết cấu giải thích cuối) [[SEQ_ly_do]]
+- **Từ vựng:**
+  - 짝이 맞다 — khớp đôi/đủ đôi
+  - 누군가 — ai đó
+  - 신다 — đi (giày)
+  - 생각하다 — nghĩ
+
+---
+
+## Câu 15 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 희망택시 지원 사업은 버스 운행에 비해 훨씬 적은 예산이 든다.
+> (나) 그러므로 택시 요금을 지원하더라도 정부는 예산을 아낄 수 있다.
+> (다) 이 택시의 이용 요금은 1,100원이고 추가 요금은 정부에서 부담한다.
+> (라) 버스가 다니지 않는 시골 마을에 주민들을 위한 희망택시가 등장했다.
+
+**Dịch:**
+> (가) Dự án hỗ trợ "taxi hi vọng" tốn ngân sách ít hơn nhiều so với vận hành xe buýt.
+> (나) Do đó, dù có hỗ trợ tiền taxi, chính phủ vẫn tiết kiệm được ngân sách.
+> (다) Phí sử dụng taxi này là 1.100 won, phần phụ thu do chính phủ chi trả.
+> (라) Ở làng quê nơi xe buýt không chạy tới, "taxi hi vọng" dành cho người dân đã xuất hiện.
+
+**Trình tự đúng:** (라)→(다)→(가)→(나)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(라)-(다)-(나) | ❌ | mở bằng 가 nêu "희망택시 지원 사업" khi 희망택시 chưa được giới thiệu (라). |
+| ② | (가)-(다)-(라)-(나) | ❌ | 가 first sai như trên. |
+| ③ | (나)-(라)-(가)-(다) | ❌ | mở bằng 나 "그러므로" — liên từ hệ quả không thể đứng đầu. |
+| ④ | (라)-(다)-(가)-(나) | ✅ | 라 mở đầu giới thiệu 희망택시 등장 (không 지시어) [[SEQ_cau_mo_dau]] → 다 "이 택시" hồi chiếu [[SEQ_hoi_chieu]] → 가 nêu ưu điểm ít ngân sách → 나 "그러므로" kết luận hệ quả [[SEQ_ket_qua]]. |
+
+### Chú giải chi tiết
+
+> (라) 버스가 다니지 않는 시골 마을에 주민들을 위한 희망택시가 등장했다.
+→ Ở làng quê nơi xe buýt không chạy tới, "taxi hi vọng" dành cho người dân đã xuất hiện.
+- **Ngữ pháp:**
+  - V-지 않는 + N (định ngữ phủ định — 다니지 않는)
+  - N에 (ở — 마을에)
+  - N을/를 위한 + N (định ngữ mục đích — 주민들을 위한)
+  - N이/가 등장하다 (xuất hiện — 희망택시가 등장했다)
+- **Từ vựng:**
+  - 버스 — xe buýt
+  - 다니다 — đi lại/lui tới
+  - 시골 마을 — làng quê
+  - 주민 — cư dân
+  - 희망택시 — "taxi hi vọng"
+  - 등장하다 — xuất hiện
+
+> (다) 이 택시의 이용 요금은 1,100원이고 추가 요금은 정부에서 부담한다.
+→ Phí sử dụng taxi này là 1.100 won, phần phụ thu do chính phủ chi trả.
+- **Ngữ pháp:**
+  - 이 + N (chỉ định hồi chiếu — 이 택시)
+  - N의 (của — 택시의)
+  - N이고 (là… và — 1,100원이고)
+  - N에서 (chủ thể tổ chức — 정부에서)
+- **Từ vựng:**
+  - 이용 요금 — phí sử dụng
+  - 추가 요금 — phụ phí
+  - 정부 — chính phủ
+  - 부담하다 — gánh/chi trả
+
+> (가) 희망택시 지원 사업은 버스 운행에 비해 훨씬 적은 예산이 든다.
+→ Dự án hỗ trợ "taxi hi vọng" tốn ngân sách ít hơn nhiều so với vận hành xe buýt.
+- **Ngữ pháp:**
+  - N에 비해 (so với — 운행에 비해)
+  - 훨씬 (…hơn nhiều)
+  - A-(으)ㄴ + N (định ngữ — 적은 예산)
+  - 예산이 들다 (tốn ngân sách — 예산이 든다)
+- **Từ vựng:**
+  - 지원 사업 — dự án hỗ trợ
+  - 운행 — vận hành
+  - 훨씬 — hơn nhiều
+  - 예산 — ngân sách
+
+> (나) 그러므로 택시 요금을 지원하더라도 정부는 예산을 아낄 수 있다.
+→ Do đó, dù có hỗ trợ tiền taxi, chính phủ vẫn tiết kiệm được ngân sách.
+- **Ngữ pháp:**
+  - 그러므로 (do đó — liên từ hệ quả)
+  - V-더라도 (dù… vẫn — 지원하더라도) · [[GR_더라도]]
+  - -을 수 있다 (có thể — 아낄 수 있다)
+- **Từ vựng:**
+  - 요금 — cước phí
+  - 지원하다 — hỗ trợ
+  - 아끼다 — tiết kiệm

@@ -6,7 +6,7 @@ Mọi note phải có frontmatter hợp lệ theo loại. Skill validate TRƯỚ
 
 | Field | Bắt buộc | Giá trị |
 |---|---|---|
-| `type` | ✅ | `grammar-note` / `pair-note` / `group-note` / `distractor-note` / `exam-note` / `vocab-note` / `topic-note` / `trap-note` / `moc-note` |
+| `type` | ✅ | `grammar-note` / `pair-note` / `group-note` / `distractor-note` / `exam-note` / `vocab-note` / `topic-note` / `trap-note` / `sequence-note` / `moc-note` |
 | `status` | ✅ | `draft` → `verified` (chỉ con người nâng) / `imported` (từ sr5-import) / `needs-review` |
 | `created` | ✅ (trừ exam-note) | YYYY-MM-DD |
 | `source` | ✅ (trừ exam-note) | list tag nguồn, xem source_citation_rule |
@@ -129,6 +129,15 @@ Ghi chú dạng bài đọc-hiểu "내용과 같은 것" (TOPIK ĐỌC "다음 
 
 Ghi chú dạng bài `câu-giống-đoạn-văn-dài` (đọc-hiểu "내용과 같은 것", TOPIK ĐỌC **câu 11~12** — chất liệu là **đoạn văn dài / văn xuôi 줄글** nhiều câu, khác poster câu 9 và đồ thị câu 10) — **Q16**: render y hệt `câu-giống-đoạn-văn` (câu 9): 4 phương án là **câu văn khẳng định** → bảng **5 cột** `# | Phương án | Nghĩa | Vai | Căn cứ`; 문제 đặt trong **blockquote nhiều dòng** (văn xuôi), rồi khối `**Dịch:**`, rồi dòng `**Chủ đề:** {theme} → [[TOPIC_{category-theme}]]` ở mức câu. Cột Căn cứ: đúng nhận ra qua Vai ✅ (KHÔNG cite `[RA:]` trong exam — Q18), bẫy có note link `[[TRAP_*]]`, bẫy 1× mô tả inline. Sinh **hai layer song song** như câu 9-10: (1) `trap-note` (ngưỡng ≥2×) và (2) `topic-note` **category `화제`** (ngưỡng 1×, chủ đề lấy từ **đoạn văn**, KHÔNG từ 4 phương án); KHÔNG sinh GR/PAIR/GROUP. Kết câu bằng block `### Chú giải chi tiết` như mọi dạng (Q17).
 
+Ghi chú dạng bài `sắp-xếp-thứ-tự` (đọc-hiểu "다음을 순서대로 맞게 배열한 것을 고르십시오", TOPIK ĐỌC **câu 13~15** — hậu tố heading `순서대로 맞게 배열한 것`) — **Q19**: chất liệu là **4 mảnh câu** đánh dấu (가)(나)(다)(라); 4 phương án là **hoán vị thứ tự** của 4 mảnh (vd `(다)-(나)-(라)-(가)`), KHÔNG phải ngữ pháp / danh từ chủ đề / câu văn khẳng định. Trình bày:
+- `**문제:**` = **blockquote nhiều dòng**, mỗi mảnh một dòng `> (가) {Hangul}` … `> (라) {Hangul}` (giữ nhãn 가~라).
+- `**Dịch:**` = blockquote dịch song song từng mảnh `> (가) {dịch}` …
+- dòng `**Trình tự đúng:** (X)→(Y)→(Z)→(W)` ở **mức câu** (dưới khối Dịch, trước bảng — KHÔNG thêm cột).
+- Bảng phương án **4 cột** `# | Thứ tự | Vai | Căn cứ / Phân tích`: cột "Thứ tự" ghi hoán vị `(다)-(나)-(라)-(가)`; đáp án đúng nhận ra qua **Vai ✅** (KHÔNG cite `[RA:]` — Q18); cột cuối phân tích chuỗi móc nối (mảnh mở đầu + cue nối) hoặc lý do phương án sai vi phạm cue, cue có note thì link `[[SEQ_*]]`, cue 1× mô tả inline.
+- Kết câu bằng block `### Chú giải chi tiết` như mọi dạng (Q17): mỗi mảnh 가~라 một dòng Hàn (blockquote) → dịch → `- **Ngữ pháp:**` / `- **Từ vựng:**` (link `[[GR_*]]`/`[[VC_*]]` khi note tồn tại — ngữ pháp NỀN, KHÔNG appearances/KHÔNG tạo GR mới).
+
+Dạng này sinh **một layer duy nhất `sequence-note`** (theo kỹ thuật nối câu, ngưỡng ≥2× như trap-note — xem §sequence-note); KHÔNG sinh GR/PAIR/GROUP/DIS/TOPIC/TRAP. VC vẫn tạo khi gặp cụm lexical-hóa (Q18).
+
 ## topic-note (TOPIK/45_Topics) — MODEL THEO CATEGORY
 
 Layer tín hiệu đọc chủ đề cho **bốn dạng**: `xác-định-chủ-đề` (câu 5~8), `câu-giống-đoạn-văn` (câu 9, Q15) + `câu-giống-đồ-thị` (câu 10, Q15), và `câu-giống-đoạn-văn-dài` (câu 11~12, Q16). **1 file = 1 category** (chủ đề gộp), KHÔNG phải mỗi đáp án một file. Từ vựng cùng chủ đề gom vào một file category; `history` **gộp** mọi thành viên (cả 2 vai) → tái dùng nguyên cơ chế vault-sync (1 block appearances, đếm count như DIS).
@@ -226,5 +235,40 @@ select_signal: "..."             # bắt buộc — khi phương án dùng chiê
 | sai-mục-đích | *(candidate)* | văn-xuôi | đảo mục đích/lý do: 위해서 X (thực mục đích là Y) |
 
 > Nhóm bẫy `văn-xuôi` (câu 11-12) mới xuất hiện 1× tại TOPIK_35 → còn **candidate** (chưa tạo file, chờ ≥2×); cột `trap_id` điền khi graduate.
+
+Body bắt buộc: callout `[!tip] Kill signal` / `[!success] Select signal` (⚠️ Unverified) + `## Biểu hiện điển hình` + cặp marker `<!-- sync:appearances:start --> … <!-- sync:appearances:end -->` (vault-sync render bảng history gộp) + `## Liên kết`.
+
+## sequence-note (TOPIK/47_Sequence) — MODEL THEO KỸ THUẬT NỐI CÂU (Q19)
+
+Layer tín hiệu "sắp xếp thứ tự" cho dạng `sắp-xếp-thứ-tự` (TOPIK ĐỌC câu 13~15). **1 file = 1 kỹ thuật nối/định vị câu** (không phải mỗi câu một file). `history` **gộp** mọi lần kỹ thuật xuất hiện → tái dùng nguyên cơ chế vault-sync (1 block appearances, đếm count như DIS/TRAP/topic).
+
+**Luật tạo note:** giống DIS/TRAP — chỉ tạo file khi cue xuất hiện **≥2×** (tính cả lịch sử). Cue 1× ghi inline trong exam note (mô tả ở cột Căn cứ, KHÔNG link) + theo dõi "candidate" ở `Seq_Stats.md` (dashboard); graduate thành note khi tái xuất.
+
+**role trong history:** `correct` = "cue này xuất hiện & quyết định vị trí một mảnh trong chuỗi đúng của câu này" (mô phỏng topic-note — five-check nới, KHÔNG đòi khớp một phương án đáp án cụ thể vì phương án là hoán vị, không phải nội dung cue). `distractor` = cue mà một phương án SAI vi phạm/ngộ nhận (vd đặt mảnh chứa 지시어 lên đầu).
+
+```yaml
+type: sequence-note
+cue_id: SEQ_hoi_chieu            # bắt buộc, = tên file
+cue_name: "Hồi chiếu (지시어/그중 하나 → cần tiền ngữ)"   # bắt buộc
+category: hồi-chiếu              # bắt buộc, enum: mở-đầu | hồi-chiếu | kết-quả | đối-lập | bổ-sung | thời-gian | điều-kiện
+role_in_order: giữa             # bắt buộc: mở-đầu | giữa | kết | linh-hoạt (vị trí điển hình)
+members: [이것, 이런, 그것, 그중 하나]   # optional — biểu hiện ngôn ngữ điển hình
+history:                        # bắt buộc — gộp mọi lần; reason mở đầu bằng "({mảnh}) ..."
+  - {exam: TOPIK_35, q: 13, role: correct, reason: "(나) 그중 하나 → phải sau (다) 여러 가지"}
+correct_count: 0                # vault-sync tự tính — không điền tay
+distractor_count: 0             # vault-sync tự tính — không điền tay
+kill_signal: "..."              # bắt buộc — câu chứa cue này KHÔNG thể đứng đầu (nhận ra 3 giây)
+select_signal: "..."            # bắt buộc — khi cue này định vị chắc chắn (mở đầu / móc nối)
+```
+
+**Taxonomy cue tham chiếu** (mở rộng khi có đề mới; `cue_id` = tên file):
+
+| category | file `cue_id` | biểu hiện điển hình | vị trí |
+|---|---|---|---|
+| mở-đầu | `SEQ_cau_mo_dau` | câu nêu chủ đề / định nghĩa chung, KHÔNG 지시어, KHÔNG 접속부사 | đầu |
+| hồi-chiếu | `SEQ_hoi_chieu` | 이것/이런/그것/그런/그 + N, 그중 하나 → cần tiền ngữ | giữa/cuối |
+| kết-quả | `SEQ_ket_qua` | 그래서/따라서/그러므로/그 결과/그러면 → sau nguyên nhân/điều kiện | giữa/cuối |
+| đối-lập | `SEQ_doi_lap` | 하지만/그런데/그러나 → đảo hướng, sau mệnh đề trước | giữa |
+| bổ-sung | `SEQ_bo_sung` | 또한/그리고/게다가 → thêm ý, không đứng đầu | giữa/cuối |
 
 Body bắt buộc: callout `[!tip] Kill signal` / `[!success] Select signal` (⚠️ Unverified) + `## Biểu hiện điển hình` + cặp marker `<!-- sync:appearances:start --> … <!-- sync:appearances:end -->` (vault-sync render bảng history gộp) + `## Liên kết`.

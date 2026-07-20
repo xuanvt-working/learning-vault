@@ -574,3 +574,246 @@ tags: [korean/topik, exam]
   - 곧 — sớm/sắp
   - 공개되다 — được công khai/mở cửa
   - 예정 — dự kiến
+
+---
+
+## Câu 13 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 회사의 1층 로비를 외부인에게 개방하는 회사가 많아졌다.
+> (나) 사람들은 작품을 감상하고 커피를 마시면서 시간을 보낸다.
+> (다) 미술관과 카페를 만들어 사람들이 와서 즐길 수 있게 한 것이다.
+> (라) 이 공간을 이용하는 사람이 늘면서 회사의 이미지도 좋아지고 있다.
+
+**Dịch:**
+> (가) Ngày càng nhiều công ty mở sảnh tầng 1 cho người ngoài (vào).
+> (나) Mọi người ngắm tác phẩm và vừa uống cà phê vừa dành thời gian (ở đó).
+> (다) (Ấy) là việc làm phòng tranh và quán cà phê để mọi người đến vui chơi.
+> (라) Số người sử dụng không gian này tăng lên nên hình ảnh công ty cũng tốt hơn.
+
+**Trình tự đúng:** (가)→(다)→(나)→(라)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (가)-(다)-(나)-(라) | ✅ | 가 mở đầu nêu hiện tượng (không 지시어) [[SEQ_cau_mo_dau]] → 다 "…것이다" giải thích mục đích (làm phòng tranh/quán) → 나 mô tả người ta tận hưởng → 라 "이 공간" hồi chiếu, kết: hình ảnh công ty tốt lên [[SEQ_hoi_chieu]]. |
+| ② | (가)-(나)-(다)-(라) | ❌ | 다 (giải thích mục đích "것이다") nên đứng ngay sau 가; chèn 나 (người ta enjoy) vào giữa làm đứt mạch giải thích. |
+| ③ | (다)-(나)-(라)-(가) | ❌ | mở bằng 다 "…것이다" (câu giải thích) → không thể đầu. |
+| ④ | (라)-(나)-(가)-(다) | ❌ | mở bằng 라 "이 공간" — 지시어 이 cần tiền ngữ. |
+
+### Chú giải chi tiết
+
+> (가) 회사의 1층 로비를 외부인에게 개방하는 회사가 많아졌다.
+→ Ngày càng nhiều công ty mở sảnh tầng 1 cho người ngoài (vào).
+- **Ngữ pháp:**
+  - N의 (của — 회사의 로비)
+  - N에게 (cho — 외부인에게)
+  - V-는 + N (định ngữ — 개방하는 회사)
+  - A-아/어지다 (trở nên — 많아졌다)
+- **Từ vựng:**
+  - 회사 — công ty
+  - 1층 로비 — sảnh tầng 1
+  - 외부인 — người ngoài
+  - 개방하다 — mở cửa/mở ra
+
+> (다) 미술관과 카페를 만들어 사람들이 와서 즐길 수 있게 한 것이다.
+→ (Ấy) là việc làm phòng tranh và quán cà phê để mọi người đến vui chơi.
+- **Ngữ pháp:**
+  - N와/과 (và — 미술관과 카페)
+  - V-아/어 (nối — 만들어)
+  - V-아/어서 (rồi — 와서)
+  - V-을 수 있게 하다 (làm cho có thể — 즐길 수 있게 한)
+  - -(으)ㄴ 것이다 (chính là việc… — 한 것이다)
+- **Từ vựng:**
+  - 미술관 — phòng tranh/bảo tàng mỹ thuật
+  - 카페 — quán cà phê
+  - 즐기다 — vui chơi/tận hưởng
+
+> (나) 사람들은 작품을 감상하고 커피를 마시면서 시간을 보낸다.
+→ Mọi người ngắm tác phẩm và vừa uống cà phê vừa dành thời gian (ở đó).
+- **Ngữ pháp:**
+  - V-고 (và — 감상하고)
+  - V-(으)면서 (vừa… vừa — 마시면서)
+  - N을/를 보내다 (dành/trải qua — 시간을 보낸다)
+- **Từ vựng:**
+  - 작품 — tác phẩm
+  - 감상하다 — thưởng thức/ngắm
+  - 커피 — cà phê
+  - 시간을 보내다 — trải qua thời gian
+
+> (라) 이 공간을 이용하는 사람이 늘면서 회사의 이미지도 좋아지고 있다.
+→ Số người sử dụng không gian này tăng lên nên hình ảnh công ty cũng tốt hơn.
+- **Ngữ pháp:**
+  - 이 + N (chỉ định hồi chiếu — 이 공간)
+  - V-는 + N (định ngữ — 이용하는 사람)
+  - V-(으)면서 (kèm theo — 늘면서)
+  - N도 (cũng — 이미지도)
+  - A-아/어지고 있다 (đang trở nên — 좋아지고 있다)
+- **Từ vựng:**
+  - 공간 — không gian
+  - 이용하다 — sử dụng
+  - 늘다 — tăng
+  - 이미지 — hình ảnh
+
+---
+
+## Câu 14 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 차에서 내려 앞차의 주인에게 사과하고 사정을 설명했다.
+> (나) 앞차 주인은 큰 사고가 아니니 괜찮다며 그냥 가라고 했다.
+> (다) 친절한 배려 덕분에 딸은 무사히 병원에 도착해 치료를 받았다.
+> (라) 아픈 딸을 병원으로 급하게 데려가다가 앞차와 부딪쳐서 사고를 냈다.
+
+**Dịch:**
+> (가) (Tôi) xuống xe, xin lỗi chủ xe phía trước và giải thích tình huống.
+> (나) Chủ xe trước nói không phải tai nạn lớn, không sao đâu, cứ đi đi.
+> (다) Nhờ sự quan tâm tử tế (ấy), con gái đến bệnh viện an toàn và được điều trị.
+> (라) Đang vội đưa con gái ốm đến bệnh viện thì đâm vào xe trước, gây tai nạn.
+
+**Trình tự đúng:** (라)→(가)→(나)→(다)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (나)-(가)-(다)-(라) | ❌ | mở bằng 나 (chủ xe nói cứ đi) khi chưa có tai nạn (라) làm bối cảnh. |
+| ② | (나)-(라)-(가)-(다) | ❌ | 나 mở sai như trên. |
+| ③ | (라)-(가)-(나)-(다) | ✅ | 라 mở đầu (vội đưa con, đụng xe, không 지시어) [[SEQ_cau_mo_dau]] → 가 xuống xin lỗi → 나 chủ xe cho đi → 다 "덕분에" kết: con đến viện an toàn [[SEQ_ket_qua]]. |
+| ④ | (라)-(다)-(가)-(나) | ❌ | 다 "덕분에…무사히 도착" là kết cuối, phải sau 나 (được cho đi); đặt lên thứ 2 là gãy. |
+
+### Chú giải chi tiết
+
+> (라) 아픈 딸을 병원으로 급하게 데려가다가 앞차와 부딪쳐서 사고를 냈다.
+→ Đang vội đưa con gái ốm đến bệnh viện thì đâm vào xe trước, gây tai nạn.
+- **Ngữ pháp:**
+  - A-(으)ㄴ + N (định ngữ — 아픈 딸)
+  - N(으)로 (đến — 병원으로)
+  - V-다가 (đang… thì (chuyển) — 데려가다가) · [[GR_다가]]
+  - N와/과 부딪치다 (đâm/va vào — 앞차와 부딪쳐서)
+  - N을/를 내다 (gây ra — 사고를 냈다)
+- **Từ vựng:**
+  - 아프다 — ốm/đau
+  - 딸 — con gái
+  - 병원 — bệnh viện
+  - 급하게 — vội vàng
+  - 데려가다 — đưa/dẫn đi
+  - 앞차 — xe phía trước
+  - 사고를 내다 — gây tai nạn
+
+> (가) 차에서 내려 앞차의 주인에게 사과하고 사정을 설명했다.
+→ (Tôi) xuống xe, xin lỗi chủ xe phía trước và giải thích tình huống.
+- **Ngữ pháp:**
+  - N에서 내리다 (xuống từ — 차에서 내려)
+  - N에게 (với — 주인에게)
+  - V-고 (và — 사과하고)
+- **Từ vựng:**
+  - 주인 — chủ (xe)
+  - 사과하다 — xin lỗi
+  - 사정 — hoàn cảnh/tình huống
+  - 설명하다 — giải thích
+
+> (나) 앞차 주인은 큰 사고가 아니니 괜찮다며 그냥 가라고 했다.
+→ Chủ xe trước nói không phải tai nạn lớn, không sao đâu, cứ đi đi.
+- **Ngữ pháp:**
+  - N이/가 아니다 + -니 (không phải… nên — 아니니)
+  - A-다며 (nói rằng… (rút gọn) — 괜찮다며)
+  - V-(으)라고 하다 (bảo hãy… — 가라고 했다)
+- **Từ vựng:**
+  - 크다 — lớn
+  - 괜찮다 — không sao
+  - 그냥 — cứ (thế)
+  - 가다 — đi
+
+> (다) 친절한 배려 덕분에 딸은 무사히 병원에 도착해 치료를 받았다.
+→ Nhờ sự quan tâm tử tế (ấy), con gái đến bệnh viện an toàn và được điều trị.
+- **Ngữ pháp:**
+  - A-(으)ㄴ + N (định ngữ — 친절한 배려)
+  - N 덕분에 (nhờ — 배려 덕분에 — nối kết quả tích cực)
+  - V-아/어 (rồi — 도착해)
+  - N을/를 받다 (được nhận — 치료를 받았다)
+- **Từ vựng:**
+  - 친절하다 — tử tế
+  - 배려 — sự quan tâm/lo lắng
+  - 무사히 — an toàn
+  - 도착하다 — đến nơi
+  - 치료 — điều trị
+
+---
+
+## Câu 15 — dạng sắp-xếp-thứ-tự (순서대로 맞게 배열한 것)
+
+**문제:**
+> (가) 선택에 대한 부담으로 구매를 망설이다가 포기하기도 한다.
+> (나) 선택에 대한 고객의 부담을 줄여 구매를 유도하려는 것이다.
+> (다) 그래서 마트에서는 품목별로 몇 가지의 제품만 매장에 진열한다.
+> (라) 소비자는 선택의 폭이 넓을수록 물건을 고를 때 어려움을 겪는다.
+
+**Dịch:**
+> (가) Vì gánh nặng của việc lựa chọn, (khách) do dự mua rồi cũng có khi bỏ luôn.
+> (나) (Ấy) là nhằm giảm gánh nặng lựa chọn của khách để thúc đẩy việc mua.
+> (다) Vì vậy, ở siêu thị người ta chỉ trưng bày vài sản phẩm theo từng mặt hàng.
+> (라) Người tiêu dùng khi phạm vi lựa chọn càng rộng thì càng gặp khó khi chọn đồ.
+
+**Trình tự đúng:** (라)→(가)→(다)→(나)
+
+| # | Thứ tự | Vai | Căn cứ / Phân tích |
+|---|---|---|---|
+| ① | (나)-(가)-(라)-(다) | ❌ | mở bằng 나 "…것이다" (câu giải thích mục đích) → không thể đầu. |
+| ② | (나)-(라)-(가)-(다) | ❌ | 나 mở sai như trên. |
+| ③ | (라)-(가)-(다)-(나) | ✅ | 라 mở đầu nêu vấn đề (không 지시어) [[SEQ_cau_mo_dau]] → 가 hệ quả của gánh nặng lựa chọn → 다 "그래서" giải pháp siêu thị [[SEQ_ket_qua]] → 나 "…것이다" mục đích/kết luận. |
+| ④ | (라)-(다)-(가)-(나) | ❌ | 다 "그래서" (giải pháp) cần 가 (gánh nặng → bỏ mua) làm nguyên nhân trước; đặt ngay sau 라 là thiếu bước. |
+
+### Chú giải chi tiết
+
+> (라) 소비자는 선택의 폭이 넓을수록 물건을 고를 때 어려움을 겪는다.
+→ Người tiêu dùng khi phạm vi lựa chọn càng rộng thì càng gặp khó khi chọn đồ.
+- **Ngữ pháp:**
+  - N의 (của — 선택의 폭)
+  - A-(으)ㄹ수록 (càng… càng — 넓을수록) · [[GR_을수록]]
+  - V-을 때 (khi — 고를 때)
+  - N을/를 겪다 (trải/gặp — 어려움을 겪는다)
+- **Từ vựng:**
+  - 소비자 — người tiêu dùng
+  - 선택 — sự lựa chọn
+  - 폭 — bề rộng/phạm vi
+  - 넓다 — rộng
+  - 물건 — món đồ
+  - 고르다 — chọn
+  - 어려움 — sự khó khăn
+
+> (가) 선택에 대한 부담으로 구매를 망설이다가 포기하기도 한다.
+→ Vì gánh nặng của việc lựa chọn, (khách) do dự mua rồi cũng có khi bỏ luôn.
+- **Ngữ pháp:**
+  - N에 대한 + N (định ngữ "về" — 선택에 대한 부담)
+  - N(으)로 (do — 부담으로)
+  - V-다가 (đang… thì — 망설이다가) · [[GR_다가]]
+  - V-기도 하다 (cũng có khi — 포기하기도 한다) · [[GR_기도_하다]]
+- **Từ vựng:**
+  - 부담 — gánh nặng
+  - 구매 — sự mua
+  - 망설이다 — do dự
+  - 포기하다 — từ bỏ
+
+> (다) 그래서 마트에서는 품목별로 몇 가지의 제품만 매장에 진열한다.
+→ Vì vậy, ở siêu thị người ta chỉ trưng bày vài sản phẩm theo từng mặt hàng.
+- **Ngữ pháp:**
+  - 그래서 (vì vậy — liên từ hệ quả)
+  - N에서는 (ở (chủ đề) — 마트에서는)
+  - N별로 (theo từng — 품목별로)
+  - N만 (chỉ — 제품만)
+- **Từ vựng:**
+  - 마트 — siêu thị
+  - 품목 — mặt hàng/danh mục
+  - 제품 — sản phẩm
+  - 매장 — gian hàng
+  - 진열하다 — trưng bày
+
+> (나) 선택에 대한 고객의 부담을 줄여 구매를 유도하려는 것이다.
+→ (Ấy) là nhằm giảm gánh nặng lựa chọn của khách để thúc đẩy việc mua.
+- **Ngữ pháp:**
+  - N에 대한 + N (định ngữ "về" — 선택에 대한 부담)
+  - N의 (của — 고객의 부담)
+  - V-아/어 (nối — 줄여)
+  - V-(으)려는 것이다 (chính là nhằm… — 유도하려는 것이다)
+- **Từ vựng:**
+  - 고객 — khách hàng
+  - 줄이다 — làm giảm
+  - 유도하다 — dẫn dắt/thúc đẩy
