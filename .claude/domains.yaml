@@ -4,7 +4,7 @@
 topik:
   root: TOPIK
   display_name: "Korean TOPIK II"
-  note_dirs: [10_Grammar, 20_Pairs, 25_Groups, 30_Distractors, 40_Vocab, 45_Topics, 46_Traps, 47_Sequence, 50_Exams, 90_MOC]
+  note_dirs: [10_Grammar, 20_Pairs, 25_Groups, 30_Distractors, 40_Vocab, 45_Topics, 46_Traps, 47_Sequence, 48_Blanks, 49_Adverbs, 50_Exams, 90_MOC]
   templates_dir: TOPIK/00_Templates
   dashboard_dir: TOPIK/99_Dashboard
   schema_rule: .claude/rules/topik/frontmatter_schema.md

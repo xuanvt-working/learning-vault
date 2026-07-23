@@ -11,11 +11,12 @@ history:
   - {exam: TOPIK_36, q: 12, role: distractor, reason: "③ 1/5↔절반 — 다섯 집 중 한 집만(1/5), phương án nói 절반(1/2) phóng đại"}
   - {exam: TOPIK_37, q: 12, role: distractor, reason: "① 조리실만↔건물 전체 — chỉ 조리실을 유리로, phương án nói 건물 전체가 유리 phóng đại phạm vi"}
   - {exam: TOPIK_52, q: 12, role: distractor, reason: "③ 혼자 보는 사람만↔사람들(모두) — chỉ người xem một mình 신경 안 씀, phương án tổng quát hóa"}
-distractor_count: 4
+  - {exam: TOPIK_60, q: 20, role: distractor, reason: "④ 항상 관심 갖도록 훈련 — bài: 주인과 있을 때는 행인에게 관심 안 둠 (tuyệt đối hóa 항상)"}
+distractor_count: 5
 correct_count: 0
 kill_signal: "Phương án thổi phồng mức độ/phạm vi/số lượng vượt bài: 성격을 바꾸다, 건물 전체, 절반, 모두/누구나/항상 — trong khi bài chỉ nói 잠시/일부/조리실만/다섯 집 중 한 집. Cảnh giác lượng từ tuyệt đối."
 select_signal: "Đúng khi mức độ/phạm vi/số lượng khớp bài (không phóng đại): 일부→một số, 잠시→tạm thời."
-source: [RA:35-Q12-dis, RA:36-Q12-dis, RA:37-Q12-dis, RA:52-Q12-dis]
+source: [RA:35-Q12-dis, RA:36-Q12-dis, RA:37-Q12-dis, RA:52-Q12-dis, RA:60-Q20-dis]
 status: draft
 tags: [korean/topik, reading/trap]
 created: 2026-07-20
@@ -43,6 +44,7 @@ created: 2026-07-20
 | TOPIK_36 | 12 | ❌ nhiễu | ③ 1/5↔절반 — 다섯 집 중 한 집만(1/5) | [RA:36-Q12-dis] |
 | TOPIK_37 | 12 | ❌ nhiễu | ① 조리실만↔건물 전체 — chỉ 조리실을 유리로 | [RA:37-Q12-dis] |
 | TOPIK_52 | 12 | ❌ nhiễu | ③ 혼자 보는 사람만↔모두 — tổng quát hóa | [RA:52-Q12-dis] |
+| TOPIK_60 | 20 | ❌ nhiễu | ④ 항상 관심 갖도록 훈련 — bài: 주인과 있을 때는 관심 안 둠 (항상 nói quá) | [RA:60-Q20-dis] |
 <!-- sync:appearances:end -->
 
 ## Liên kết

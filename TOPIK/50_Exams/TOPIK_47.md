@@ -814,3 +814,314 @@ tags: [korean/topik, exam]
   - 유출 — rò rỉ/lộ ra
   - 가능성 — khả năng
   - 반대하다 — phản đối
+
+---
+
+## Câu 16 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 악보 없이 공연하는 것은 피아니스트들의 오랜 전통이다. 이에 대해 일부 사람들은 악보를 외우는 것보다는 (   ) 시간을 써야 한다고 말한다. 그러나 악보를 외우면 작곡가를 좀 더 이해하게 되어 결국 작품에 대한 표현력이 풍성해질 수 있다.
+
+**Dịch:**
+> Biểu diễn không cần bản nhạc là truyền thống lâu đời của các nghệ sĩ dương cầm. Về việc này, một số người nói rằng thay vì thuộc lòng bản nhạc thì nên dành thời gian cho (   ). Tuy nhiên, nếu thuộc lòng bản nhạc thì sẽ hiểu nhà soạn nhạc hơn, rốt cuộc khả năng biểu đạt tác phẩm có thể trở nên phong phú.
+
+**Quan hệ:** đối-lập ("~보다는 … 그러나" — X đối lập với việc ghi nhớ) → [[BLK_doi_lap]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 전통을 이해하는 데에 | vào việc hiểu truyền thống | ❌ | "Truyền thống" chỉ là bối cảnh mở bài, không phải cái "một số người" đề cao thay cho ghi nhớ. |
+| ② | 표현력을 높이는 데에 | vào việc nâng khả năng biểu đạt | ✅ | "악보를 외우는 것보다는 (X)에 시간을 써야" — X đối lập với ghi nhớ; câu "그러나 … 표현력이 풍성" xoáy vào 표현력 ⇒ X = nâng khả năng biểu đạt. |
+| ③ | 공연을 기획하는 데에 | vào việc lên kế hoạch biểu diễn | ❌ | Bài không bàn việc tổ chức/kế hoạch biểu diễn. |
+| ④ | 장단점을 설명하는 데에 | vào việc giải thích ưu nhược | ❌ | Lạc đề; không nằm trong mạch tương phản ghi nhớ ↔ biểu đạt. |
+
+### Chú giải chi tiết
+
+> 악보 없이 공연하는 것은 피아니스트들의 오랜 전통이다.
+→ Biểu diễn không cần bản nhạc là truyền thống lâu đời của các nghệ sĩ dương cầm.
+- **Ngữ pháp:**
+  - N 없이 (không có ~ mà — 악보 없이)
+  - V-는 것은 (việc ~ thì — 공연하는 것은)
+- **Từ vựng:**
+  - 악보 — bản nhạc
+  - 공연하다 — biểu diễn
+  - 피아니스트 — nghệ sĩ dương cầm
+  - 오래다 — lâu đời (오랜)
+  - 전통 — truyền thống
+
+> 이에 대해 일부 사람들은 악보를 외우는 것보다는 (   ) 시간을 써야 한다고 말한다.
+→ Về việc này, một số người nói rằng thay vì thuộc lòng bản nhạc thì nên dành thời gian cho (   ).
+- **Ngữ pháp:**
+  - N에 대해 (về — 이에 대해)
+  - V-는 것보다는 (thay vì việc ~ / hơn là — 외우는 것보다는 — dấu hiệu đối-lập)
+  - V-아/어야 하다 (nên/phải — 써야 한다)
+  - A/V-다고 말하다 (nói rằng — 한다고 말한다)
+- **Từ vựng:**
+  - 일부 — một bộ phận
+  - 외우다 — thuộc lòng
+  - 시간을 쓰다 — dành thời gian
+
+> 그러나 악보를 외우면 작곡가를 좀 더 이해하게 되어 결국 작품에 대한 표현력이 풍성해질 수 있다.
+→ Tuy nhiên, nếu thuộc bản nhạc thì hiểu nhà soạn nhạc hơn, rốt cuộc khả năng biểu đạt tác phẩm có thể phong phú.
+- **Ngữ pháp:**
+  - 그러나 (tuy nhiên — tương phản)
+  - -(으)면 (nếu — 외우면)
+  - V-게 되어 (đi đến chỗ… nên — 이해하게 되어) · [[GR_게_되다]]
+  - N에 대한 + N (đối với — 작품에 대한 표현력)
+  - A-아/어질 수 있다 (có thể trở nên — 풍성해질 수 있다)
+- **Từ vựng:**
+  - 작곡가 — nhà soạn nhạc
+  - 이해하다 — hiểu
+  - 결국 — rốt cuộc
+  - 작품 — tác phẩm
+  - 표현력 — khả năng biểu đạt
+  - 풍성하다 — phong phú
+
+---
+
+## Câu 17 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 자신에게 필요하지 않은 물건을 봉사단체에 기증하는 시민들이 늘고 있다. 그런데 이러한 물건 중에 (   ) 많다. 그래서 쓸 만한 물건을 골라내는 데 인력과 비용이 소모된다. 물건을 기증할 때에는 다른 사람들이 다시 사용할 것이라는 점을 고려해야 할 것이다.
+
+**Dịch:**
+> Ngày càng nhiều công dân quyên tặng cho tổ chức thiện nguyện những món đồ bản thân không cần. Thế nhưng trong số đồ này có nhiều thứ (   ). Vì thế, tốn nhân lực và chi phí để lọc ra những món còn dùng được. Khi quyên đồ, nên cân nhắc rằng người khác sẽ dùng lại.
+
+**Quan hệ:** nhân-quả (blank là nguyên nhân của "그래서 … 소모된다"; + kết "다시 사용") → [[BLK_nhan_qua]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 구입이 어려운 것이 | thứ khó mua | ❌ | "Khó mua" thường là đồ giá trị, không gây tốn công lọc; ngược mạch. |
+| ② | 보관이 쉽지 않은 것이 | thứ khó bảo quản | ❌ | Vấn đề không phải bảo quản mà là tái sử dụng. |
+| ③ | 재사용하기 곤란한 것이 | thứ khó tái sử dụng | ✅ | Trong đồ quyên có nhiều thứ khó tái dùng → "그래서" tốn nhân lực/chi phí để lọc đồ dùng được; khớp kết "다시 사용할 것을 고려". |
+| ④ | 용도가 다양하지 않은 것이 | thứ ít công dụng | ❌ | Không phải điểm bài nhấn (khó tái dùng ≠ ít công dụng). |
+
+### Chú giải chi tiết
+
+> 자신에게 필요하지 않은 물건을 봉사단체에 기증하는 시민들이 늘고 있다.
+→ Ngày càng nhiều công dân quyên tặng cho tổ chức thiện nguyện món đồ bản thân không cần.
+- **Ngữ pháp:**
+  - V-지 않은 + N (định ngữ phủ định — 필요하지 않은 물건)
+  - N에 (cho — 봉사단체에)
+  - V-는 + N (định ngữ — 기증하는 시민들)
+  - V-고 있다 (đang — 늘고 있다)
+- **Từ vựng:**
+  - 필요하다 — cần
+  - 물건 — món đồ
+  - 봉사단체 — tổ chức thiện nguyện
+  - 기증하다 — quyên tặng
+  - 시민 — công dân
+  - 늘다 — tăng
+
+> 그런데 이러한 물건 중에 (   ) 많다.
+→ Thế nhưng trong số đồ này có nhiều thứ (   ).
+- **Ngữ pháp:**
+  - 그런데 (thế nhưng — chuyển ý)
+  - 이러한 + N (chỉ định hồi chiếu — 이러한 물건)
+  - N 중에 (trong số — 물건 중에)
+- **Từ vựng:**
+  - 이러하다 — như thế này
+
+> 그래서 쓸 만한 물건을 골라내는 데 인력과 비용이 소모된다.
+→ Vì thế, tốn nhân lực và chi phí để lọc ra những món còn dùng được.
+- **Ngữ pháp:**
+  - 그래서 (vì thế — hệ quả)
+  - V-을 만하다 (đáng/còn ~ được — 쓸 만한)
+  - V-는 데 (vào việc — 골라내는 데)
+  - N이/가 소모되다 (bị tiêu tốn — 인력과 비용이 소모된다)
+- **Từ vựng:**
+  - 골라내다 — lọc/chọn ra
+  - 인력 — nhân lực
+  - 비용 — chi phí
+  - 소모되다 — bị tiêu hao
+
+> 물건을 기증할 때에는 다른 사람들이 다시 사용할 것이라는 점을 고려해야 할 것이다.
+→ Khi quyên đồ, nên cân nhắc rằng người khác sẽ dùng lại.
+- **Ngữ pháp:**
+  - V-을 때에는 (khi thì — 기증할 때에는)
+  - V-을 것이라는 + N (định ngữ trích dẫn tương lai — 사용할 것이라는 점)
+  - V-아/어야 할 것이다 (nên/cần — 고려해야 할 것이다)
+- **Từ vựng:**
+  - 다시 — lại
+  - 사용하다 — sử dụng
+  - 점 — điểm
+  - 고려하다 — cân nhắc
+
+---
+
+## Câu 18 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 한 가전 업체에서 옷을 태우지 않는 다리미를 내놓았다. 작동 원리는 다리미질을 하다가 손을 떼면 다리미 밑판이 올라가 옷과 다리미 사이에 간격이 생기는 방식이다. 다리미를 다시 잡으면 밑판이 내려온다. 별것 아닌 듯한 이 다리미에 시장의 반응은 뜨거웠다. 많은 사람들이 고민하던 (   ) 때문이다.
+
+**Dịch:**
+> Một hãng điện gia dụng đã tung ra chiếc bàn ủi không làm cháy quần áo. Nguyên lý hoạt động là: đang ủi mà buông tay ra thì đế bàn ủi nâng lên, tạo khoảng cách giữa áo và bàn ủi. Cầm bàn ủi lại thì đế hạ xuống. Chiếc bàn ủi tưởng như chẳng có gì này lại được thị trường phản ứng nồng nhiệt. Ấy là vì (   ) mà nhiều người từng trăn trở.
+
+**Quan hệ:** căn-cứ (blank + "때문이다" = lý do thị trường hưởng ứng) → [[BLK_can_cu]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 가격을 저렴한 수준으로 낮추었기 | (vì) hạ giá xuống mức rẻ | ❌ | Bài không nói về giá; điểm nóng là cơ chế chống cháy áo. |
+| ② | 모양을 적절한 방법으로 바꾸었기 | đổi kiểu dáng hợp lý | ❌ | Không phải kiểu dáng; là giải pháp cho vấn đề cháy áo. |
+| ③ | 내용을 합리적인 방식으로 설명했기 | giải thích nội dung hợp lý | ❌ | Không liên quan; đây là sản phẩm, không phải thuyết minh. |
+| ④ | 문제를 새로운 아이디어로 해결했기 | (vì) giải quyết vấn đề bằng ý tưởng mới | ✅ | Bàn ủi tự tạo khoảng cách khi nhấc tay → giải quyết nỗi lo cháy áo (많은 사람들이 고민하던) bằng ý tưởng mới → khớp căn cứ "때문이다". |
+
+### Chú giải chi tiết
+
+> 한 가전 업체에서 옷을 태우지 않는 다리미를 내놓았다.
+→ Một hãng điện gia dụng đã tung ra chiếc bàn ủi không làm cháy quần áo.
+- **Ngữ pháp:**
+  - N에서 (chủ thể tổ chức — 업체에서)
+  - V-지 않는 + N (định ngữ phủ định — 태우지 않는 다리미)
+- **Từ vựng:**
+  - 가전 업체 — hãng điện gia dụng
+  - 태우다 — làm cháy
+  - 다리미 — bàn ủi
+  - 내놓다 — tung ra, đưa ra
+
+> 작동 원리는 다리미질을 하다가 손을 떼면 다리미 밑판이 올라가 옷과 다리미 사이에 간격이 생기는 방식이다.
+→ Nguyên lý là: đang ủi mà buông tay thì đế bàn ủi nâng lên, tạo khoảng cách giữa áo và bàn ủi.
+- **Ngữ pháp:**
+  - V-다가 (đang… thì — 하다가) · [[GR_다가]]
+  - -(으)면 (nếu/khi — 떼면)
+  - V-아/어 (nối — 올라가)
+  - V-는 방식이다 (là cách ~ — 생기는 방식이다)
+- **Từ vựng:**
+  - 작동 원리 — nguyên lý hoạt động
+  - 다리미질 — việc ủi đồ
+  - 떼다 — rời/buông ra
+  - 밑판 — đế/tấm đáy
+  - 간격 — khoảng cách
+  - 생기다 — nảy sinh, hình thành
+
+> 다리미를 다시 잡으면 밑판이 내려온다. 별것 아닌 듯한 이 다리미에 시장의 반응은 뜨거웠다.
+→ Cầm bàn ủi lại thì đế hạ xuống. Chiếc bàn ủi tưởng như chẳng có gì này lại được thị trường phản ứng nồng nhiệt.
+- **Ngữ pháp:**
+  - -(으)면 (khi — 잡으면)
+  - A-(으)ㄴ 듯한 + N (định ngữ "tưởng như" — 아닌 듯한 다리미)
+  - N에 N은/는 (đối với ~ thì — 다리미에 시장의 반응은)
+- **Từ vựng:**
+  - 잡다 — cầm, nắm
+  - 내려오다 — hạ xuống
+  - 별것 아니다 — chẳng có gì đặc biệt
+  - 시장 — thị trường
+  - 반응 — phản ứng
+  - 뜨겁다 — nóng (phản ứng nồng nhiệt)
+
+> 많은 사람들이 고민하던 (   ) 때문이다.
+→ Ấy là vì (   ) mà nhiều người từng trăn trở.
+- **Ngữ pháp:**
+  - V-던 + N (định ngữ hồi tưởng — 고민하던)
+  - V-았/었기 때문이다 (là vì đã — 해결했기 때문이다 — nêu căn cứ)
+- **Từ vựng:**
+  - 고민하다 — trăn trở, băn khoăn
+  - 해결하다 — giải quyết
+  - 아이디어 — ý tưởng
+
+---
+
+## Câu 19 — dạng điền-phó-từ (빈칸에 들어갈 알맞은 부사)
+
+**문제:**
+> 요즘 아빠들은 아이들에게 친구 같은 존재가 되고 싶어한다. (   ) 아이가 어릴 때는 친구 같은 아빠가 필요하다. 서로 사랑하는 마음을 표현하는 과정을 통해 부모와 자식 간의 신뢰가 깊어질 수 있기 때문이다. 그런데 아이의 인성이 형성되는 청소년기에는 '권위 있는 아빠'의 역할도 중요하다. 아빠의 권위 있는 말과 행동은 아이의 삶에 판단 기준이 되어 아이가 바른 길로 가는 데 도움을 줄 수 있기 때문이다.
+
+**Dịch:**
+> Dạo này các ông bố muốn trở thành một sự tồn tại như người bạn đối với con. (   ) khi con còn nhỏ thì cần một người bố như bạn. Ấy là vì qua quá trình bày tỏ tấm lòng yêu thương lẫn nhau, sự tin tưởng giữa cha mẹ và con cái có thể sâu đậm hơn. Thế nhưng đến tuổi thiếu niên khi nhân cách của con được hình thành thì vai trò của 'người bố có uy quyền' cũng quan trọng. Ấy là vì lời nói và hành động có uy quyền của bố trở thành tiêu chuẩn phán đoán cho cuộc đời con, giúp con đi trên con đường đúng đắn.
+
+**Chức năng:** nhượng-bộ (물론 A … 그런데 B — thừa nhận rồi tương phản; candidate 1×, chưa đủ 2× nên chưa tạo note ADV)
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 반면 | trái lại | ❌ | Tương phản trực tiếp; câu sau blank cùng chiều câu trước (bố như bạn), tương phản nằm ở 그런데 sau → sai. |
+| ② | 물론 | tất nhiên, đương nhiên | ✅ | Cặp **물론 A … 그런데 B**: thừa nhận "khi nhỏ cần bố như bạn" rồi 그런데 đảo sang "thiếu niên cần bố uy quyền" → phó từ nhượng-bộ. |
+| ③ | 차라리 | thà rằng | ❌ | Chọn phương án thay thế tốt hơn; không có sự lựa chọn ở đây → sai. |
+| ④ | 그러면 | vậy thì | ❌ | Nối điều kiện→kết quả; không hợp mạch nhượng bộ → sai. |
+
+### Chú giải chi tiết
+
+> 요즘 아빠들은 아이들에게 친구 같은 존재가 되고 싶어한다.
+→ Dạo này các ông bố muốn trở thành một sự tồn tại như người bạn đối với con.
+- **Ngữ pháp:**
+  - N들 (số nhiều — 아빠들)
+  - N에게 (với/đối với — 아이들에게)
+  - N 같은 + N (giống như ~ — 친구 같은 존재)
+  - V-고 싶어 하다 (muốn ~ (ngôi 3) — 되고 싶어한다) · [[VC_고_싶어_하다]]
+- **Từ vựng:**
+  - 요즘 — dạo này
+  - 아빠 — bố · [[TOPIC_자녀교육]]
+  - 존재 — sự tồn tại
+  - 친구 — bạn
+
+> (물론) 아이가 어릴 때는 친구 같은 아빠가 필요하다.
+→ (Đương nhiên,) khi con còn nhỏ thì cần một người bố như bạn.
+- **Ngữ pháp:**
+  - 물론 (đương nhiên — phó từ nhượng bộ, mở "물론 A")
+  - A-을 때는 (khi ~ thì — 어릴 때는)
+  - N이/가 필요하다 (cần ~)
+- **Từ vựng:**
+  - 어리다 — nhỏ (tuổi)
+  - 필요하다 — cần
+
+> 서로 사랑하는 마음을 표현하는 과정을 통해 부모와 자식 간의 신뢰가 깊어질 수 있기 때문이다.
+→ Ấy là vì qua quá trình bày tỏ tấm lòng yêu thương lẫn nhau, sự tin tưởng giữa cha mẹ và con cái có thể sâu đậm hơn.
+- **Ngữ pháp:**
+  - 서로 (lẫn nhau)
+  - V-는 + N (định ngữ — 사랑하는 마음)
+  - N을/를 통해 (qua ~ — 과정을 통해)
+  - N 간의 + N (giữa ~ — 부모와 자식 간의 신뢰)
+  - V-을 수 있기 때문이다 (là vì có thể ~ — 깊어질 수 있기 때문이다)
+- **Từ vựng:**
+  - 표현하다 — bày tỏ
+  - 과정 — quá trình
+  - 부모 — cha mẹ
+  - 자식 — con cái
+  - 신뢰 — sự tin tưởng
+  - 깊어지다 — sâu đậm hơn
+
+> 그런데 아이의 인성이 형성되는 청소년기에는 '권위 있는 아빠'의 역할도 중요하다.
+→ Thế nhưng đến tuổi thiếu niên khi nhân cách của con được hình thành thì vai trò của 'người bố có uy quyền' cũng quan trọng.
+- **Ngữ pháp:**
+  - 그런데 (thế nhưng — chuyển ý, mở vế tương phản của 물론)
+  - V-는 + N (định ngữ — 형성되는 청소년기)
+  - N에는 (vào ~ thì)
+  - N도 (cũng — 역할도)
+- **Từ vựng:**
+  - 인성 — nhân cách · [[TOPIC_자녀교육]]
+  - 형성되다 — được hình thành
+  - 청소년기 — tuổi thiếu niên · [[TOPIC_자녀교육]]
+  - 권위 — uy quyền · [[TOPIC_자녀교육]]
+  - 역할 — vai trò
+
+> 아빠의 권위 있는 말과 행동은 아이의 삶에 판단 기준이 되어 아이가 바른 길로 가는 데 도움을 줄 수 있기 때문이다.
+→ Ấy là vì lời nói và hành động có uy quyền của bố trở thành tiêu chuẩn phán đoán cho cuộc đời con, giúp con đi trên con đường đúng đắn.
+- **Ngữ pháp:**
+  - N의 (của — 아빠의 말과 행동)
+  - N이/가 되어 (trở thành ~ rồi — 기준이 되어)
+  - V-는 데 도움을 주다 (giúp ích cho việc ~ — 가는 데 도움을 줄)
+  - V-을 수 있기 때문이다 (là vì có thể ~)
+- **Từ vựng:**
+  - 말 — lời nói
+  - 행동 — hành động
+  - 삶 — cuộc đời
+  - 판단 기준 — tiêu chuẩn phán đoán
+  - 바른 길 — con đường đúng đắn
+
+---
+
+## Câu 20 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 요즘 아빠들은 아이들에게 친구 같은 존재가 되고 싶어한다. 물론 아이가 어릴 때는 친구 같은 아빠가 필요하다. 서로 사랑하는 마음을 표현하는 과정을 통해 부모와 자식 간의 신뢰가 깊어질 수 있기 때문이다. 그런데 아이의 인성이 형성되는 청소년기에는 '권위 있는 아빠'의 역할도 중요하다. 아빠의 권위 있는 말과 행동은 아이의 삶에 판단 기준이 되어 아이가 바른 길로 가는 데 도움을 줄 수 있기 때문이다.
+
+**Dịch:**
+> Dạo này các ông bố muốn trở thành sự tồn tại như người bạn đối với con. Đương nhiên khi con còn nhỏ thì cần một người bố như bạn. Ấy là vì qua quá trình bày tỏ tấm lòng yêu thương, sự tin tưởng giữa cha mẹ và con cái có thể sâu đậm hơn. Thế nhưng đến tuổi thiếu niên khi nhân cách con được hình thành thì vai trò 'người bố uy quyền' cũng quan trọng. Ấy là vì lời nói và hành động uy quyền của bố trở thành tiêu chuẩn phán đoán, giúp con đi đúng đường.
+
+**Chủ đề:** 자녀교육 (vai trò người bố theo giai đoạn) → [[TOPIC_자녀교육]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 아이들은 자기 스스로 인성을 완성할 수 있다 | Trẻ có thể tự hoàn thiện nhân cách | ❌ | Bài: tuổi 인성 형성 cần **vai trò của bố** → nói ngược/bịa — [[TRAP_khong_co_thong_tin]]. |
+| ② | 청소년기에는 친구 같은 아빠의 역할이 더 중요하다 | Tuổi thiếu niên vai trò bố như bạn quan trọng hơn | ❌ | Bài: 청소년기=**권위 있는 아빠**; bố như bạn = khi nhỏ → đảo thời điểm/vai — [[TRAP_dao_thong_tin]]. |
+| ③ | 친구 같은 아빠는 아이가 바른 길로 가도록 도움을 준다 | Bố như bạn giúp con đi đúng đường | ❌ | Bài: đi đúng đường = nhờ **권위 있는 아빠**; bố như bạn → tăng 신뢰 → đảo chủ thể — [[TRAP_dao_thong_tin]]. |
+| ④ | 권위 있는 아빠는 아이에게 삶의 판단 기준을 제시할 수 있다 | Bố uy quyền có thể đưa ra tiêu chuẩn phán đoán cho cuộc đời con | ✅ | Bài: 권위 있는 말과 행동은 아이의 삶에 **판단 기준이 되어** → khớp. |
+
+> **Chú giải chi tiết:** đoạn văn dùng chung với Câu 19 — xem **Câu 19** phía trên.

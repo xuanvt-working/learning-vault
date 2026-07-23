@@ -40,11 +40,28 @@ history:
   - {exam: TOPIK_64, q: 11, role: distractor, reason: "④ 포함↔못 받음 — 친환경 화장품 처음 포함됨"}
   - {exam: TOPIK_64, q: 12, role: distractor, reason: "① 밝혀짐↔찾는 중 — 주인은 왕으로 밝혀짐"}
   - {exam: TOPIK_64, q: 12, role: distractor, reason: "④ 벽↔바닥 — 문자·그림은 벽에 있음"}
-distractor_count: 33
+  - {exam: TOPIK_35, q: 20, role: distractor, reason: "③ 속까지 잘 익는다 — bài: 겉은 익어도 속이 잘 안 익음 (đảo)"}
+  - {exam: TOPIK_36, q: 20, role: distractor, reason: "② 예상과 유사 — bài: 예상과 달랐다 (đảo)"}
+  - {exam: TOPIK_36, q: 20, role: distractor, reason: "③ 사회→개인 영향 — bài: 개인의 사회 공헌도(개인→사회) (đảo chủ thể)"}
+  - {exam: TOPIK_36, q: 20, role: distractor, reason: "④ 노력 안 함 — bài: 2명 그룹이 잠재력 가장 많이 사용 (đảo)"}
+  - {exam: TOPIK_37, q: 20, role: distractor, reason: "① 서명 있으면 감정 불필요 — bài: 서명은 감정 시 고려 요소 (đảo)"}
+  - {exam: TOPIK_37, q: 20, role: distractor, reason: "② 고미술품에 한정 — bài: 고미술품~현대 작품 광범위 적용 (đảo phạm vi)"}
+  - {exam: TOPIK_37, q: 20, role: distractor, reason: "③ 고미술품 고유 번호 보유 — bài: 미술품엔 고유 번호 없음 (đảo)"}
+  - {exam: TOPIK_41, q: 20, role: distractor, reason: "② 핵심=숨 참기 — bài: 핵심=언제 쏠지 판단 (đảo trọng tâm)"}
+  - {exam: TOPIK_47, q: 20, role: distractor, reason: "② 청소년기 친구 같은 아빠 — bài: 청소년기=권위 있는 아빠 (đảo thời điểm/vai)"}
+  - {exam: TOPIK_47, q: 20, role: distractor, reason: "③ 친구 같은 아빠→바른 길 — bài: 바른 길 도움=권위 있는 아빠 (đảo chủ thể)"}
+  - {exam: TOPIK_52, q: 20, role: distractor, reason: "② 숫자 네 개로 못 만듦 — bài: 초기엔 숫자 네 개면 충분 (đảo)"}
+  - {exam: TOPIK_52, q: 20, role: distractor, reason: "③ 가입자가 기업에 까다롭게 — đảo chủ thể (보안 요구는 기업/시스템)"}
+  - {exam: TOPIK_52, q: 20, role: distractor, reason: "④ 숫자·문자 중 하나 선택 — bài: 특수 문자까지(둘 다) (đảo)"}
+  - {exam: TOPIK_60, q: 20, role: distractor, reason: "① 주인 곁 안 떠남 — bài: 위험 시 행인에게 다가감 (đảo)"}
+  - {exam: TOPIK_60, q: 20, role: distractor, reason: "② 구조 센터로 달려감 — bài: 주변 사람에게 달려가 도움 요청 (đảo đối tượng)"}
+  - {exam: TOPIK_64, q: 20, role: distractor, reason: "② 잡기 어려운 먹이 — bài: 도망 안 쳐 사냥 쉽다 (đảo)"}
+  - {exam: TOPIK_64, q: 20, role: distractor, reason: "④ 대부분 콜라겐 — bài: 95%가 물 (đảo số liệu)"}
+distractor_count: 50
 correct_count: 0
 kill_signal: "Phương án khẳng định một chi tiết TRÁI với đoạn văn — đổi chủ thể (누가), đối tượng (누구/무엇), nơi chốn (어디: 벽↔바닥), phương thức (전화↔방문), hay chiều so sánh (A>B↔A<B). Rà từng danh từ/động từ chính trong phương án về đúng câu trong bài."
 select_signal: "Đúng khi phương án lặp lại đúng chi tiết bài (không đổi chủ thể/nơi/chiều) — mọi từ khóa đều truy được và khớp."
-source: [RA:35-Q11-dis, RA:36-Q11-dis, RA:36-Q12-dis, RA:37-Q11-dis, RA:37-Q12-dis, RA:41-Q11-dis, RA:41-Q12-dis, RA:47-Q11-dis, RA:47-Q12-dis, RA:52-Q11-dis, RA:52-Q12-dis, RA:60-Q11-dis, RA:60-Q12-dis, RA:64-Q11-dis, RA:64-Q12-dis]
+source: [RA:35-Q11-dis, RA:36-Q11-dis, RA:36-Q12-dis, RA:37-Q11-dis, RA:37-Q12-dis, RA:41-Q11-dis, RA:41-Q12-dis, RA:47-Q11-dis, RA:47-Q12-dis, RA:52-Q11-dis, RA:52-Q12-dis, RA:60-Q11-dis, RA:60-Q12-dis, RA:64-Q11-dis, RA:64-Q12-dis, RA:35-Q20-dis, RA:36-Q20-dis, RA:37-Q20-dis, RA:41-Q20-dis, RA:47-Q20-dis, RA:52-Q20-dis, RA:60-Q20-dis, RA:64-Q20-dis]
 status: draft
 tags: [korean/topik, reading/trap]
 created: 2026-07-20
@@ -101,6 +118,23 @@ created: 2026-07-20
 | TOPIK_64 | 11 | ❌ nhiễu | ④ 포함↔못 받음 — 친환경 화장품 처음 포함 | [RA:64-Q11-dis] |
 | TOPIK_64 | 12 | ❌ nhiễu | ① 밝혀짐↔찾는 중 — 주인은 왕으로 밝혀짐 | [RA:64-Q12-dis] |
 | TOPIK_64 | 12 | ❌ nhiễu | ④ 벽↔바닥 — 문자·그림은 벽에 있음 | [RA:64-Q12-dis] |
+| TOPIK_35 | 20 | ❌ nhiễu | ③ 속까지 잘 익는다 — bài: 겉은 익어도 속이 잘 안 익음 | [RA:35-Q20-dis] |
+| TOPIK_36 | 20 | ❌ nhiễu | ② 예상과 유사 — bài: 예상과 달랐다 | [RA:36-Q20-dis] |
+| TOPIK_36 | 20 | ❌ nhiễu | ③ 사회→개인 영향 — bài: 개인의 사회 공헌도(개인→사회) | [RA:36-Q20-dis] |
+| TOPIK_36 | 20 | ❌ nhiễu | ④ 노력 안 함 — bài: 2명 그룹 잠재력 가장 많이 사용 | [RA:36-Q20-dis] |
+| TOPIK_37 | 20 | ❌ nhiễu | ① 서명 있으면 감정 불필요 — bài: 서명은 감정 요소 | [RA:37-Q20-dis] |
+| TOPIK_37 | 20 | ❌ nhiễu | ② 고미술품에 한정 — bài: 광범위 적용 | [RA:37-Q20-dis] |
+| TOPIK_37 | 20 | ❌ nhiễu | ③ 고미술품 고유 번호 — bài: 미술품엔 번호 없음 | [RA:37-Q20-dis] |
+| TOPIK_41 | 20 | ❌ nhiễu | ② 핵심=숨 참기 — bài: 핵심=언제 쏠지 판단 | [RA:41-Q20-dis] |
+| TOPIK_47 | 20 | ❌ nhiễu | ② 청소년기 친구 같은 아빠 — bài: 청소년기=권위 | [RA:47-Q20-dis] |
+| TOPIK_47 | 20 | ❌ nhiễu | ③ 친구 같은 아빠→바른 길 — bài: 권위 있는 아빠 | [RA:47-Q20-dis] |
+| TOPIK_52 | 20 | ❌ nhiễu | ② 숫자 네 개로 못 만듦 — bài: 초기엔 충분했다 | [RA:52-Q20-dis] |
+| TOPIK_52 | 20 | ❌ nhiễu | ③ 가입자가 기업에 까다롭게 — đảo chủ thể | [RA:52-Q20-dis] |
+| TOPIK_52 | 20 | ❌ nhiễu | ④ 숫자·문자 중 하나 — bài: 특수 문자까지(둘 다) | [RA:52-Q20-dis] |
+| TOPIK_60 | 20 | ❌ nhiễu | ① 주인 곁 안 떠남 — bài: 위험 시 행인에게 다가감 | [RA:60-Q20-dis] |
+| TOPIK_60 | 20 | ❌ nhiễu | ② 구조 센터로 달려감 — bài: 주변 사람에게 달려가 도움 | [RA:60-Q20-dis] |
+| TOPIK_64 | 20 | ❌ nhiễu | ② 잡기 어려운 먹이 — bài: 도망 안 쳐 사냥 쉽다 | [RA:64-Q20-dis] |
+| TOPIK_64 | 20 | ❌ nhiễu | ④ 대부분 콜라겐 — bài: 95%가 물 | [RA:64-Q20-dis] |
 <!-- sync:appearances:end -->
 
 ## Liên kết

@@ -848,3 +848,325 @@ tags: [korean/topik, exam]
   - 다양하다 — đa dạng
   - 연결되다 — được kết nối
   - 창의적인 생각 — ý tưởng sáng tạo
+
+---
+
+## Câu 16 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 의심과 믿음을 색깔로 비유한다면 의심은 검은색과 같고 믿음은 하얀색과 같다. 아무리 흰색 물감을 많이 넣어도 검은색은 하얀색이 되지 않는다. 하지만 흰색 물감은 검은색 물감 한 방울로도 금방 회색으로 변한다. 이는 사람 사이에서도 마찬가지다. 한번 의심하게 되면 (   ).
+
+**Dịch:**
+> Nếu ví ngờ vực và tin tưởng bằng màu sắc thì ngờ vực giống màu đen, tin tưởng giống màu trắng. Dù có pha thêm bao nhiêu màu trắng, màu đen cũng không thành màu trắng. Nhưng màu trắng chỉ với một giọt màu đen là lập tức chuyển sang xám. Điều này trong quan hệ giữa người với người cũng vậy. Một khi đã ngờ vực thì (   ).
+
+**Quan hệ:** so-sánh (loại suy đen/trắng ↔ quan hệ, "마찬가지다") — candidate 1×, chưa tạo note
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 자신감이 줄어든다 | mất tự tin | ❌ | Không nằm trong phép loại suy đen/trắng về "khó hoàn nguyên quan hệ". |
+| ② | 고민거리가 많아진다 | nhiều nỗi lo | ❌ | Không khớp loại suy (trắng nhiễm đen → khó về trắng). |
+| ③ | 문제점 파악이 힘들다 | khó nắm bắt vấn đề | ❌ | Lạc phép so sánh; bài nói về việc khôi phục quan hệ. |
+| ④ | 관계를 되돌리기 어렵다 | khó khôi phục lại quan hệ | ✅ | Loại suy: trắng dính 1 giọt đen → thành xám ngay (không về lại trắng) = một khi đã ngờ vực thì khó đưa quan hệ về như cũ ("마찬가지다"). |
+
+### Chú giải chi tiết
+
+> 의심과 믿음을 색깔로 비유한다면 의심은 검은색과 같고 믿음은 하얀색과 같다.
+→ Nếu ví ngờ vực và tin tưởng bằng màu sắc thì ngờ vực như màu đen, tin tưởng như màu trắng.
+- **Ngữ pháp:**
+  - N을/를 N(으)로 비유하다 (ví ~ bằng ~ — 색깔로 비유한다면)
+  - V-ㄴ/는다면 (nếu (giả định) — 비유한다면) · [[GR_다면]]
+  - N과/와 같다 (giống như — 검은색과 같고)
+- **Từ vựng:**
+  - 의심 — sự ngờ vực
+  - 믿음 — sự tin tưởng
+  - 색깔 — màu sắc
+  - 비유하다 — ví von
+  - 검은색 — màu đen
+  - 하얀색 — màu trắng
+
+> 아무리 흰색 물감을 많이 넣어도 검은색은 하얀색이 되지 않는다.
+→ Dù pha thêm bao nhiêu màu trắng, màu đen cũng không thành màu trắng.
+- **Ngữ pháp:**
+  - 아무리 A/V-아/어도 (dù… đến mấy cũng — 아무리 … 넣어도)
+  - V-지 않다 (không — 되지 않는다)
+- **Từ vựng:**
+  - 흰색 — màu trắng
+  - 물감 — màu vẽ, phẩm màu
+  - 넣다 — cho vào, pha
+
+> 하지만 흰색 물감은 검은색 물감 한 방울로도 금방 회색으로 변한다.
+→ Nhưng màu trắng chỉ với một giọt màu đen là lập tức chuyển sang xám.
+- **Ngữ pháp:**
+  - 하지만 (nhưng — tương phản)
+  - N 한 방울로도 (chỉ với một giọt cũng — 한 방울로도)
+  - N(으)로 변하다 (biến thành — 회색으로 변한다)
+- **Từ vựng:**
+  - 방울 — giọt
+  - 금방 — lập tức, ngay
+  - 회색 — màu xám
+  - 변하다 — biến đổi
+
+> 이는 사람 사이에서도 마찬가지다. 한번 의심하게 되면 (   ).
+→ Điều này giữa người với người cũng vậy. Một khi đã ngờ vực thì (   ).
+- **Ngữ pháp:**
+  - 이는 … 마찬가지다 (điều này cũng vậy — loại suy/so-sánh)
+  - N 사이에서도 (ngay cả giữa ~ — 사람 사이에서도)
+  - 한번 V-게 되면 (một khi đã… thì — 의심하게 되면) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 사이 — quan hệ, khoảng giữa
+  - 마찬가지 — như nhau, cũng vậy
+  - 의심하다 — ngờ vực
+
+---
+
+## Câu 17 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 집에서 채소를 보관하다 보면 채소가 쉽게 시든다. 채소가 시드는 이유는 (   ) 때문이다. 그래서 채소는 시간이 갈수록 시들시들 말라간다. 시든 채소를 살리려면 50도의 뜨거운 물에 넣어 씻으면 된다. 그러면 순간적으로 충분한 물이 흡수되면서 채소가 다시 싱싱해진다.
+
+**Dịch:**
+> Khi bảo quản rau ở nhà, rau dễ bị héo. Lý do rau héo là vì (   ). Vì thế rau càng để lâu càng héo rũ, khô đi. Muốn cứu rau héo thì cho vào nước nóng 50 độ mà rửa là được. Khi đó, tức thì đủ nước được hấp thụ, rau tươi trở lại.
+
+**Quan hệ:** căn-cứ (blank + "때문이다" = lý do; xác nhận bằng cách cứu = hấp thụ nước) → [[BLK_can_cu]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 수분이 점점 빠져나가기 | (vì) nước dần thoát ra | ✅ | Blank + "때문이다" = lý do rau héo. Xác nhận: cứu rau bằng ngâm nước → hấp thụ đủ nước → tươi lại ⇒ nguyên nhân héo = mất nước. |
+| ② | 세균이 갑자기 많아지기 | vi khuẩn đột ngột tăng | ❌ | Bài không nhắc vi khuẩn; cách cứu (ngâm nước) không dính diệt khuẩn. |
+| ③ | 호흡이 갈수록 느려지기 | hô hấp chậm dần | ❌ | Không phải cơ chế bài nêu; không khớp việc bù nước. |
+| ④ | 씻을 때 뜨거운 물로 씻기 | rửa bằng nước nóng | ❌ | Đó là cách CỨU rau (nêu sau), không phải nguyên nhân héo — đảo nhân/quả. |
+
+### Chú giải chi tiết
+
+> 집에서 채소를 보관하다 보면 채소가 쉽게 시든다.
+→ Khi bảo quản rau ở nhà, rau dễ bị héo.
+- **Ngữ pháp:**
+  - V-다 보면 (hễ cứ… thì — 보관하다 보면)
+  - A-게 (một cách — 쉽게)
+- **Từ vựng:**
+  - 채소 — rau
+  - 보관하다 — bảo quản
+  - 시들다 — héo
+
+> 채소가 시드는 이유는 (   ) 때문이다.
+→ Lý do rau héo là vì (   ).
+- **Ngữ pháp:**
+  - V-는 + N (định ngữ — 시드는 이유)
+  - N의 이유는 …기 때문이다 (lý do là vì ~ — nêu căn cứ)
+- **Từ vựng:**
+  - 이유 — lý do
+
+> 그래서 채소는 시간이 갈수록 시들시들 말라간다.
+→ Vì thế rau càng để lâu càng héo rũ, khô đi.
+- **Ngữ pháp:**
+  - 그래서 (vì thế — hệ quả)
+  - N이/가 갈수록 (càng ~ càng — 시간이 갈수록) · [[GR_을수록]]
+  - V-아/어 가다 (dần dần (theo thời gian) — 말라간다) · [[VC_dong_tu_di_chuyen_가다오다]]
+- **Từ vựng:**
+  - 시들시들 — héo rũ (từ tượng hình)
+  - 마르다 — khô
+
+> 시든 채소를 살리려면 50도의 뜨거운 물에 넣어 씻으면 된다.
+→ Muốn cứu rau héo thì cho vào nước nóng 50 độ mà rửa là được.
+- **Ngữ pháp:**
+  - V-(으)ㄴ + N (định ngữ quá khứ — 시든 채소)
+  - V-(으)려면 (muốn ~ thì — 살리려면)
+  - V-아/어 (nối — 넣어 씻으면)
+  - V-(으)면 되다 (chỉ cần… là được — 씻으면 된다)
+- **Từ vựng:**
+  - 살리다 — cứu, làm sống lại
+  - 뜨겁다 — nóng
+  - 씻다 — rửa
+
+> 그러면 순간적으로 충분한 물이 흡수되면서 채소가 다시 싱싱해진다.
+→ Khi đó, tức thì đủ nước được hấp thụ, rau tươi trở lại.
+- **Ngữ pháp:**
+  - 그러면 (khi đó thì — hệ quả điều kiện)
+  - A-(으)ㄴ + N (định ngữ — 충분한 물)
+  - V-(으)면서 (vừa… vừa/đồng thời — 흡수되면서)
+  - A-아/어지다 (trở nên — 싱싱해진다)
+- **Từ vựng:**
+  - 순간적 — tức thời
+  - 충분하다 — đủ, đầy đủ
+  - 흡수되다 — được hấp thụ
+  - 싱싱하다 — tươi
+
+---
+
+## Câu 18 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 조선 시대 교육기관인 서당은 (   ). 추운 겨울에는 실내에 있는 시간이 많으므로 학생들에게 어려운 책을 읽게 하였다. 반면 더운 여름에는 시원한 곳을 찾아가서 시를 짓게 하였다. 그리고 비가 땅을 촉촉하게 적셔 잠이 오기 쉬운 봄과 가을에는 졸음을 쫓을 수 있도록 글쓰기 연습을 시켰다.
+
+**Dịch:**
+> Seodang — cơ sở giáo dục thời Joseon — (   ). Mùa đông lạnh, do thời gian ở trong nhà nhiều nên cho học sinh đọc những cuốn sách khó. Ngược lại, mùa hè nóng thì cho học sinh tìm đến nơi mát mẻ để làm thơ. Và mùa xuân, mùa thu — khi mưa làm đất ẩm nên dễ buồn ngủ — thì cho luyện viết chữ để xua cơn buồn ngủ.
+
+**Quan hệ:** khái-quát (blank = câu khái quát mở đoạn, các mùa là ví dụ minh họa) → [[BLK_khai_quat]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 계절마다 새로운 학생을 선발하였다 | mỗi mùa tuyển học sinh mới | ❌ | Bài không nói tuyển học sinh; các ví dụ đều về CÁCH dạy. |
+| ② | 계절에 따라 공부하는 시간이 달랐다 | thời gian học khác nhau theo mùa | ❌ | Ví dụ nói về phương pháp (đọc sách/làm thơ/luyện viết), không phải thời lượng. |
+| ③ | 계절에 따라 교육 방법을 달리하였다 | thay đổi phương pháp dạy theo mùa | ✅ | Câu khái quát mở đoạn; 3 ví dụ mùa (đông đọc sách, hè làm thơ, xuân-thu luyện viết) minh họa "đổi phương pháp theo mùa". |
+| ④ | 계절을 소재로 하여 시를 짓게 하였다 | lấy mùa làm đề tài làm thơ | ❌ | Chỉ đúng một phần (hè làm thơ), không bao quát các mùa còn lại. |
+
+### Chú giải chi tiết
+
+> 조선 시대 교육기관인 서당은 (   ).
+→ Seodang — cơ sở giáo dục thời Joseon — (   ).
+- **Ngữ pháp:**
+  - N인 + N (định ngữ đồng vị "là" — 교육기관인 서당)
+- **Từ vựng:**
+  - 조선 시대 — thời Joseon
+  - 교육기관 — cơ sở giáo dục
+  - 서당 — seodang (trường tư thục xưa)
+
+> 추운 겨울에는 실내에 있는 시간이 많으므로 학생들에게 어려운 책을 읽게 하였다.
+→ Mùa đông lạnh, do thời gian ở trong nhà nhiều nên cho học sinh đọc sách khó.
+- **Ngữ pháp:**
+  - A-(으)ㄴ + N (định ngữ — 추운 겨울)
+  - N에는 (vào — 겨울에는)
+  - A-(으)므로 (do/vì nên — 많으므로)
+  - V-게 하다 (bắt/cho ~ làm — 읽게 하였다)
+- **Từ vựng:**
+  - 겨울 — mùa đông
+  - 실내 — trong nhà
+  - 어렵다 — khó
+
+> 반면 더운 여름에는 시원한 곳을 찾아가서 시를 짓게 하였다.
+→ Ngược lại, mùa hè nóng thì cho tìm đến nơi mát mẻ để làm thơ.
+- **Ngữ pháp:**
+  - 반면 (ngược lại — tương phản)
+  - V-아/어서 (rồi — 찾아가서)
+  - V-게 하다 (cho ~ làm — 짓게 하였다)
+- **Từ vựng:**
+  - 여름 — mùa hè
+  - 시원하다 — mát mẻ
+  - 찾아가다 — tìm đến
+  - 시를 짓다 — làm thơ
+
+> 그리고 비가 땅을 촉촉하게 적셔 잠이 오기 쉬운 봄과 가을에는 졸음을 쫓을 수 있도록 글쓰기 연습을 시켰다.
+→ Và mùa xuân, thu — khi mưa làm đất ẩm nên dễ buồn ngủ — thì cho luyện viết chữ để xua cơn buồn ngủ.
+- **Ngữ pháp:**
+  - A-게 (một cách — 촉촉하게)
+  - V-아/어 (nối — 적셔)
+  - V-기 쉬운 + N (dễ ~ — 오기 쉬운 봄과 가을)
+  - V-을 수 있도록 (để có thể — 쫓을 수 있도록)
+  - N을/를 시키다 (bắt làm — 연습을 시켰다)
+- **Từ vựng:**
+  - 땅 — đất
+  - 촉촉하다 — ẩm
+  - 적시다 — làm ướt/ẩm
+  - 잠이 오다 — buồn ngủ
+  - 졸음 — cơn buồn ngủ
+  - 쫓다 — xua đuổi
+  - 글쓰기 — việc viết chữ/viết văn
+
+---
+
+## Câu 19 — dạng điền-phó-từ (빈칸에 들어갈 알맞은 부사)
+
+**문제:**
+> 대부분의 상품은 고유 번호가 있어서 정품을 쉽게 확인할 수 있다. 그러나 미술품은 그렇지 않아서 진품 확인이 힘들다. (   ) 미술품 작품이 진짜인지를 확인해야 하는 상황이라면 미술품 감정 과정이 필요하다. 미술품을 감정할 때에는 전문가 감정과 과학적 감정이 함께 사용되는데 이때 출처나 예술 기법, 서명 등이 고려된다. 이러한 방법은 고미술품에서 현대 작품에 이르기까지 광범위하게 적용되고 있다.
+
+**Dịch:**
+> Đa số hàng hóa có số hiệu riêng nên dễ xác nhận hàng chính hãng. Nhưng tác phẩm mỹ thuật thì không như vậy nên khó xác nhận hàng thật. (   ) đó là tình huống phải xác nhận tác phẩm mỹ thuật có thật hay không thì cần đến quy trình giám định. Khi giám định mỹ thuật, giám định của chuyên gia và giám định khoa học được dùng cùng nhau, lúc này xuất xứ, kỹ thuật nghệ thuật, chữ ký... được xem xét. Phương pháp này được áp dụng rộng rãi từ cổ vật mỹ thuật cho đến tác phẩm hiện đại.
+
+**Chức năng:** điều-kiện (tương liên 만약…-라면, đặt giả định) → [[ADV_dieu_kien]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 과연 | quả nhiên, quả thật | ❌ | Xác nhận/nhấn mạnh; không có mệnh đề giả định → sai. |
+| ② | 아마 | có lẽ | ❌ | Suy đoán khả năng; câu sau là điều kiện (-라면) + 필요하다, không phải phỏng đoán → sai. |
+| ③ | 만약 | nếu như | ✅ | Tương liên **만약 … 상황이라면** (đặt giả định) → phó từ điều-kiện. ⚠️ Ảnh mờ: thứ tự ②아마/③만약 dựng lại theo MOC key(vị trí 3) + tương liên 만약…라면 + song song TOPIK_60 (만약…다면) — [XV] đối chiếu đề gốc chốt vị trí. |
+| ④ | 하필 | (oái oăm) sao lại nhằm | ❌ | Nhấn sự trớ trêu; không hợp mạch điều kiện → sai. |
+
+### Chú giải chi tiết
+
+> 대부분의 상품은 고유 번호가 있어서 정품을 쉽게 확인할 수 있다.
+→ Đa số hàng hóa có số hiệu riêng nên dễ dàng xác nhận hàng chính hãng.
+- **Ngữ pháp:**
+  - N의 (của — 대부분의 상품)
+  - N이/가 있어서 (vì có ~ — 번호가 있어서)
+  - V-을 수 있다 (có thể — 확인할 수 있다)
+- **Từ vựng:**
+  - 대부분 — phần lớn
+  - 상품 — hàng hóa
+  - 고유 번호 — số hiệu riêng
+  - 정품 — hàng chính hãng
+  - 확인하다 — xác nhận
+
+> 그러나 미술품은 그렇지 않아서 진품 확인이 힘들다.
+→ Nhưng tác phẩm mỹ thuật thì không như vậy nên khó xác nhận hàng thật.
+- **Ngữ pháp:**
+  - 그러나 (nhưng)
+  - 그렇지 않다 (không như vậy)
+  - A-아/어서 (nên — 않아서)
+  - N이/가 힘들다 (khó ~ — 확인이 힘들다)
+- **Từ vựng:**
+  - 미술품 — tác phẩm mỹ thuật · [[TOPIC_미술감정]]
+  - 진품 — hàng thật · [[TOPIC_미술감정]]
+
+> (만약) 미술품 작품이 진짜인지를 확인해야 하는 상황이라면 미술품 감정 과정이 필요하다.
+→ (Nếu như) đó là tình huống phải xác nhận tác phẩm mỹ thuật có thật hay không thì cần đến quy trình giám định.
+- **Ngữ pháp:**
+  - 만약 …-(이)라면 (nếu như ~ thì — tương liên điều kiện) · [[ADV_dieu_kien]]
+  - N인지 (có phải ~ không — 진짜인지)
+  - V-아/어야 하는 + N (phải ~ — 확인해야 하는 상황)
+  - N이/가 필요하다 (cần ~ — 과정이 필요하다)
+- **Từ vựng:**
+  - 진짜 — thật
+  - 상황 — tình huống
+  - 감정 — sự giám định · [[TOPIC_미술감정]]
+  - 과정 — quy trình
+
+> 미술품을 감정할 때에는 전문가 감정과 과학적 감정이 함께 사용되는데 이때 출처나 예술 기법, 서명 등이 고려된다.
+→ Khi giám định mỹ thuật thì giám định của chuyên gia và giám định khoa học được dùng cùng nhau, lúc này xuất xứ, kỹ thuật nghệ thuật, chữ ký... được xem xét.
+- **Ngữ pháp:**
+  - V-을 때에는 (khi thì — 감정할 때에는)
+  - N과/와 (và — 전문가 감정과 과학적 감정)
+  - V-는데 (thì/mà — 사용되는데) · [[GR_는데]]
+  - N(이)나 (hay — 출처나)
+  - N 등이 고려되다 (được xem xét — bị động)
+- **Từ vựng:**
+  - 전문가 — chuyên gia · [[TOPIC_미술감정]]
+  - 과학적 — mang tính khoa học
+  - 함께 — cùng nhau
+  - 출처 — xuất xứ
+  - 예술 기법 — kỹ thuật nghệ thuật
+  - 서명 — chữ ký · [[TOPIC_미술감정]]
+  - 고려되다 — được xem xét
+
+> 이러한 방법은 고미술품에서 현대 작품에 이르기까지 광범위하게 적용되고 있다.
+→ Phương pháp này được áp dụng rộng rãi từ cổ vật mỹ thuật cho đến tác phẩm hiện đại.
+- **Ngữ pháp:**
+  - 이러한 + N (~ như thế này)
+  - N에서 N에 이르기까지 (từ ~ cho đến ~)
+  - V-고 있다 (đang — 적용되고 있다)
+- **Từ vựng:**
+  - 고미술품 — cổ vật mỹ thuật
+  - 현대 작품 — tác phẩm hiện đại
+  - 이르다 — đạt đến
+  - 광범위하다 — rộng khắp
+  - 적용되다 — được áp dụng
+
+---
+
+## Câu 20 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 대부분의 상품은 고유 번호가 있어서 정품을 쉽게 확인할 수 있다. 그러나 미술품은 그렇지 않아서 진품 확인이 힘들다. 만약 미술품 작품이 진짜인지를 확인해야 하는 상황이라면 미술품 감정 과정이 필요하다. 미술품을 감정할 때에는 전문가 감정과 과학적 감정이 함께 사용되는데 이때 출처나 예술 기법, 서명 등이 고려된다. 이러한 방법은 고미술품에서 현대 작품에 이르기까지 광범위하게 적용되고 있다.
+
+**Dịch:**
+> Đa số hàng hóa có số hiệu riêng nên dễ xác nhận hàng chính hãng. Nhưng tác phẩm mỹ thuật thì không như vậy nên khó xác nhận hàng thật. Nếu như đó là tình huống phải xác nhận tác phẩm mỹ thuật có thật hay không thì cần đến quy trình giám định. Khi giám định mỹ thuật, giám định chuyên gia và giám định khoa học được dùng cùng nhau, lúc này xuất xứ, kỹ thuật nghệ thuật, chữ ký... được xem xét. Phương pháp này áp dụng rộng rãi từ cổ vật mỹ thuật cho đến tác phẩm hiện đại.
+
+**Chủ đề:** 미술감정 (giám định mỹ thuật — xác thực thật/giả) → [[TOPIC_미술감정]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 서명이 있는 작품은 감정이 필요 없다 | Tác phẩm có chữ ký thì không cần giám định | ❌ | Bài: 서명 là **yếu tố được xét khi** giám định, không phải miễn giám định → đảo nội dung — [[TRAP_dao_thong_tin]]. |
+| ② | 미술품 감정 대상은 고미술품에 한정된다 | Đối tượng giám định giới hạn ở cổ vật mỹ thuật | ❌ | Bài: áp dụng **고미술품~현대 작품 광범위** → đảo (thu hẹp phạm vi) — [[TRAP_dao_thong_tin]]. |
+| ③ | 고미술품은 작품 고유의 번호를 가지고 있다 | Cổ vật mỹ thuật có số hiệu riêng | ❌ | Bài: 상품엔 번호 있으나 **미술품은 그렇지 않다** → đảo nội dung — [[TRAP_dao_thong_tin]]. |
+| ④ | 미술품을 감정할 때 과학적인 방법이 사용된다 | Khi giám định mỹ thuật có dùng phương pháp khoa học | ✅ | Bài: 감정 시 전문가 감정과 **과학적 감정이 함께 사용** → khớp. |
+
+> **Chú giải chi tiết:** đoạn văn dùng chung với Câu 19 — xem **Câu 19** phía trên.

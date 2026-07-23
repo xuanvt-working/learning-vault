@@ -803,3 +803,316 @@ tags: [korean/topik, exam]
   - 그때 — lúc đó
   - 아버지 — cha
   - 뜻 — ý/ý nghĩa
+
+---
+
+## Câu 16 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 사람들은 일반적으로 쓴맛을 꺼린다. 이것은 (   ) 본능과 관계가 있다. 식물 중에는 독성이 있어 해로운 것들이 있다. 그런데 이런 독이 있는 식물은 보통 쓴맛이 난다. 따라서 사람들은 무의식적으로 쓴맛이 나는 것을 위험하다고 여기고 이를 거부하게 되는 것이다.
+
+**Dịch:**
+> Con người nói chung e ngại vị đắng. Điều này liên quan đến bản năng (   ). Trong các loài thực vật có những loài chứa độc tính, gây hại. Mà những cây có độc này thường có vị đắng. Do đó, con người một cách vô thức coi thứ có vị đắng là nguy hiểm và từ chối nó.
+
+**Quan hệ:** căn-cứ (bản năng grounded bởi lập luận đắng=độc=nguy=từ chối, "따라서") → [[BLK_can_cu]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 지나친 과식을 피하려는 | (bản năng) tránh ăn quá độ | ❌ | Bài không nói ăn quá độ; nói về độc tính của vị đắng. |
+| ② | 자신의 몸을 보호하려는 | (bản năng) bảo vệ cơ thể mình | ✅ | Cây độc thường đắng → người vô thức coi đắng là nguy hiểm và từ chối ("따라서") → bản năng tự bảo vệ cơ thể. Khớp căn cứ. |
+| ③ | 맛없는 음식을 밀어내려는 | đẩy ra món dở | ❌ | "Dở" ≠ "đắng/độc"; không khớp lập luận bảo vệ khỏi độc. |
+| ④ | 입맛이 변하는 것을 막으려는 | ngăn khẩu vị thay đổi | ❌ | Lạc đề hoàn toàn. |
+
+### Chú giải chi tiết
+
+> 사람들은 일반적으로 쓴맛을 꺼린다.
+→ Con người nói chung e ngại vị đắng.
+- **Ngữ pháp:**
+  - 일반적으로 (nói chung — trạng ngữ)
+  - N을/를 꺼리다 (e ngại — 쓴맛을 꺼린다)
+- **Từ vựng:**
+  - 일반적 — (mang tính) chung
+  - 쓴맛 — vị đắng
+  - 꺼리다 — e ngại, kiêng
+
+> 이것은 (   ) 본능과 관계가 있다.
+→ Điều này liên quan đến bản năng (   ).
+- **Ngữ pháp:**
+  - 이것은 (điều này — hồi chiếu)
+  - V-(으)려는 + N (định ngữ ý định — (…)려는 본능)
+  - N과/와 관계가 있다 (liên quan đến — 본능과 관계가 있다)
+- **Từ vựng:**
+  - 본능 — bản năng
+  - 관계 — quan hệ, liên quan
+
+> 식물 중에는 독성이 있어 해로운 것들이 있다. 그런데 이런 독이 있는 식물은 보통 쓴맛이 난다.
+→ Trong thực vật có những loài chứa độc, gây hại. Mà những cây có độc này thường có vị đắng.
+- **Ngữ pháp:**
+  - N 중에는 (trong số ~ thì — 식물 중에는)
+  - V-아/어 (do/nên — 있어)
+  - A-(으)ㄴ + N (định ngữ — 해로운 것들)
+  - 이런 + N (chỉ định hồi chiếu — 이런 식물)
+  - N이/가 나다 (có/phát ra — 쓴맛이 난다)
+- **Từ vựng:**
+  - 식물 — thực vật
+  - 독성 — độc tính
+  - 해롭다 — có hại
+  - 독 — chất độc
+  - 보통 — thường
+
+> 따라서 사람들은 무의식적으로 쓴맛이 나는 것을 위험하다고 여기고 이를 거부하게 되는 것이다.
+→ Do đó, con người vô thức coi thứ có vị đắng là nguy hiểm và từ chối nó.
+- **Ngữ pháp:**
+  - 따라서 (do đó — kết luận)
+  - 무의식적으로 (một cách vô thức)
+  - V-는 것을 A-다고 여기다 (coi việc ~ là — 위험하다고 여기고)
+  - V-게 되는 것이다 (chính là đi đến chỗ — 거부하게 되는 것이다) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 무의식적 — (mang tính) vô thức
+  - 위험하다 — nguy hiểm
+  - 여기다 — coi là
+  - 거부하다 — từ chối
+
+---
+
+## Câu 17 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 대화를 원활하게 하기 위해서는 상대방에게 내가 그의 말을 잘 듣고 있다는 느낌을 주어야 한다. 이때 (   ) 행동을 하면 좋다. 대부분의 나라에서 이런 행동은 긍정을 나타낸다. 따라서 머리를 위아래로 움직이는 행동을 하면 상대방을 존중하고 이야기에 공감하고 있다는 인상을 줄 수 있다.
+
+**Dịch:**
+> Để trò chuyện được trôi chảy, phải tạo cho đối phương cảm giác rằng mình đang lắng nghe lời họ. Lúc này, làm động tác (   ) thì tốt. Ở hầu hết các nước, động tác này biểu thị sự đồng tình. Do đó, nếu làm động tác gật đầu (đưa đầu lên xuống) thì có thể tạo ấn tượng rằng mình tôn trọng đối phương và đang đồng cảm với câu chuyện.
+
+**Quan hệ:** căn-cứ (blank = hành động được định danh ngay sau: gật đầu = "머리를 위아래로 움직이는") → [[BLK_can_cu]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 손뼉을 치는 | vỗ tay | ❌ | Vỗ tay không phải động tác "머리를 위아래로 움직이는" mà bài chỉ định. |
+| ② | 고개를 끄덕이는 | gật đầu | ✅ | "따라서 머리를 위아래로 움직이는 행동" = gật đầu; khớp căn cứ động tác biểu thị đồng tình/tôn trọng. |
+| ③ | 질문하면서 듣는 | vừa hỏi vừa nghe | ❌ | Không phải động tác của đầu; không khớp "머리를 위아래로 움직이는". |
+| ④ | 들으면서 기록하는 | vừa nghe vừa ghi | ❌ | Ghi chép không phải động tác gật đầu biểu thị đồng tình. |
+
+### Chú giải chi tiết
+
+> 대화를 원활하게 하기 위해서는 상대방에게 내가 그의 말을 잘 듣고 있다는 느낌을 주어야 한다.
+→ Để trò chuyện trôi chảy, phải tạo cho đối phương cảm giác mình đang lắng nghe lời họ.
+- **Ngữ pháp:**
+  - A-게 하다 (làm cho ~ — 원활하게 하기)
+  - V-기 위해서는 (để ~ thì — 하기 위해서는) · [[GR_기_위해]]
+  - V-고 있다는 + N (định ngữ trích dẫn — 듣고 있다는 느낌)
+  - V-아/어야 한다 (phải — 주어야 한다)
+- **Từ vựng:**
+  - 대화 — cuộc trò chuyện
+  - 원활하다 — trôi chảy
+  - 상대방 — đối phương
+  - 느낌 — cảm giác
+
+> 이때 (   ) 행동을 하면 좋다. 대부분의 나라에서 이런 행동은 긍정을 나타낸다.
+→ Lúc này, làm động tác (   ) thì tốt. Ở hầu hết các nước, động tác này biểu thị sự đồng tình.
+- **Ngữ pháp:**
+  - 이때 (lúc này)
+  - -(으)면 좋다 (nếu ~ thì tốt — 하면 좋다)
+  - 이런 + N (chỉ định hồi chiếu — 이런 행동)
+- **Từ vựng:**
+  - 행동 — hành động, động tác
+  - 대부분 — hầu hết
+  - 긍정 — sự khẳng định/đồng tình
+  - 나타내다 — biểu thị
+
+> 따라서 머리를 위아래로 움직이는 행동을 하면 상대방을 존중하고 이야기에 공감하고 있다는 인상을 줄 수 있다.
+→ Do đó, nếu gật đầu (đưa đầu lên xuống) thì có thể tạo ấn tượng mình tôn trọng đối phương và đang đồng cảm.
+- **Ngữ pháp:**
+  - 따라서 (do đó)
+  - N을/를 위아래로 움직이다 (đưa ~ lên xuống — 머리를 위아래로 움직이는)
+  - V-고 있다는 + N (định ngữ trích dẫn — 공감하고 있다는 인상)
+  - -을 수 있다 (có thể — 줄 수 있다)
+- **Từ vựng:**
+  - 머리 — đầu
+  - 존중하다 — tôn trọng
+  - 공감하다 — đồng cảm
+  - 인상 — ấn tượng
+
+---
+
+## Câu 18 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 사용 여부에 관계없이 물건을 못 버리고 저장해 두는 사람들이 있다. 습관이나 취미로 수집하는 정도를 넘어 생활에 방해가 될 정도로 심할 경우 이는 치료가 필요한 행동 장애로 본다. 연구에 따르면 주변 사람들에게 사랑을 충분히 받지 못한 사람이 물건에 지나치게 집착한다. 따라서 인간관계에서 안정을 찾으면 (   ) 행동은 사라질 것이다.
+
+**Dịch:**
+> Có những người bất kể có dùng hay không cũng không vứt được đồ mà cứ cất giữ. Khi vượt quá mức thu thập theo thói quen/sở thích, nghiêm trọng đến mức cản trở sinh hoạt, thì (điều này) được coi là rối loạn hành vi cần điều trị. Theo nghiên cứu, người không được những người xung quanh yêu thương đủ đầy sẽ bám víu thái quá vào đồ vật. Do đó, nếu tìm được sự ổn định trong quan hệ với người khác thì hành vi (   ) sẽ biến mất.
+
+**Quan hệ:** căn-cứ (blank khớp hành vi tích trữ mô tả đầu bài — "저장해 두는") → [[BLK_can_cu]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 사람들을 피하려고 하는 | né tránh mọi người | ❌ | Bài nói về tích trữ đồ, không phải né người. |
+| ② | 불필요한 물건을 사는 | mua đồ không cần | ❌ | Vấn đề là KHÔNG vứt được/giữ đồ, không phải mua đồ mới. |
+| ③ | 물건을 집에 쌓아 두는 | chất đống đồ trong nhà | ✅ | Khớp hành vi mở bài "물건을 못 버리고 저장해 두는" → hành vi này biến mất khi tìm được ổn định quan hệ. |
+| ④ | 쓰레기를 함부로 버리는 | vứt rác bừa bãi | ❌ | Ngược hoàn toàn (bài là GIỮ đồ, không phải vứt). |
+
+### Chú giải chi tiết
+
+> 사용 여부에 관계없이 물건을 못 버리고 저장해 두는 사람들이 있다.
+→ Có người bất kể dùng hay không cũng không vứt được đồ mà cứ cất giữ.
+- **Ngữ pháp:**
+  - N에 관계없이 (bất kể — 여부에 관계없이)
+  - 못 V (không thể — 못 버리고)
+  - V-아/어 두다 (cất/để sẵn — 저장해 두는)
+- **Từ vựng:**
+  - 사용 여부 — việc có dùng hay không
+  - 버리다 — vứt
+  - 저장하다 — cất trữ
+
+> 습관이나 취미로 수집하는 정도를 넘어 생활에 방해가 될 정도로 심할 경우 이는 치료가 필요한 행동 장애로 본다.
+→ Khi vượt quá mức thu thập theo thói quen/sở thích, nghiêm trọng đến mức cản trở sinh hoạt, thì được coi là rối loạn hành vi cần điều trị.
+- **Ngữ pháp:**
+  - N(이)나 (hay — 습관이나 취미)
+  - N(으)로 (theo — 취미로)
+  - V-는 정도를 넘어 (vượt quá mức ~ — 수집하는 정도를 넘어)
+  - V-을 정도로 (đến mức — 될 정도로)
+  - A-을 경우 (trong trường hợp — 심할 경우)
+  - N(으)로 보다 (coi là — 장애로 본다)
+- **Từ vựng:**
+  - 수집하다 — thu thập
+  - 정도 — mức độ
+  - 방해 — sự cản trở
+  - 심하다 — nghiêm trọng
+  - 치료 — điều trị
+  - 행동 장애 — rối loạn hành vi
+
+> 연구에 따르면 주변 사람들에게 사랑을 충분히 받지 못한 사람이 물건에 지나치게 집착한다.
+→ Theo nghiên cứu, người không được người xung quanh yêu thương đủ đầy sẽ bám víu thái quá vào đồ vật.
+- **Ngữ pháp:**
+  - N에 따르면 (theo — 연구에 따르면)
+  - V-지 못한 + N (định ngữ phủ định — 받지 못한 사람)
+  - N에 집착하다 (bám víu vào — 물건에 집착한다)
+- **Từ vựng:**
+  - 연구 — nghiên cứu
+  - 주변 — xung quanh
+  - 충분히 — đầy đủ
+  - 지나치다 — thái quá
+  - 집착하다 — bám víu, chấp niệm
+
+> 따라서 인간관계에서 안정을 찾으면 (   ) 행동은 사라질 것이다.
+→ Do đó, nếu tìm được ổn định trong quan hệ thì hành vi (   ) sẽ biến mất.
+- **Ngữ pháp:**
+  - 따라서 (do đó)
+  - N에서 (trong — 인간관계에서)
+  - -(으)면 (nếu — 찾으면)
+  - V-을 것이다 (sẽ — 사라질 것이다)
+- **Từ vựng:**
+  - 인간관계 — quan hệ giữa người với người
+  - 안정 — sự ổn định
+  - 사라지다 — biến mất
+
+---
+
+## Câu 19 — dạng điền-phó-từ (빈칸에 들어갈 알맞은 부사)
+
+**문제:**
+> 인터넷에서 회원 가입을 할 때 설정하는 비밀번호는 초기에는 숫자 네 개면 충분했다. 하지만 최근에는 보안 강화를 위해 특수 문자까지 넣어야 한다. (   ) 비밀번호를 주기적으로 바꿔야 한다. 이 때문에 가입자는 번거로운 것은 물론이고 자주 바뀐 비밀번호를 기억하지 못해 스트레스를 받는다. 개인 정보 보호를 가입자에게만 요구하지 말고 기업도 보안 기술 개발에 적극 투자해야 한다.
+
+**Dịch:**
+> Mật khẩu đặt khi đăng ký thành viên trên Internet, ban đầu chỉ cần 4 chữ số là đủ. Nhưng gần đây, để tăng cường bảo mật thì phải thêm cả ký tự đặc biệt. (   ) còn phải đổi mật khẩu theo định kỳ. Vì thế người đăng ký không những phiền phức mà còn không nhớ nổi mật khẩu hay thay đổi nên bị stress. Đừng chỉ yêu cầu người dùng bảo vệ thông tin cá nhân, mà doanh nghiệp cũng phải tích cực đầu tư phát triển công nghệ bảo mật.
+
+**Chức năng:** bổ-sung (chồng thêm một yêu cầu nữa cùng chiều) → [[ADV_bo_sung]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 그러면 | vậy thì | ❌ | Nối điều kiện→kết quả; câu sau không phải hệ quả của điều kiện → sai. |
+| ② | 게다가 | hơn nữa, thêm vào đó | ✅ | Sau "특수 문자까지 넣어야" chồng thêm yêu cầu "주기적으로 바꿔야" (cùng chiều tăng gánh nặng) → bổ-sung. |
+| ③ | 반면에 | trái lại, ngược lại | ❌ | Tương phản; câu sau cùng chiều (thêm yêu cầu), không đảo hướng → sai. |
+| ④ | 이처럼 | như thế này | ❌ | Khái quát/hồi chiếu tổng kết; câu sau là yêu cầu mới chứ không tổng kết → sai. |
+
+### Chú giải chi tiết
+
+> 인터넷에서 회원 가입을 할 때 설정하는 비밀번호는 초기에는 숫자 네 개면 충분했다.
+→ Mật khẩu đặt khi đăng ký thành viên trên Internet, ban đầu chỉ cần 4 chữ số là đủ.
+- **Ngữ pháp:**
+  - N에서 (ở/trên — 인터넷에서)
+  - V-을 때 (khi — 가입을 할 때)
+  - V-는 + N (định ngữ — 설정하는 비밀번호)
+  - N에는 (vào ~ thì — 초기에는)
+  - N이면 충분하다 (chỉ cần ~ là đủ — 네 개면 충분했다)
+- **Từ vựng:**
+  - 회원 가입 — đăng ký thành viên
+  - 설정하다 — thiết lập, đặt
+  - 비밀번호 — mật khẩu · [[TOPIC_정보보안]]
+  - 초기 — ban đầu
+  - 숫자 — chữ số
+  - 충분하다 — đủ
+
+> 하지만 최근에는 보안 강화를 위해 특수 문자까지 넣어야 한다.
+→ Nhưng gần đây, để tăng cường bảo mật thì phải thêm cả ký tự đặc biệt.
+- **Ngữ pháp:**
+  - 하지만 (nhưng)
+  - N을/를 위해 (để ~ — 강화를 위해)
+  - N까지 (đến cả ~ — 특수 문자까지)
+  - V-아/어야 한다 (phải ~ — 넣어야 한다) · [[GR_아어야_하다]]
+- **Từ vựng:**
+  - 최근 — gần đây
+  - 보안 강화 — tăng cường bảo mật · [[TOPIC_정보보안]]
+  - 특수 문자 — ký tự đặc biệt
+  - 넣다 — cho vào, thêm
+
+> (게다가) 비밀번호를 주기적으로 바꿔야 한다.
+→ (Hơn nữa,) còn phải đổi mật khẩu theo định kỳ.
+- **Ngữ pháp:**
+  - 게다가 (hơn nữa — phó từ bổ sung) · [[ADV_bo_sung]]
+  - V-아/어야 한다 (phải ~ — 바꿔야 한다) · [[GR_아어야_하다]]
+- **Từ vựng:**
+  - 주기적으로 — theo định kỳ
+  - 바꾸다 — đổi
+
+> 이 때문에 가입자는 번거로운 것은 물론이고 자주 바뀐 비밀번호를 기억하지 못해 스트레스를 받는다.
+→ Vì thế người đăng ký không những phiền phức mà còn không nhớ nổi mật khẩu hay thay đổi nên bị stress.
+- **Ngữ pháp:**
+  - 이 때문에 (vì thế — nêu lý do)
+  - N은/는 물론이고 (không những ~ mà còn — 번거로운 것은 물론이고)
+  - V-지 못해 (không thể ~ nên — 기억하지 못해)
+  - N을/를 받다 (chịu/nhận — 스트레스를 받는다)
+- **Từ vựng:**
+  - 가입자 — người đăng ký
+  - 번거롭다 — phiền phức
+  - 자주 — thường xuyên
+  - 기억하다 — ghi nhớ
+  - 스트레스를 받다 — bị stress
+
+> 개인 정보 보호를 가입자에게만 요구하지 말고 기업도 보안 기술 개발에 적극 투자해야 한다.
+→ Đừng chỉ yêu cầu người dùng bảo vệ thông tin cá nhân, mà doanh nghiệp cũng phải tích cực đầu tư phát triển công nghệ bảo mật.
+- **Ngữ pháp:**
+  - N에게만 (chỉ với ~ — 가입자에게만)
+  - V-지 말고 (đừng ~ mà — 요구하지 말고)
+  - N도 (cũng — 기업도)
+  - N에 투자하다 (đầu tư vào ~ — 개발에 투자해야)
+  - V-아/어야 한다 (phải ~) · [[GR_아어야_하다]]
+- **Từ vựng:**
+  - 개인 정보 보호 — bảo vệ thông tin cá nhân · [[TOPIC_정보보안]]
+  - 요구하다 — yêu cầu
+  - 기업 — doanh nghiệp
+  - 보안 기술 — công nghệ bảo mật
+  - 개발 — phát triển
+  - 적극 — tích cực
+  - 투자하다 — đầu tư
+
+---
+
+## Câu 20 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 인터넷에서 회원 가입을 할 때 설정하는 비밀번호는 초기에는 숫자 네 개면 충분했다. 하지만 최근에는 보안 강화를 위해 특수 문자까지 넣어야 한다. 게다가 비밀번호를 주기적으로 바꿔야 한다. 이 때문에 가입자는 번거로운 것은 물론이고 자주 바뀐 비밀번호를 기억하지 못해 스트레스를 받는다. 개인 정보 보호를 가입자에게만 요구하지 말고 기업도 보안 기술 개발에 적극 투자해야 한다.
+
+**Dịch:**
+> Mật khẩu đặt khi đăng ký thành viên trên Internet, ban đầu chỉ cần 4 chữ số là đủ. Nhưng gần đây để tăng cường bảo mật phải thêm cả ký tự đặc biệt. Hơn nữa còn phải đổi mật khẩu theo định kỳ. Vì thế người đăng ký vừa phiền phức vừa không nhớ nổi mật khẩu hay đổi nên bị stress. Đừng chỉ yêu cầu người dùng bảo vệ thông tin cá nhân, mà doanh nghiệp cũng phải tích cực đầu tư công nghệ bảo mật.
+
+**Chủ đề:** 정보보안 (bảo mật thông tin / mật khẩu) → [[TOPIC_정보보안]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 가입자는 비밀번호 변경으로 스트레스를 받는다 | Người dùng chịu stress vì đổi mật khẩu | ✅ | Bài: 자주 바뀐 비밀번호를 기억하지 못해 **스트레스를 받는다** → khớp. |
+| ② | 초기의 비밀번호는 숫자 네 개로 만들 수 없었다 | Mật khẩu ban đầu không thể tạo bằng 4 chữ số | ❌ | Bài: 초기에는 숫자 네 개면 **충분했다** (được) → đảo nội dung — [[TRAP_dao_thong_tin]]. |
+| ③ | 가입자는 기업에 비밀번호 설정을 까다롭게 한다 | Người dùng làm việc đặt mật khẩu của DN thêm khó | ❌ | Đảo chủ thể: bảo mật/hệ thống yêu cầu người dùng, không phải ngược lại — [[TRAP_dao_thong_tin]]. |
+| ④ | 비밀번호 설정 시에 숫자와 문자 중 하나를 선택해야 한다 | Khi đặt mật khẩu phải chọn một trong số/chữ | ❌ | Bài: 특수 문자**까지** (thêm cả — dùng cả hai), không phải chọn một → đảo — [[TRAP_dao_thong_tin]]. |
+
+> **Chú giải chi tiết:** đoạn văn dùng chung với Câu 19 — xem **Câu 19** phía trên.

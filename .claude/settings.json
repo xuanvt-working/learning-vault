@@ -14,10 +14,14 @@
       "Bash(cd \"e:/Projects/Personal Project/xuanvt-learning-vault\" && echo topik-exam-analysis > .claude/state/active_skill && cat .claude/state/active_skill)",
       "Bash(cd \"e:/Projects/Personal Project/xuanvt-learning-vault\" && echo vault-sync > .claude/state/active_skill && cat .claude/state/active_skill)",
       "Bash(read -r l)",
-      "Bash(:)"
+      "Bash(:)",
+      "Bash(mkdir -p \".claude/state\")",
+      "Bash(echo template-editor *)",
+      "Bash(rm -f \".claude/state/active_skill\" && echo \"sentinel cleared\")"
     ],
     "additionalDirectories": [
-      "e:\\Projects\\Personal Project\\xuanvt-learning-vault\\.claude\\state"
+      "e:\\Projects\\Personal Project\\xuanvt-learning-vault\\.claude\\state",
+      "E:\\Projects\\Personal Project\\xuanvt-learning-vault\\.claude\\state"
     ]
   },
   "hooks": {

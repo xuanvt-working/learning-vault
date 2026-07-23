@@ -852,3 +852,320 @@ tags: [korean/topik, exam]
   - 대안 — phương án thay thế
   - 모색하다 — tìm tòi/tìm kiếm
   - 낫다 — tốt hơn
+
+---
+
+## Câu 16 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 땀은 체온을 조절하는 역할을 한다. 신체의 온도가 올라가면 몸에 남아 있는 열기를 밖으로 내보내려고 하는 것이다. 이때 피부 바로 아래에 퍼져 있는 핏줄들도 열을 식힐 수 있도록 더 많은 피를 흘려보내게 된다. 그렇기 때문에 땀이 나면 (   ) 것이다.
+
+**Dịch:**
+> Mồ hôi có vai trò điều hòa thân nhiệt. Khi nhiệt độ cơ thể tăng lên, (cơ thể) tìm cách đưa hơi nóng còn lại trong người ra ngoài. Lúc này, các mạch máu trải ngay dưới da cũng dồn nhiều máu hơn để có thể làm mát nhiệt. Chính vì thế, khi ra mồ hôi thì (   ).
+
+**Quan hệ:** nhân-quả ("그렇기 때문에" → kết quả: máu dồn về da → da đỏ) → [[BLK_nhan_qua]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 피부가 빨개져 보이는 | (khiến) da trông đỏ ửng | ✅ | Mạch máu dưới da dồn nhiều máu để tản nhiệt → "그렇기 때문에" → khi ra mồ hôi, da trông đỏ. Khớp chuỗi nhân-quả. |
+| ② | 피부를 통해 밖으로 나가는 | thoát ra ngoài qua da | ❌ | Đó là hơi nóng/mồ hôi thoát ra, không phải hệ quả về da mà mạch máu dẫn tới. |
+| ③ | 몸에 기운이 없어지는 | cơ thể mất sức | ❌ | Bài không nói mất sức; không suy từ cơ chế dồn máu tản nhiệt. |
+| ④ | 몸이 가벼워지는 느낌이 드는 | thấy cơ thể nhẹ nhõm | ❌ | Cảm giác chủ quan, không nối với cơ chế mạch máu/màu da. |
+
+### Chú giải chi tiết
+
+> 땀은 체온을 조절하는 역할을 한다.
+→ Mồ hôi có vai trò điều hòa thân nhiệt.
+- **Ngữ pháp:**
+  - V-는 + N (định ngữ — 조절하는 역할)
+  - N을/를 하다 (làm/đảm nhận — 역할을 한다)
+- **Từ vựng:**
+  - 땀 — mồ hôi
+  - 체온 — thân nhiệt
+  - 조절하다 — điều hòa, điều chỉnh
+  - 역할 — vai trò
+
+> 신체의 온도가 올라가면 몸에 남아 있는 열기를 밖으로 내보내려고 하는 것이다.
+→ Khi nhiệt độ cơ thể tăng, cơ thể tìm cách đưa hơi nóng còn lại trong người ra ngoài.
+- **Ngữ pháp:**
+  - -(으)면 (khi/nếu — 올라가면)
+  - V-아/어 있다 (trạng thái — 남아 있는)
+  - V-(으)려고 하다 (định/tìm cách — 내보내려고 하는)
+- **Từ vựng:**
+  - 신체 — cơ thể
+  - 온도 — nhiệt độ
+  - 열기 — hơi nóng
+  - 내보내다 — đưa ra ngoài
+
+> 이때 피부 바로 아래에 퍼져 있는 핏줄들도 열을 식힐 수 있도록 더 많은 피를 흘려보내게 된다.
+→ Lúc này, các mạch máu trải ngay dưới da cũng dồn nhiều máu hơn để có thể làm mát nhiệt.
+- **Ngữ pháp:**
+  - N 바로 아래에 (ngay bên dưới — 피부 바로 아래에)
+  - V-아/어 있다 (trạng thái — 퍼져 있는)
+  - V-을 수 있도록 (để có thể — 식힐 수 있도록)
+  - V-게 되다 (đi đến chỗ — 흘려보내게 된다) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 피부 — da
+  - 퍼지다 — trải ra, lan ra
+  - 핏줄 — mạch máu
+  - 식히다 — làm nguội/mát
+  - 피 — máu
+  - 흘려보내다 — cho chảy đi
+
+> 그렇기 때문에 땀이 나면 (   ) 것이다.
+→ Chính vì thế, khi ra mồ hôi thì (   ).
+- **Ngữ pháp:**
+  - 그렇기 때문에 (chính vì thế — nêu hệ quả)
+  - N이/가 나다 (ra/tiết ra — 땀이 나면)
+  - V-는 것이다 (chính là — 것이다)
+- **Từ vựng:**
+  - 땀이 나다 — ra mồ hôi
+
+---
+
+## Câu 17 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 언어를 사용하는 능력은 손가락과 밀접한 관련성이 있다. 손가락을 움직이는 동작은 단순한 행동에 불과한 것이 아니라 어휘 기억 장치의 문을 여는 열쇠와 같은 역할을 한다. 그러므로 손가락이 불편한 사람들은 평소보다 필요한 단어를 떠올리는 시간이 길어진다. 말을 잘하기 위해서 (   ) 조언하는 것도 이런 이유 때문이다.
+
+**Dịch:**
+> Năng lực sử dụng ngôn ngữ có liên hệ mật thiết với ngón tay. Động tác cử động ngón tay không đơn thuần là một hành động, mà đóng vai trò như chiếc chìa khóa mở cánh cửa của "bộ nhớ từ vựng". Do đó, người bị bất tiện ở ngón tay sẽ mất thời gian nhớ ra từ cần dùng lâu hơn bình thường. Việc khuyên (   ) để nói cho giỏi cũng chính là vì lý do này.
+
+**Quan hệ:** căn-cứ (lời khuyên grounded bởi "이런 이유 때문이다" + nguyên lý ngón tay↔từ vựng) → [[BLK_can_cu]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 손동작을 많이 사용하라고 | (khuyên) hãy dùng nhiều cử động tay | ✅ | Cử động ngón tay = chìa khóa mở kho từ vựng (그러므로 ngón tay bất tiện → nhớ từ chậm). Lời khuyên khớp căn cứ "이런 이유 때문이다": muốn nói giỏi → dùng nhiều cử động tay. |
+| ② | 손가락을 먼저 생각하라고 | hãy nghĩ đến ngón tay trước | ❌ | "Nghĩ về ngón tay" không phải hệ quả của nguyên lý; bài nói về cử động, không phải suy nghĩ về ngón tay. |
+| ③ | 필요한 단어를 잘 선택하라고 | hãy chọn khéo từ cần dùng | ❌ | Chọn/nhớ từ là kết quả mong muốn, không phải biện pháp; đảo nhân-quả. |
+| ④ | 어휘의 의미를 잘 기억하라고 | hãy nhớ kỹ nghĩa từ vựng | ❌ | Ghi nhớ nghĩa từ là mục tiêu, không khớp căn cứ "cử động tay mở kho từ". |
+
+### Chú giải chi tiết
+
+> 언어를 사용하는 능력은 손가락과 밀접한 관련성이 있다.
+→ Năng lực sử dụng ngôn ngữ có liên hệ mật thiết với ngón tay.
+- **Ngữ pháp:**
+  - V-는 + N (định ngữ — 사용하는 능력)
+  - N과/와 관련성이 있다 (có liên hệ với — 손가락과 … 있다)
+- **Từ vựng:**
+  - 언어 — ngôn ngữ
+  - 능력 — năng lực
+  - 손가락 — ngón tay
+  - 밀접하다 — mật thiết
+  - 관련성 — tính liên quan
+
+> 손가락을 움직이는 동작은 단순한 행동에 불과한 것이 아니라 어휘 기억 장치의 문을 여는 열쇠와 같은 역할을 한다.
+→ Cử động ngón tay không đơn thuần là một hành động, mà như chiếc chìa khóa mở cánh cửa "bộ nhớ từ vựng".
+- **Ngữ pháp:**
+  - V-는 + N (định ngữ — 움직이는 동작)
+  - N에 불과한 것이 아니라 (không chỉ là… mà — 불과한 것이 아니라)
+  - N과/와 같은 + N (như là — 열쇠와 같은 역할)
+- **Từ vựng:**
+  - 움직이다 — cử động
+  - 동작 — động tác
+  - 단순하다 — đơn thuần
+  - 어휘 — từ vựng
+  - 기억 장치 — bộ nhớ, thiết bị ghi nhớ
+  - 열쇠 — chìa khóa
+
+> 그러므로 손가락이 불편한 사람들은 평소보다 필요한 단어를 떠올리는 시간이 길어진다.
+→ Do đó, người bất tiện ở ngón tay mất thời gian nhớ ra từ cần dùng lâu hơn bình thường.
+- **Ngữ pháp:**
+  - 그러므로 (do đó — hệ quả)
+  - A-(으)ㄴ + N (định ngữ — 불편한 사람들)
+  - N보다 (…hơn — 평소보다)
+  - V-는 + N (định ngữ — 떠올리는 시간)
+  - A-아/어지다 (trở nên — 길어진다)
+- **Từ vựng:**
+  - 불편하다 — bất tiện
+  - 평소 — bình thường/thường ngày
+  - 단어 — từ ngữ
+  - 떠올리다 — nhớ ra, hình dung ra
+
+> 말을 잘하기 위해서 (   ) 조언하는 것도 이런 이유 때문이다.
+→ Việc khuyên (   ) để nói cho giỏi cũng chính là vì lý do này.
+- **Ngữ pháp:**
+  - V-기 위해서 (để — 잘하기 위해서) · [[GR_기_위해]]
+  - V-라고 조언하다 (khuyên rằng hãy — 조언하는)
+  - N도 이런 이유 때문이다 (cũng là vì lý do này — nêu căn cứ)
+- **Từ vựng:**
+  - 말을 잘하다 — nói giỏi
+  - 조언하다 — khuyên nhủ
+  - 이유 — lý do
+
+---
+
+## Câu 18 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 최근 청년층을 중심으로 직업에 대한 가치관이 변하고 있다. 평생 한 직장에 다녀야 한다든지 개인 생활보다 직장 생활에 더 비중을 둔다든지 하는 전통적인 의식이 약화되고 있다. 직업 선택의 기준도 그 직업에 대한 사회적 평가보다는 (   ) 우선순위에 두는 경우가 많다. 직장 생활이나 직업 선택에서 무엇보다도 개인의 만족도를 중시하고 있는 것이다.
+
+**Dịch:**
+> Gần đây, xoay quanh giới trẻ, quan niệm về nghề nghiệp đang thay đổi. Ý thức truyền thống như phải gắn bó cả đời với một công ty, hay đặt cuộc sống công sở cao hơn cuộc sống cá nhân… đang yếu dần. Tiêu chí chọn nghề cũng có nhiều trường hợp đặt ưu tiên vào (   ) hơn là đánh giá xã hội về nghề đó. Trong đời sống công sở hay chọn nghề, hơn hết họ đang coi trọng mức độ hài lòng của cá nhân.
+
+**Quan hệ:** đối-lập ("~보다는": thay vì đánh giá xã hội → ưu tiên phù hợp bản thân) → [[BLK_doi_lap]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 평생 근무할 직장인지를 | có phải nơi làm cả đời không | ❌ | Trái xu hướng bài nêu ("một chỗ cả đời" là ý thức đang yếu đi). |
+| ② | 자신의 적성에 맞는지를 | có hợp sở trường bản thân không | ✅ | Tương phản "사회적 평가보다는" và khớp kết "개인의 만족도를 중시" → ưu tiên sự phù hợp cá nhân. |
+| ③ | 사회적 위치가 어떤지를 | vị thế xã hội ra sao | ❌ | Vẫn là tiêu chí xã hội — thuộc vế bị "보다는" gạt đi. |
+| ④ | 타인의 평가가 어떤지를 | người khác đánh giá ra sao | ❌ | Trùng "사회적 평가", chính là vế bị loại. |
+
+### Chú giải chi tiết
+
+> 최근 청년층을 중심으로 직업에 대한 가치관이 변하고 있다.
+→ Gần đây, xoay quanh giới trẻ, quan niệm về nghề nghiệp đang thay đổi.
+- **Ngữ pháp:**
+  - N을/를 중심으로 (xoay quanh, lấy làm trung tâm — 청년층을 중심으로)
+  - N에 대한 + N (về — 직업에 대한 가치관)
+  - V-고 있다 (đang — 변하고 있다)
+- **Từ vựng:**
+  - 최근 — gần đây
+  - 청년층 — giới trẻ, tầng lớp thanh niên
+  - 직업 — nghề nghiệp
+  - 가치관 — quan niệm giá trị
+
+> 평생 한 직장에 다녀야 한다든지 개인 생활보다 직장 생활에 더 비중을 둔다든지 하는 전통적인 의식이 약화되고 있다.
+→ Ý thức truyền thống như phải gắn bó cả đời một công ty, hay đặt đời sống công sở cao hơn đời sống cá nhân… đang yếu dần.
+- **Ngữ pháp:**
+  - V-아/어야 한다 (phải — 다녀야 한다)
+  - A/V-다든지 …-다든지 하다 (nào là… nào là — liệt kê ví dụ — 한다든지 … 둔다든지 하는)
+  - N보다 (…hơn — 개인 생활보다)
+  - N에 비중을 두다 (đặt trọng tâm vào — 직장 생활에 … 비중을 둔다)
+- **Từ vựng:**
+  - 평생 — cả đời
+  - 직장 — công ty, nơi làm
+  - 개인 생활 — đời sống cá nhân
+  - 비중 — tỷ trọng, trọng số
+  - 전통적 — (mang tính) truyền thống
+  - 의식 — ý thức
+  - 약화되다 — yếu đi
+
+> 직업 선택의 기준도 그 직업에 대한 사회적 평가보다는 (   ) 우선순위에 두는 경우가 많다.
+→ Tiêu chí chọn nghề cũng thường đặt ưu tiên vào (   ) hơn là đánh giá xã hội về nghề đó.
+- **Ngữ pháp:**
+  - N의 (của — 선택의 기준)
+  - N보다는 (thay vì / hơn là — 평가보다는 — dấu hiệu đối-lập)
+  - N을/를 우선순위에 두다 (đặt ưu tiên — 우선순위에 두는)
+  - V-는 경우가 많다 (thường có trường hợp — 두는 경우가 많다)
+- **Từ vựng:**
+  - 기준 — tiêu chí
+  - 사회적 평가 — đánh giá xã hội
+  - 우선순위 — thứ tự ưu tiên
+
+> 직장 생활이나 직업 선택에서 무엇보다도 개인의 만족도를 중시하고 있는 것이다.
+→ Trong đời sống công sở hay chọn nghề, hơn hết họ đang coi trọng mức độ hài lòng của cá nhân.
+- **Ngữ pháp:**
+  - N(이)나 (hay — 생활이나 선택)
+  - 무엇보다도 (hơn bất cứ gì)
+  - V-고 있는 것이다 (chính là đang — 중시하고 있는 것이다)
+- **Từ vựng:**
+  - 무엇보다도 — hơn hết
+  - 만족도 — mức độ hài lòng
+  - 중시하다 — coi trọng
+
+---
+
+## Câu 19 — dạng điền-phó-từ (빈칸에 들어갈 알맞은 부사)
+
+**문제:**
+> 한 과학자가 개인의 사회 공헌도에 대한 연구를 했다. 개인이 쏟을 수 있는 힘의 크기는 구성원의 수가 많아질수록 늘어날 것이라고 기대하고 연구를 진행했다. 하지만 연구는 예상과 달랐다. 그룹의 구성원 수와 그들이 쏟아 부은 힘의 크기는 반비례했다. (   ) 2명으로 이루어진 그룹이 잠재적인 기대치를 가장 많이 사용한 것으로 나타났다.
+
+**Dịch:**
+> Một nhà khoa học đã nghiên cứu về mức độ đóng góp cho xã hội của cá nhân. Ông kỳ vọng rằng lượng sức mà cá nhân có thể dốc ra sẽ tăng lên khi số thành viên càng nhiều, rồi tiến hành nghiên cứu. Nhưng nghiên cứu lại khác với dự đoán. Số thành viên của nhóm và lượng sức họ dốc ra tỉ lệ nghịch với nhau. (   ) nhóm gồm 2 người lại là nhóm sử dụng nhiều nhất mức kỳ vọng tiềm năng.
+
+**Chức năng:** đối-lập (kết quả trái với kỳ vọng — candidate 1×, chưa đủ 2× nên chưa tạo note ADV)
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 드디어 | cuối cùng, rốt cuộc | ❌ | Đánh dấu điều mong đợi rốt cuộc xảy ra; mạch bài không phải sự chờ đợi → sai. |
+| ② | 오히려 | trái lại | ✅ | Kết quả trái với kỳ vọng (기대 ↔ 반비례): nhóm 2 người **lại** dùng tiềm năng nhiều nhất → phó từ đối-lập/ngược mong đợi. |
+| ③ | 어쩌면 | có lẽ, biết đâu | ❌ | Suy đoán khả năng; câu sau là kết quả xác định (나타났다) chứ không phải phỏng đoán → sai. |
+| ④ | 반드시 | nhất định, chắc chắn | ❌ | Nhấn tính tất yếu; câu không mang nghĩa "nhất định" → sai. |
+
+### Chú giải chi tiết
+
+> 한 과학자가 개인의 사회 공헌도에 대한 연구를 했다.
+→ Một nhà khoa học đã tiến hành nghiên cứu về mức độ đóng góp cho xã hội của cá nhân.
+- **Ngữ pháp:**
+  - N에 대한 + N (về ~ — 공헌도에 대한 연구)
+  - N을/를 하다 (làm — 연구를 했다)
+- **Từ vựng:**
+  - 과학자 — nhà khoa học
+  - 개인 — cá nhân · [[TOPIC_사회심리]]
+  - 사회 공헌도 — mức độ đóng góp cho xã hội · [[TOPIC_사회심리]]
+  - 연구 — nghiên cứu
+
+> 개인이 쏟을 수 있는 힘의 크기는 구성원의 수가 많아질수록 늘어날 것이라고 기대하고 연구를 진행했다.
+→ Ông kỳ vọng rằng lượng sức cá nhân có thể dốc ra sẽ tăng khi số thành viên càng nhiều, rồi tiến hành nghiên cứu.
+- **Ngữ pháp:**
+  - V-을 수 있는 + N (có thể ~ — 쏟을 수 있는 힘)
+  - -을수록 (càng ~ càng — 많아질수록) · [[GR_을수록]]
+  - V-을 것이라고 기대하다 (kỳ vọng rằng sẽ ~)
+  - V-고 (rồi — 기대하고)
+- **Từ vựng:**
+  - 쏟다 — dốc, đổ ra
+  - 힘 — sức lực
+  - 크기 — độ lớn
+  - 구성원 — thành viên · [[TOPIC_사회심리]]
+  - 많아지다 — nhiều lên
+  - 늘어나다 — tăng lên
+  - 기대하다 — kỳ vọng
+  - 진행하다 — tiến hành
+
+> 하지만 연구는 예상과 달랐다.
+→ Nhưng nghiên cứu lại khác với dự đoán.
+- **Ngữ pháp:**
+  - 하지만 (nhưng — chuyển ý)
+  - N과/와 다르다 (khác với ~ — 예상과 달랐다)
+- **Từ vựng:**
+  - 예상 — dự đoán
+  - 다르다 — khác
+
+> 그룹의 구성원 수와 그들이 쏟아 부은 힘의 크기는 반비례했다.
+→ Số thành viên của nhóm và lượng sức họ dốc ra tỉ lệ nghịch với nhau.
+- **Ngữ pháp:**
+  - N와/과 N (và — 수와 크기)
+  - V-(으)ㄴ + N (định ngữ quá khứ — 쏟아 부은 힘)
+  - N은/는 반비례하다 (tỉ lệ nghịch)
+- **Từ vựng:**
+  - 그룹 — nhóm
+  - 그들 — họ
+  - 쏟아 붓다 — dốc hết, đổ dồn
+  - 반비례하다 — tỉ lệ nghịch
+
+> (오히려) 2명으로 이루어진 그룹이 잠재적인 기대치를 가장 많이 사용한 것으로 나타났다.
+→ (Trái lại,) nhóm gồm 2 người lại là nhóm sử dụng nhiều nhất mức kỳ vọng tiềm năng.
+- **Ngữ pháp:**
+  - 오히려 (trái lại — phó từ đối lập, ngược mong đợi)
+  - N(으)로 이루어지다 (được tạo thành từ ~ — 2명으로 이루어진)
+  - 가장 많이 (nhiều nhất)
+  - V-(으)ㄴ 것으로 나타나다 (kết quả cho thấy ~ — 사용한 것으로 나타났다)
+- **Từ vựng:**
+  - 이루어지다 — được tạo thành
+  - 잠재적 — tiềm tàng, tiềm năng
+  - 기대치 — mức kỳ vọng
+  - 사용하다 — sử dụng
+  - 나타나다 — xuất hiện, cho thấy
+
+---
+
+## Câu 20 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 한 과학자가 개인의 사회 공헌도에 대한 연구를 했다. 개인이 쏟을 수 있는 힘의 크기는 구성원의 수가 많아질수록 늘어날 것이라고 기대하고 연구를 진행했다. 하지만 연구는 예상과 달랐다. 그룹의 구성원 수와 그들이 쏟아 부은 힘의 크기는 반비례했다. 오히려 2명으로 이루어진 그룹이 잠재적인 기대치를 가장 많이 사용한 것으로 나타났다.
+
+**Dịch:**
+> Một nhà khoa học đã nghiên cứu về mức độ đóng góp cho xã hội của cá nhân. Ông kỳ vọng rằng lượng sức cá nhân có thể dốc ra sẽ tăng khi số thành viên càng nhiều, rồi tiến hành nghiên cứu. Nhưng nghiên cứu lại khác với dự đoán. Số thành viên của nhóm và lượng sức họ dốc ra tỉ lệ nghịch với nhau. Trái lại, nhóm gồm 2 người lại là nhóm dùng nhiều nhất mức kỳ vọng tiềm năng.
+
+**Chủ đề:** 사회심리 (tâm lý xã hội — đóng góp cá nhân giảm theo quy mô nhóm) → [[TOPIC_사회심리]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 구성원의 수가 많을수록 개인의 공헌도는 낮아진다 | Số thành viên càng nhiều thì đóng góp cá nhân càng giảm | ✅ | Chính là 반비례 (số người ↑ ↔ sức mỗi người ↓) mà bài kết luận → khớp. |
+| ② | 연구 결과는 처음에 예상했던 것과 유사하게 나타났다 | Kết quả nghiên cứu giống với dự đoán ban đầu | ❌ | Bài: 예상과 **달랐다** (khác dự đoán) → đảo nội dung — [[TRAP_dao_thong_tin]]. |
+| ③ | 이 연구는 사회가 개인에게 미치는 영향에 대한 것이다 | Nghiên cứu này về ảnh hưởng của xã hội lên cá nhân | ❌ | Bài: 개인의 사회 공헌도 (cá nhân → xã hội), option đảo chiều (xã hội → cá nhân) — [[TRAP_dao_thong_tin]]. |
+| ④ | 2명으로 이루어진 그룹은 개인적인 노력을 하지 않았다 | Nhóm 2 người không nỗ lực cá nhân | ❌ | Bài: nhóm 2 người dùng tiềm năng **nhiều nhất** → đảo nội dung — [[TRAP_dao_thong_tin]]. |
+
+> **Chú giải chi tiết:** đoạn văn dùng chung với Câu 19 — xem **Câu 19** phía trên.

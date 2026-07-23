@@ -178,3 +178,90 @@ tags: [korean/topik, exam]
 
 ---
 (lặp block trên cho từng câu sắp-xếp-thứ-tự, câu 13~15)
+
+## Câu {{m}} — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+<!-- "다음을 읽고 (   )에 들어갈 내용으로 가장 알맞은 것을 고르십시오" (ĐỌC câu 16~18) — đoạn văn có chỗ trống ( ),
+     4 phương án là MỆNH ĐỀ/CỤM nội dung (không phải ngữ pháp/danh từ chủ đề/câu khẳng định/hoán vị).
+     Sinh MỘT layer blank-note (theo quan hệ suy luận chỗ trống, ngưỡng ≥2×); KHÔNG sinh GR/PAIR/GROUP/DIS/TOPIC/TRAP/SEQ (VC vẫn tạo khi có cụm lexical-hóa).
+     Đáp án đúng nhận ra qua Vai ✅ (KHÔNG cite [RA:] trong exam). Quan hệ có note → link [[BLK_*]] ở dòng **Quan hệ:** + cột Căn cứ; quan hệ 1× mô tả inline. -->
+
+**문제:**
+> {{đoạn văn nguyên văn Hangul, nhiều dòng, giữ (   ) đúng vị trí chỗ trống}}
+
+**Dịch:**
+> {{bản dịch tiếng Việt song song từng dòng, giữ (   )}}
+
+**Quan hệ:** {{quan hệ suy luận của đáp án đúng}} → [[BLK_{{category}}]]   <!-- mức câu, KHÔNG thêm cột; quan hệ 1× chưa có note thì mô tả, KHÔNG link -->
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | {{cụm/mệnh đề Hàn}} | {{dịch}} | ❌ | {{vì sao không khớp mạch bài — phân tích đầy đủ}} — [[BLK_...]] |
+| ② | {{...}} | {{...}} | ✅ | {{vì sao khớp quan hệ (căn cứ/nhân-quả/…) của đoạn văn}} |
+| ③ | {{...}} | {{...}} | ❌ | {{...}} |
+| ④ | {{...}} | {{...}} | ❌ | {{...}} |
+
+### Chú giải chi tiết
+
+> {{dòng/câu Hàn 1 của đoạn văn}}
+→ {{dịch dòng 1}}
+- **Ngữ pháp:**
+  - {{pattern nền — giải thích}} · [[GR_...]]   <!-- link chỉ khi note tồn tại; KHÔNG appearances / KHÔNG tạo GR mới -->
+- **Từ vựng:**
+  - {{từ — nghĩa}}
+  - {{cụm lexical-hóa — nghĩa}} · [[VC_...]]
+  - {{từ thuộc topic category — nghĩa}} · [[TOPIC_...]]
+
+> {{dòng Hàn 2 nếu có}}
+→ {{dịch dòng 2}}
+- **Ngữ pháp:**
+  - {{...}}
+- **Từ vựng:**
+  - {{...}}
+
+---
+(lặp block trên cho từng câu điền-nội-dung, câu 16~18)
+
+## Câu {{m}} — dạng điền-phó-từ (빈칸에 들어갈 알맞은 부사)
+
+<!-- "( )에 들어갈 알맞은 것을 고르십시오" (ĐỌC câu 19) — đoạn văn có chỗ trống ( ) DÙNG CHUNG với câu 20;
+     4 phương án là PHÓ TỪ liên kết / phó từ câu (또한/오히려/아마/특히/물론/게다가/만약…) — không phải ngữ pháp/nội dung/danh từ chủ đề.
+     Sinh MỘT layer adverb-note (theo chức năng phó từ, ngưỡng ≥2×); KHÔNG sinh GR/PAIR/GROUP/DIS/TOPIC/TRAP/SEQ/BLK (VC vẫn tạo khi có cụm lexical-hóa).
+     Đáp án đúng nhận ra qua Vai ✅ (KHÔNG cite [RA:] trong exam). Chức năng có note → link [[ADV_*]] ở dòng **Chức năng:** + cột Căn cứ; chức năng 1× mô tả inline.
+     CHUNG PASSAGE với câu 20: block Câu 19 GIỮ `### Chú giải chi tiết` đầy đủ; câu 20 (câu-giống-đoạn-văn-dài) chỉ trỏ "xem Câu 19". -->
+
+**문제:**
+> {{đoạn văn nguyên văn Hangul, nhiều dòng, giữ ( ) đúng vị trí chỗ trống}}
+
+**Dịch:**
+> {{bản dịch tiếng Việt song song từng dòng, giữ ( )}}
+
+**Chức năng:** {{chức năng phó từ đáp án đúng}} → [[ADV_{{category}}]]   <!-- mức câu, KHÔNG thêm cột; chức năng 1× chưa có note thì mô tả, KHÔNG link -->
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | {{phó từ Hàn}} | {{dịch}} | ❌ | {{vì sao chức năng phó từ này không khớp quan hệ hai câu}} — [[ADV_...]] |
+| ② | {{...}} | {{...}} | ✅ | {{quan hệ câu trước ↔ câu sau chỗ trống + vì sao phó từ này khớp}} |
+| ③ | {{...}} | {{...}} | ❌ | {{...}} |
+| ④ | {{...}} | {{...}} | ❌ | {{...}} |
+
+### Chú giải chi tiết
+
+> {{dòng/câu Hàn 1 của đoạn văn (chung câu 20)}}
+→ {{dịch dòng 1}}
+- **Ngữ pháp:**
+  - {{pattern nền — giải thích}} · [[GR_...]]   <!-- link chỉ khi note tồn tại; KHÔNG appearances / KHÔNG tạo GR mới -->
+- **Từ vựng:**
+  - {{từ — nghĩa}}
+  - {{cụm lexical-hóa — nghĩa}} · [[VC_...]]
+  - {{từ thuộc topic category — nghĩa}} · [[TOPIC_...]]
+
+> {{dòng Hàn 2 nếu có}}
+→ {{dịch dòng 2}}
+- **Ngữ pháp:**
+  - {{...}}
+- **Từ vựng:**
+  - {{...}}
+
+---
+(câu 19 & 20 dùng chung đoạn văn: câu 19 giữ Chú giải đầy đủ; câu 20 trỏ "xem Câu 19")

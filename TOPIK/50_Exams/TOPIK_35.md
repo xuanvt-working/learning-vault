@@ -949,3 +949,328 @@ tags: [korean/topik, exam]
   - 요금 — cước phí
   - 지원하다 — hỗ trợ
   - 아끼다 — tiết kiệm
+
+---
+
+## Câu 16 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 사람들은 다양한 상황에서 스트레스를 받는다. 특히 업무가 많고 복잡한 인간관계로 얽힌 회사에서 스트레스를 많이 받는다. 그런데 기존 직장 여성의 경우 (   ) 스트레스를 더 받는 것으로 나타났다. 그 이유는 여성이 느끼는 가사와 육아에 대한 부담이 여전히 크기 때문이다.
+
+**Dịch:**
+> Con người chịu stress trong nhiều tình huống. Đặc biệt chịu nhiều stress ở công ty — nơi công việc nhiều và quan hệ phức tạp đan xen. Thế nhưng với phụ nữ đang đi làm, kết quả cho thấy họ chịu stress nhiều hơn (   ). Lý do là vì gánh nặng việc nhà và nuôi con mà phụ nữ cảm nhận vẫn còn rất lớn.
+
+**Quan hệ:** căn-cứ (blank khớp lý do "가사·육아 부담" nêu ngay sau) → [[BLK_can_cu]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 회사에서 승진했을 때 | khi được thăng chức ở công ty | ❌ | Không dính gánh nặng gia đình; thăng chức không phải nguồn stress bài nêu. |
+| ② | 회사에서보다 집에 있을 때 | khi ở nhà hơn là ở công ty | ✅ | Khớp căn cứ "그 이유는 … 가사와 육아에 대한 부담" — gánh nặng nội trợ/nuôi con ở NHÀ → stress ở nhà nhiều hơn công ty. |
+| ③ | 복잡한 업무가 주어졌을 때 | khi bị giao việc phức tạp | ❌ | Là stress công ty (đã nói câu trước), không phải điểm nhấn riêng về phụ nữ. |
+| ④ | 인간관계에 어려움을 느낄 때 | khi thấy khó khăn trong quan hệ | ❌ | Yếu tố công ty chung, không khớp căn cứ gánh nặng gia đình. |
+
+### Chú giải chi tiết
+
+> 사람들은 다양한 상황에서 스트레스를 받는다.
+→ Con người chịu stress trong nhiều tình huống khác nhau.
+- **Ngữ pháp:**
+  - N에서 (trợ từ nơi chốn/tình huống — 상황에서)
+  - N을/를 받다 (chịu/nhận — 스트레스를 받다)
+- **Từ vựng:**
+  - 다양하다 — đa dạng
+  - 상황 — tình huống
+  - 스트레스 — stress
+
+> 특히 업무가 많고 복잡한 인간관계로 얽힌 회사에서 스트레스를 많이 받는다.
+→ Đặc biệt chịu nhiều stress ở công ty nơi công việc nhiều và quan hệ phức tạp đan xen.
+- **Ngữ pháp:**
+  - A-고 (liệt kê — 많고)
+  - N(으)로 얽히다 (bị đan xen bởi — 인간관계로 얽힌)
+  - V-(으)ㄴ + N (định ngữ trạng thái — 얽힌 회사)
+- **Từ vựng:**
+  - 특히 — đặc biệt
+  - 업무 — công việc, nghiệp vụ
+  - 복잡하다 — phức tạp
+  - 인간관계 — quan hệ giữa người với người
+  - 얽히다 — đan xen, vướng víu
+
+> 그런데 기존 직장 여성의 경우 (   ) 스트레스를 더 받는 것으로 나타났다.
+→ Thế nhưng với phụ nữ đang đi làm, kết quả cho thấy họ chịu stress nhiều hơn (   ).
+- **Ngữ pháp:**
+  - 그런데 (thế nhưng, chuyển ý)
+  - N의 경우 (trường hợp của ~ — 여성의 경우)
+  - V-는 것으로 나타나다 (kết quả cho thấy ~ — 나타났다)
+- **Từ vựng:**
+  - 기존 — hiện có, vốn có
+  - 직장 여성 — phụ nữ đi làm
+  - 나타나다 — xuất hiện, cho thấy
+
+> 그 이유는 여성이 느끼는 가사와 육아에 대한 부담이 여전히 크기 때문이다.
+→ Lý do là vì gánh nặng việc nhà và nuôi con mà phụ nữ cảm nhận vẫn còn rất lớn.
+- **Ngữ pháp:**
+  - 그 이유는 …기 때문이다 (lý do là vì ~ — cấu trúc nêu căn cứ)
+  - V-는 + N (định ngữ hiện tại — 느끼는 부담)
+  - N에 대한 + N (đối với ~ — 육아에 대한 부담)
+  - A-기 때문이다 (vì ~ — 크기 때문이다)
+- **Từ vựng:**
+  - 이유 — lý do
+  - 느끼다 — cảm nhận
+  - 가사 — việc nhà
+  - 육아 — việc nuôi con
+  - 부담 — gánh nặng
+  - 여전히 — vẫn còn (như cũ)
+
+---
+
+## Câu 17 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 추석에는 환하고 둥근 보름달이 뜬다. 그런데 추석 때 먹는 송편은 보름달이 아닌 반달 모양이다. 이는 반달이 현재보다 더 나은 미래를 의미하기 때문이다. 즉 보름달은 밝고 완전한 모양이지만 시간이 지나면 점점 작아지는 데 반해, 반달은 (   ). 이처럼 송편의 반달 모양에는 앞으로 모든 일이 발전해 나가기를 바라는 희망이 담겨 있다.
+
+**Dịch:**
+> Vào Tết Trung thu, trăng rằm sáng và tròn mọc lên. Thế nhưng bánh songpyeon ăn dịp Trung thu lại có hình bán nguyệt (nửa vầng trăng) chứ không phải trăng rằm. Ấy là vì bán nguyệt mang ý nghĩa một tương lai tốt đẹp hơn hiện tại. Tức là, trong khi trăng rằm có hình dáng sáng và trọn vẹn nhưng theo thời gian sẽ nhỏ dần đi, thì bán nguyệt (   ). Như vậy, hình bán nguyệt của songpyeon chứa đựng hy vọng mong mọi việc phía trước sẽ phát triển đi lên.
+
+**Quan hệ:** đối-lập ("데 반해" — 반달 tương phản 보름달: co nhỏ ↔ lớn lên) → [[BLK_doi_lap]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 환하게 웃는 사람의 눈 모양과 비슷하다 | giống hình mắt người cười rạng rỡ | ❌ | Ví von hình dáng, không nằm trong mạch "tương lai/phát triển"; lạc đề. |
+| ② | 보름달처럼 밝은 빛을 만들지 않는다 | không tạo ánh sáng rực như trăng rằm | ❌ | Nói mặt yếu kém của bán nguyệt, trái với ý "tốt đẹp hơn" mà bài hướng tới. |
+| ③ | 오래 지나지 않아 크고 환한 보름달이 된다 | chẳng bao lâu sẽ thành trăng rằm to sáng | ✅ | Tương phản với 보름달 (co nhỏ dần) qua "데 반해": bán nguyệt → lớn lên → khớp "발전해 나가기를 바라는 희망" (이처럼…). |
+| ④ | 밝은 면과 어두운 면을 모두 포함하고 있다 | chứa cả mặt sáng lẫn mặt tối | ❌ | Mô tả trung tính, không thể hiện chiều "tiến triển đi lên". |
+
+### Chú giải chi tiết
+
+> 추석에는 환하고 둥근 보름달이 뜬다.
+→ Vào Trung thu, trăng rằm sáng và tròn mọc lên.
+- **Ngữ pháp:**
+  - N에는 (vào (dịp) — 추석에는)
+  - A-고 (và — 환하고)
+  - N이/가 뜨다 (mọc lên — 보름달이 뜬다)
+- **Từ vựng:**
+  - 추석 — Tết Trung thu
+  - 환하다 — sáng rực
+  - 둥글다 — tròn
+  - 보름달 — trăng rằm
+
+> 그런데 추석 때 먹는 송편은 보름달이 아닌 반달 모양이다.
+→ Thế nhưng bánh songpyeon ăn dịp Trung thu lại có hình bán nguyệt chứ không phải trăng rằm.
+- **Ngữ pháp:**
+  - N 때 (dịp/khi — 추석 때)
+  - V-는 + N (định ngữ hiện tại — 먹는 송편)
+  - N이/가 아닌 + N (định ngữ phủ định "không phải… mà" — 보름달이 아닌 반달)
+- **Từ vựng:**
+  - 송편 — bánh songpyeon
+  - 반달 — bán nguyệt, nửa vầng trăng
+  - 모양 — hình dạng
+
+> 이는 반달이 현재보다 더 나은 미래를 의미하기 때문이다.
+→ Ấy là vì bán nguyệt mang ý nghĩa một tương lai tốt đẹp hơn hiện tại.
+- **Ngữ pháp:**
+  - 이는 …기 때문이다 (điều này là vì ~ — nêu căn cứ)
+  - N보다 더 (…hơn — 현재보다 더)
+  - A-(으)ㄴ + N (định ngữ — 나은 미래)
+  - V-기 때문이다 (vì — 의미하기 때문이다)
+- **Từ vựng:**
+  - 현재 — hiện tại
+  - 낫다 — tốt hơn (나은)
+  - 미래 — tương lai
+  - 의미하다 — mang ý nghĩa
+
+> 즉 보름달은 밝고 완전한 모양이지만 시간이 지나면 점점 작아지는 데 반해, 반달은 (   ).
+→ Tức là trong khi trăng rằm sáng và trọn vẹn nhưng theo thời gian sẽ nhỏ dần, thì bán nguyệt (   ).
+- **Ngữ pháp:**
+  - 즉 (tức là — khái quát/diễn giải)
+  - A-지만 (nhưng — 완전한 모양이지만)
+  - -(으)면 (nếu/khi — 지나면)
+  - V-는 데 반해 (trong khi ngược lại — 작아지는 데 반해)
+- **Từ vựng:**
+  - 완전하다 — trọn vẹn, hoàn chỉnh
+  - 시간이 지나다 — thời gian trôi qua
+  - 점점 — dần dần
+  - 작아지다 — nhỏ đi
+
+> 이처럼 송편의 반달 모양에는 앞으로 모든 일이 발전해 나가기를 바라는 희망이 담겨 있다.
+→ Như vậy, hình bán nguyệt của songpyeon chứa đựng hy vọng mong mọi việc phía trước phát triển đi lên.
+- **Ngữ pháp:**
+  - 이처럼 (như vậy — khái quát hồi chiếu)
+  - V-아/어 나가다 (tiến triển dần — 발전해 나가기)
+  - V-기를 바라다 (mong rằng — 나가기를 바라는)
+  - V-아/어 있다 (trạng thái — 담겨 있다)
+- **Từ vựng:**
+  - 앞으로 — về sau, phía trước
+  - 발전하다 — phát triển
+  - 바라다 — mong
+  - 희망 — hy vọng
+  - 담기다 — được chứa đựng
+
+---
+
+## Câu 18 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 이제 음식을 빨리 먹어서 소화가 잘 안되는 문제를 쉽게 해결할 수 있게 되었다. 왜냐하면 식사 속도를 조절해 주는 포크가 개발되었기 때문이다. 이 포크는 1분당 입 안에 들어가는 횟수를 측정한다. 그래서 식사 속도가 빠르면 포크에서 경고음이 난다. 앞으로 이 포크는 (   ) 데 도움을 줄 것으로 보인다.
+
+**Dịch:**
+> Giờ đây vấn đề ăn quá nhanh khiến tiêu hóa kém đã có thể giải quyết dễ dàng. Bởi vì người ta đã phát triển một loại nĩa điều chỉnh tốc độ ăn. Chiếc nĩa này đo số lần đưa vào miệng trong 1 phút. Vì thế nếu ăn nhanh thì nĩa phát ra âm cảnh báo. Sắp tới, chiếc nĩa này có vẻ sẽ giúp ích cho việc (   ).
+
+**Quan hệ:** mục-đích (blank = công dụng "도움을 줄" của nĩa) → [[BLK_muc_dich]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 하루 식사량을 늘리는 | tăng lượng ăn mỗi ngày | ❌ | Nĩa đo tốc độ và cảnh báo, không liên quan tăng lượng ăn. |
+| ② | 식탁을 아름답게 꾸미는 | trang trí bàn ăn cho đẹp | ❌ | Không dính chức năng đo tốc độ; lạc công dụng. |
+| ③ | 나쁜 식사 습관을 고치는 | sửa thói quen ăn uống xấu | ✅ | Nĩa đo số lần/phút, kêu cảnh báo khi ăn nhanh → giúp sửa tật ăn nhanh (thói quen xấu). |
+| ④ | 바른 식사 예절을 배우는 | học lễ nghi ăn uống đúng | ❌ | 예절 (lễ nghi) khác 습관 (thói quen); nĩa chỉnh tốc độ chứ không dạy lễ nghi. |
+
+### Chú giải chi tiết
+
+> 이제 음식을 빨리 먹어서 소화가 잘 안되는 문제를 쉽게 해결할 수 있게 되었다.
+→ Giờ đây vấn đề ăn nhanh khiến tiêu hóa kém đã có thể giải quyết dễ dàng.
+- **Ngữ pháp:**
+  - V-아/어서 (do/vì — 먹어서)
+  - V-는 + N (định ngữ — 안되는 문제)
+  - V-을 수 있게 되다 (trở nên có thể — 해결할 수 있게 되었다) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 소화 — sự tiêu hóa
+  - 문제 — vấn đề
+  - 해결하다 — giải quyết
+
+> 왜냐하면 식사 속도를 조절해 주는 포크가 개발되었기 때문이다.
+→ Bởi vì người ta đã phát triển loại nĩa điều chỉnh tốc độ ăn.
+- **Ngữ pháp:**
+  - 왜냐하면 …기 때문이다 (bởi vì ~ — nêu lý do)
+  - V-아/어 주다 (làm cho — 조절해 주는)
+  - V-았/었기 때문이다 (là vì đã — 개발되었기 때문이다)
+- **Từ vựng:**
+  - 식사 속도 — tốc độ ăn
+  - 조절하다 — điều chỉnh
+  - 포크 — cái nĩa
+  - 개발되다 — được phát triển
+
+> 이 포크는 1분당 입 안에 들어가는 횟수를 측정한다. 그래서 식사 속도가 빠르면 포크에서 경고음이 난다.
+→ Nĩa này đo số lần đưa vào miệng trong 1 phút. Vì thế nếu ăn nhanh thì nĩa phát âm cảnh báo.
+- **Ngữ pháp:**
+  - 이 + N (chỉ định hồi chiếu — 이 포크)
+  - N당 (mỗi — 1분당)
+  - V-는 + N (định ngữ — 들어가는 횟수)
+  - 그래서 (vì thế — hệ quả)
+  - -(으)면 (nếu — 빠르면)
+  - N에서 N이/가 나다 (phát ra từ — 포크에서 경고음이 난다)
+- **Từ vựng:**
+  - 입 안 — trong miệng
+  - 횟수 — số lần
+  - 측정하다 — đo
+  - 경고음 — âm cảnh báo
+
+> 앞으로 이 포크는 (   ) 데 도움을 줄 것으로 보인다.
+→ Sắp tới, nĩa này có vẻ sẽ giúp ích cho việc (   ).
+- **Ngữ pháp:**
+  - V-는 데 도움을 주다 (giúp ích cho việc ~ — nêu công dụng)
+  - V-을 것으로 보이다 (có vẻ sẽ — 줄 것으로 보인다)
+- **Từ vựng:**
+  - 앞으로 — sắp tới, về sau
+  - 도움 — sự giúp ích
+
+---
+
+## Câu 19 — dạng điền-phó-từ (빈칸에 들어갈 알맞은 부사)
+
+**문제:**
+> 과일을 빨리 익히기 위해 화학 물질이 사용되기도 한다. 그러나 화학 물질로 익힌 과일은 겉은 익었지만 속이 잘 익지 않은 경우가 많다. 그래서 화학 물질로 익힌 과일은 대개 자연적으로 숙성된 과일에 비해 맛이 떨어진다. (   ) 화학 물질이 과일 껍질에 남게 될 수도 있다. 이런 과일을 지속적으로 먹으면 건강에 문제가 생기게 된다.
+
+**Dịch:**
+> Để làm quả chín nhanh, đôi khi người ta dùng hóa chất. Nhưng quả chín bằng hóa chất thì vỏ ngoài chín mà bên trong thường không chín kỹ. Vì thế quả chín bằng hóa chất nhìn chung có vị kém hơn so với quả chín tự nhiên. (   ) hóa chất có thể còn sót lại trên vỏ quả. Nếu ăn loại quả này liên tục thì sẽ nảy sinh vấn đề cho sức khỏe.
+
+**Chức năng:** bổ-sung (thêm nhược điểm thứ 2 cùng chiều câu trước) → [[ADV_bo_sung]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 또는 | hoặc | ❌ | Nối hai lựa chọn A/B; hai câu quanh chỗ trống không phải phương án thay thế → sai. |
+| ② | 또한 | hơn nữa, đồng thời | ✅ | Trước blank nêu nhược điểm 1 (맛이 떨어진다), sau blank nêu nhược điểm 2 (껍질에 화학물질 잔류) — cùng chiều, thêm ý → bổ-sung. |
+| ③ | 그래도 | dù vậy | ❌ | Nhượng bộ/tương phản; câu sau không đảo hướng so với câu trước → sai. |
+| ④ | 그러면 | vậy thì | ❌ | Nối điều kiện→kết quả; câu sau không phải hệ quả của một điều kiện → sai. |
+
+### Chú giải chi tiết
+
+> 과일을 빨리 익히기 위해 화학 물질이 사용되기도 한다.
+→ Để làm quả chín nhanh, đôi khi hóa chất được sử dụng.
+- **Ngữ pháp:**
+  - V-기 위해 (để ~ — 익히기 위해) · [[GR_기_위해]]
+  - V-기도 하다 (cũng/đôi khi ~ — 사용되기도 한다) · [[GR_기도_하다]]
+  - N이/가 사용되다 (được sử dụng — bị động)
+- **Từ vựng:**
+  - 과일 — quả, trái cây · [[TOPIC_음식건강]]
+  - 익히다 — làm chín
+  - 빨리 — nhanh
+  - 화학 물질 — chất hóa học
+
+> 그러나 화학 물질로 익힌 과일은 겉은 익었지만 속이 잘 익지 않은 경우가 많다.
+→ Nhưng quả chín bằng hóa chất thì vỏ ngoài chín nhưng bên trong thường không chín kỹ.
+- **Ngữ pháp:**
+  - 그러나 (nhưng — chuyển ý đối lập)
+  - N(으)로 (bằng — 화학 물질로)
+  - V-(으)ㄴ + N (định ngữ quá khứ — 익힌 과일)
+  - A/V-지만 (nhưng — 익었지만) · [[GR_지만]]
+  - V-지 않다 (không — 익지 않은)
+  - -(으)ㄴ 경우가 많다 (nhiều trường hợp ~)
+- **Từ vựng:**
+  - 겉 — bề ngoài, vỏ ngoài
+  - 속 — bên trong
+  - 경우 — trường hợp
+
+> 그래서 화학 물질로 익힌 과일은 대개 자연적으로 숙성된 과일에 비해 맛이 떨어진다.
+→ Vì thế quả chín bằng hóa chất nhìn chung có vị kém hơn so với quả chín tự nhiên.
+- **Ngữ pháp:**
+  - 그래서 (vì thế — nối kết quả)
+  - N에 비해 (so với ~ — 과일에 비해)
+  - N이/가 떨어지다 (kém đi — 맛이 떨어진다)
+- **Từ vựng:**
+  - 대개 — thường, nhìn chung
+  - 자연적으로 — một cách tự nhiên
+  - 숙성되다 — được ủ chín, chín muồi · [[TOPIC_음식건강]]
+  - 맛 — vị, mùi vị
+
+> (또한) 화학 물질이 과일 껍질에 남게 될 수도 있다.
+→ (Hơn nữa,) hóa chất có thể còn sót lại trên vỏ quả.
+- **Ngữ pháp:**
+  - 또한 (hơn nữa — phó từ bổ sung) · [[ADV_bo_sung]]
+  - V-게 되다 (dẫn đến/trở nên — 남게 되다) · [[GR_게_되다]]
+  - V-을 수(도) 있다 (có thể — 남게 될 수도 있다)
+- **Từ vựng:**
+  - 껍질 — vỏ (quả)
+  - 남다 — còn lại, sót lại
+
+> 이런 과일을 지속적으로 먹으면 건강에 문제가 생기게 된다.
+→ Nếu ăn loại quả này liên tục thì sẽ nảy sinh vấn đề cho sức khỏe.
+- **Ngữ pháp:**
+  - 이런 + N (loại ~ này — hồi chiếu)
+  - -(으)면 (nếu — 먹으면)
+  - N에 문제가 생기다 (nảy sinh vấn đề ở ~)
+  - V-게 되다 (dẫn đến — 생기게 된다) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 지속적으로 — một cách liên tục
+  - 건강 — sức khỏe
+  - 문제 — vấn đề
+  - 생기다 — nảy sinh
+
+---
+
+## Câu 20 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 과일을 빨리 익히기 위해 화학 물질이 사용되기도 한다. 그러나 화학 물질로 익힌 과일은 겉은 익었지만 속이 잘 익지 않은 경우가 많다. 그래서 화학 물질로 익힌 과일은 대개 자연적으로 숙성된 과일에 비해 맛이 떨어진다. 또한 화학 물질이 과일 껍질에 남게 될 수도 있다. 이런 과일을 지속적으로 먹으면 건강에 문제가 생기게 된다.
+
+**Dịch:**
+> Để làm quả chín nhanh, đôi khi người ta dùng hóa chất. Nhưng quả chín bằng hóa chất thì vỏ ngoài chín mà bên trong thường không chín kỹ. Vì thế quả chín bằng hóa chất nhìn chung có vị kém hơn so với quả chín tự nhiên. Hơn nữa, hóa chất có thể còn sót lại trên vỏ quả. Nếu ăn loại quả này liên tục thì sẽ nảy sinh vấn đề cho sức khỏe.
+
+**Chủ đề:** 음식건강 (an toàn & sức khỏe thực phẩm — quả chín hóa học) → [[TOPIC_음식건강]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 과일을 껍질까지 먹으면 건강에 좋다 | Ăn quả cả vỏ thì tốt cho sức khỏe | ❌ | Bài: hóa chất còn trên **껍질** gây hại sức khỏe → nói ngược/bịa — [[TRAP_khong_co_thong_tin]]. |
+| ② | 과일 향을 좋게 만드는 화학 물질이 있다 | Có hóa chất làm quả thơm hơn | ❌ | Bài chỉ nói hóa chất để **익히기**(làm chín), không đề cập mùi 향 → bịa — [[TRAP_khong_co_thong_tin]]. |
+| ③ | 화학 물질을 사용하면 과일이 속까지 잘 익는다 | Dùng hóa chất quả chín đều tận trong | ❌ | Bài: 겉은 익어도 **속이 잘 안 익음** → đảo nội dung — [[TRAP_dao_thong_tin]]. |
+| ④ | 자연 숙성 과일이 인공 숙성 과일보다 맛이 더 낫다 | Quả chín tự nhiên ngon hơn quả chín nhân tạo | ✅ | Bài: 화학 물질로 익힌 과일은 자연 숙성 과일**에 비해 맛이 떨어진다** = tự nhiên ngon hơn → khớp. |
+
+> **Chú giải chi tiết:** đoạn văn dùng chung với Câu 19 — xem **Câu 19** phía trên.

@@ -842,3 +842,309 @@ tags: [korean/topik, exam]
   - 국가 — nhà nước/quốc gia
   - 노력 — nỗ lực
   - 계속되다 — tiếp diễn
+
+---
+
+## Câu 16 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 막대에 학생들의 이름을 써서 통에 꽂아 놓고 하나를 뽑아서 발표를 시키는 수업 방식이 있다. (   ) 방식이다. 적극적인 학생들이 손을 들고 질문에 대답하면 소극적인 학생들이 대답할 기회를 놓치게 된다. 이 방식은 모든 학습자들이 골고루 수업에 참여할 수 있게 한다는 긍정적인 면이 있다.
+
+**Dịch:**
+> Có một cách dạy: viết tên học sinh lên que rồi cắm vào ống, rút một que ra và cho em đó phát biểu. (Đây) là cách (   ). (Vì) khi những học sinh chủ động giơ tay trả lời câu hỏi thì học sinh thụ động sẽ mất cơ hội trả lời. Cách này có mặt tích cực là giúp mọi người học đều được tham gia vào tiết học một cách đồng đều.
+
+**Quan hệ:** mục-đích (blank = mục đích của phương pháp, "…위한 방식") → [[BLK_muc_dich]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 학생들의 이름을 빨리 기억하기 위한 | để nhớ nhanh tên học sinh | ❌ | Mục đích không phải nhớ tên; viết tên chỉ là cơ chế bốc thăm. |
+| ② | 수업의 단계를 동일하게 맞추기 위한 | để đồng đều các bước bài học | ❌ | Bài không nói về "các bước bài học". |
+| ③ | 수업의 진행을 좀 더 부드럽게 하기 위한 | để tiến trình lớp mượt hơn | ❌ | Không khớp; điểm nhấn là cơ hội cho học sinh thụ động. |
+| ④ | 적극성이 떨어지는 학생에게도 기회를 주기 위한 | để cho cả học sinh kém chủ động cơ hội | ✅ | Bốc thăm ngẫu nhiên → học sinh thụ động (không giơ tay) cũng được gọi; khớp "소극적인 학생들이 … 놓치게 된다" + "모든 학습자 골고루 참여". |
+
+### Chú giải chi tiết
+
+> 막대에 학생들의 이름을 써서 통에 꽂아 놓고 하나를 뽑아서 발표를 시키는 수업 방식이 있다.
+→ Có cách dạy: viết tên học sinh lên que, cắm vào ống, rút một que ra và cho em đó phát biểu.
+- **Ngữ pháp:**
+  - N에 (lên/vào — 막대에)
+  - V-아/어서 (rồi — 써서, 뽑아서)
+  - V-아/어 놓다 (làm sẵn — 꽂아 놓고)
+  - V-게 하다/시키다 (cho/bắt ~ làm — 발표를 시키는)
+  - V-는 + N (định ngữ — 시키는 수업 방식)
+- **Từ vựng:**
+  - 막대 — cái que
+  - 통 — ống, thùng
+  - 꽂다 — cắm
+  - 뽑다 — rút
+  - 발표 — sự phát biểu
+  - 수업 방식 — cách dạy
+
+> (   ) 방식이다. 적극적인 학생들이 손을 들고 질문에 대답하면 소극적인 학생들이 대답할 기회를 놓치게 된다.
+→ Là cách (   ). Khi học sinh chủ động giơ tay trả lời thì học sinh thụ động mất cơ hội trả lời.
+- **Ngữ pháp:**
+  - N을/를 들다 (giơ — 손을 들고)
+  - -(으)면 (khi/nếu — 대답하면)
+  - V-을 + N (định ngữ tương lai — 대답할 기회)
+  - V-게 되다 (đi đến chỗ — 놓치게 된다) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 적극적 — chủ động, tích cực
+  - 질문 — câu hỏi
+  - 대답하다 — trả lời
+  - 소극적 — thụ động
+  - 기회 — cơ hội
+  - 놓치다 — bỏ lỡ
+
+> 이 방식은 모든 학습자들이 골고루 수업에 참여할 수 있게 한다는 긍정적인 면이 있다.
+→ Cách này có mặt tích cực là giúp mọi người học đều được tham gia tiết học một cách đồng đều.
+- **Ngữ pháp:**
+  - 이 + N (chỉ định hồi chiếu — 이 방식)
+  - V-을 수 있게 하다 (làm cho có thể — 참여할 수 있게 한다)
+  - V-ㄴ/는다는 + N (định ngữ trích dẫn — 한다는 긍정적인 면)
+- **Từ vựng:**
+  - 학습자 — người học
+  - 골고루 — đều, đồng đều
+  - 참여하다 — tham gia
+  - 긍정적 — tích cực
+  - 면 — mặt, khía cạnh
+
+---
+
+## Câu 17 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 어렸을 때부터 전자기기에 능숙한 청소년들을 가리켜 '디지털 원어민'이라 부른다. 이들은 하루의 대부분을 전자기기를 사용하는 데 쓰며 인터넷 가상공간에서 정보를 얻거나 사람과의 관계를 형성하는 데 시간을 보낸다. 또한 이들은 유행에 뒤떨어지는 것을 두려워한다. 그래서 (   ) 못할 경우에 불안해하기도 한다.
+
+**Dịch:**
+> Những thanh thiếu niên thành thạo thiết bị điện tử từ nhỏ được gọi là "cư dân bản địa kỹ thuật số". Họ dành phần lớn thời gian trong ngày để dùng thiết bị điện tử, và dành thời gian lấy thông tin trên không gian ảo internet hoặc hình thành quan hệ với người khác. Ngoài ra, họ sợ bị tụt hậu so với xu hướng. Vì thế, họ cũng hay bất an khi không thể (   ).
+
+**Quan hệ:** nhân-quả ("그래서" → kết quả của việc sợ tụt hậu xu hướng) → [[BLK_nhan_qua]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 부모의 관심을 받지 | (không) nhận được quan tâm của cha mẹ | ❌ | Bài không nói về cha mẹ; lạc mạch "sợ tụt hậu xu hướng". |
+| ② | 학업 성적이 오르지 | điểm học tập (không) lên | ❌ | Không liên quan nỗi sợ tụt hậu công nghệ/xu hướng. |
+| ③ | 모르는 사람의 정보를 얻지 | (không) lấy được thông tin người lạ | ❌ | Sai trọng tâm; họ lo tụt hậu xu hướng, không phải "thông tin người lạ". |
+| ④ | 새로 출시된 신제품을 사지 | (không) mua được sản phẩm mới ra | ✅ | "유행에 뒤떨어지는 것을 두려워" → 그래서 bất an khi không mua được sản phẩm mới ra mắt. Khớp nhân-quả. |
+
+### Chú giải chi tiết
+
+> 어렸을 때부터 전자기기에 능숙한 청소년들을 가리켜 '디지털 원어민'이라 부른다.
+→ Thanh thiếu niên thành thạo thiết bị điện tử từ nhỏ được gọi là "cư dân bản địa kỹ thuật số".
+- **Ngữ pháp:**
+  - V-았/었을 때부터 (từ khi — 어렸을 때부터)
+  - N에 능숙하다 (thành thạo về — 전자기기에 능숙한)
+  - N을/를 가리켜 …(이)라 부르다 (gọi ~ là — 가리켜 … 부른다)
+- **Từ vựng:**
+  - 전자기기 — thiết bị điện tử
+  - 능숙하다 — thành thạo
+  - 청소년 — thanh thiếu niên
+  - 원어민 — người bản ngữ/bản địa
+
+> 이들은 하루의 대부분을 전자기기를 사용하는 데 쓰며 인터넷 가상공간에서 정보를 얻거나 사람과의 관계를 형성하는 데 시간을 보낸다.
+→ Họ dùng phần lớn thời gian trong ngày cho thiết bị điện tử, và dành thời gian lấy thông tin trên không gian ảo hoặc hình thành quan hệ với người khác.
+- **Ngữ pháp:**
+  - V-는 데 쓰다/시간을 보내다 (dùng/dành cho việc — 사용하는 데 쓰며)
+  - V-(으)며 (và — 쓰며)
+  - V-거나 (hoặc — 얻거나) · [[GR_거나]]
+  - N과의 + N (định ngữ "với" — 사람과의 관계)
+- **Từ vựng:**
+  - 대부분 — phần lớn
+  - 가상공간 — không gian ảo
+  - 정보 — thông tin
+  - 관계 — quan hệ
+  - 형성하다 — hình thành
+
+> 또한 이들은 유행에 뒤떨어지는 것을 두려워한다.
+→ Ngoài ra, họ sợ bị tụt hậu so với xu hướng.
+- **Ngữ pháp:**
+  - 또한 (ngoài ra, hơn nữa)
+  - N에 뒤떨어지다 (tụt hậu so với — 유행에 뒤떨어지는)
+  - V-는 것을 두려워하다 (sợ việc ~ — 뒤떨어지는 것을 두려워한다)
+- **Từ vựng:**
+  - 유행 — xu hướng, mốt
+  - 뒤떨어지다 — tụt hậu
+  - 두려워하다 — sợ hãi
+
+> 그래서 (   ) 못할 경우에 불안해하기도 한다.
+→ Vì thế, họ cũng hay bất an khi không thể (   ).
+- **Ngữ pháp:**
+  - 그래서 (vì thế — hệ quả)
+  - V-지 못하다 (không thể — 못할)
+  - V-을 경우에 (trong trường hợp — 못할 경우에)
+  - A-아/어하다 + -기도 하다 (cũng hay tỏ ra — 불안해하기도 한다)
+- **Từ vựng:**
+  - 경우 — trường hợp
+  - 불안하다 — bất an
+
+---
+
+## Câu 18 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 동양에서는 우리 몸에 흐르는 에너지를 '기'라고 한다. 한의학에서는 기가 잘 흐르는 사람을 건강한 사람으로 생각한다. 그리고 기가 잘 흐르지 않거나 막혀 있는 사람은 병에 걸리기 쉽다고 한다. 기가 막혀 병에 걸린 사람들을 한의학에서는 바늘처럼 생긴 침을 이용해 치료한다. 침은 (   ) 한다.
+
+**Dịch:**
+> Ở phương Đông, năng lượng chảy trong cơ thể ta được gọi là "khí". Đông y coi người có khí lưu thông tốt là người khỏe mạnh. Và người có khí không lưu thông tốt hoặc bị tắc thì dễ mắc bệnh. Người mắc bệnh do khí bị tắc được Đông y điều trị bằng kim châm hình giống cây kim. Kim châm làm cho (   ).
+
+**Quan hệ:** mục-đích (blank = công dụng của kim châm) → [[BLK_muc_dich]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 기의 흐름을 원활하게 | (làm) dòng khí lưu thông thông suốt | ✅ | Khí tắc → sinh bệnh; kim châm trị bằng cách làm khí lưu thông thông suốt. Khớp công dụng của kim. |
+| ② | 기의 방향을 확인하게 | xác định hướng của khí | ❌ | Bài không nói kim "xác định hướng"; chức năng là khai thông khí. |
+| ③ | 환자의 질병을 예방하게 | phòng bệnh cho bệnh nhân | ❌ | Kim để TRỊ người đã mắc bệnh ("병에 걸린 사람 치료"), không phải phòng bệnh. |
+| ④ | 환자의 통증을 진단하게 | chẩn đoán cơn đau bệnh nhân | ❌ | Kim dùng để điều trị, không phải chẩn đoán. |
+
+### Chú giải chi tiết
+
+> 동양에서는 우리 몸에 흐르는 에너지를 '기'라고 한다.
+→ Ở phương Đông, năng lượng chảy trong cơ thể ta được gọi là "khí".
+- **Ngữ pháp:**
+  - N에서는 (ở (chủ đề) — 동양에서는)
+  - V-는 + N (định ngữ — 흐르는 에너지)
+  - N을/를 …(이)라고 한다 (gọi ~ là — 기라고 한다)
+- **Từ vựng:**
+  - 동양 — phương Đông
+  - 흐르다 — chảy
+  - 에너지 — năng lượng
+  - 기 — khí
+
+> 한의학에서는 기가 잘 흐르는 사람을 건강한 사람으로 생각한다.
+→ Đông y coi người có khí lưu thông tốt là người khỏe mạnh.
+- **Ngữ pháp:**
+  - V-는 + N (định ngữ — 흐르는 사람)
+  - N을/를 N(으)로 생각하다 (coi ~ là — 사람으로 생각한다)
+- **Từ vựng:**
+  - 한의학 — Đông y
+  - 건강하다 — khỏe mạnh
+
+> 그리고 기가 잘 흐르지 않거나 막혀 있는 사람은 병에 걸리기 쉽다고 한다.
+→ Và người có khí không lưu thông tốt hoặc bị tắc thì (nghe nói) dễ mắc bệnh.
+- **Ngữ pháp:**
+  - V-지 않거나 (không… hoặc — 흐르지 않거나) · [[GR_거나]]
+  - V-아/어 있다 (trạng thái — 막혀 있는)
+  - V-기 쉽다 (dễ ~ — 걸리기 쉽다)
+  - A/V-다고 하다 (nghe nói/được cho là — 쉽다고 한다)
+- **Từ vựng:**
+  - 막히다 — bị tắc
+  - 병에 걸리다 — mắc bệnh
+
+> 기가 막혀 병에 걸린 사람들을 한의학에서는 바늘처럼 생긴 침을 이용해 치료한다. 침은 (   ) 한다.
+→ Người mắc bệnh do khí tắc được Đông y trị bằng kim châm hình giống cây kim. Kim châm làm cho (   ).
+- **Ngữ pháp:**
+  - V-아/어 (do — 막혀)
+  - N처럼 생기다 (có hình giống — 바늘처럼 생긴)
+  - N을/를 이용해 (dùng ~ — 침을 이용해)
+  - (   ) 하다 (làm cho ~ — nêu công dụng)
+- **Từ vựng:**
+  - 바늘 — cái kim
+  - 침 — kim châm cứu
+  - 이용하다 — sử dụng
+  - 치료하다 — điều trị
+  - 흐름 — dòng chảy
+  - 원활하다 — thông suốt, trôi chảy
+
+---
+
+## Câu 19 — dạng điền-phó-từ (빈칸에 들어갈 알맞은 부사)
+
+**문제:**
+> 활쏘기는 쉬워 보이지만 판단력과 인내심이 필요한 운동이다. 활쏘기에서는 활을 쏘는 순간이 제일 중요하다. (   ) 언제 활을 쏠지 판단하는 것이 핵심이다. 또한 활을 쏘는 그 순간까지 숨을 멈추고 기다리는 인내심이 요구된다. 그렇기 때문에 판단력이 부족한 사람이나 인내심이 필요한 사람에게 매우 좋은 운동이라고 할 수 있다.
+
+**Dịch:**
+> Bắn cung nhìn thì dễ nhưng là môn thể thao cần năng lực phán đoán và tính kiên nhẫn. Trong bắn cung, khoảnh khắc bắn cung là quan trọng nhất. (   ) việc phán đoán khi nào bắn cung mới là điều cốt lõi. Hơn nữa, còn đòi hỏi tính kiên nhẫn nín thở chờ đợi cho đến chính khoảnh khắc bắn. Chính vì vậy, có thể nói đây là môn thể thao rất tốt cho người thiếu năng lực phán đoán hoặc người cần tính kiên nhẫn.
+
+**Chức năng:** nhấn-mạnh (chỉ rõ trọng tâm câu trước — candidate 1×, chưa đủ 2× nên chưa tạo note ADV)
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 특히 | đặc biệt là | ✅ | Sau "쏘는 순간이 제일 중요하다", blank chỉ rõ trọng tâm cụ thể "언제 쏠지 판단이 핵심" → phó từ nhấn-mạnh. |
+| ② | 또는 | hoặc | ❌ | Nối hai lựa chọn thay thế; không có quan hệ lựa chọn → sai. |
+| ③ | 역시 | quả nhiên, cũng vậy | ❌ | Xác nhận điều đã biết/dự kiến; câu sau là điểm nhấn mới → sai. |
+| ④ | 과연 | quả nhiên (cảm thán) | ❌ | Cảm thán xác nhận; không hợp mạch chỉ rõ trọng tâm → sai. |
+
+### Chú giải chi tiết
+
+> 활쏘기는 쉬워 보이지만 판단력과 인내심이 필요한 운동이다.
+→ Bắn cung nhìn thì dễ nhưng là môn thể thao cần năng lực phán đoán và tính kiên nhẫn.
+- **Ngữ pháp:**
+  - A-아/어 보이다 (trông có vẻ ~ — 쉬워 보이다) · [[VC_아어_보이다]]
+  - A/V-지만 (nhưng — 보이지만) · [[GR_지만]]
+  - N과/와 (và — 판단력과 인내심)
+  - V-는 + N (định ngữ — 필요한 운동)
+- **Từ vựng:**
+  - 활쏘기 — bắn cung · [[TOPIC_운동효과]]
+  - 쉽다 — dễ
+  - 판단력 — năng lực phán đoán · [[TOPIC_운동효과]]
+  - 인내심 — tính kiên nhẫn · [[TOPIC_운동효과]]
+  - 운동 — vận động, thể thao
+
+> 활쏘기에서는 활을 쏘는 순간이 제일 중요하다.
+→ Trong bắn cung, khoảnh khắc bắn cung là quan trọng nhất.
+- **Ngữ pháp:**
+  - N에서는 (trong ~ thì)
+  - V-는 + N (định ngữ — 쏘는 순간)
+  - 제일 (nhất)
+- **Từ vựng:**
+  - 활 — cung
+  - 쏘다 — bắn
+  - 순간 — khoảnh khắc
+  - 중요하다 — quan trọng
+
+> (특히) 언제 활을 쏠지 판단하는 것이 핵심이다.
+→ (Đặc biệt,) việc phán đoán khi nào bắn cung mới là điều cốt lõi.
+- **Ngữ pháp:**
+  - 특히 (đặc biệt — phó từ nhấn mạnh)
+  - 언제 V-을지 (khi nào ~ — 쏠지, câu hỏi gián tiếp)
+  - V-는 것이 (việc ~ — 판단하는 것이)
+- **Từ vựng:**
+  - 언제 — khi nào
+  - 판단하다 — phán đoán
+  - 핵심 — cốt lõi
+
+> 또한 활을 쏘는 그 순간까지 숨을 멈추고 기다리는 인내심이 요구된다.
+→ Hơn nữa, còn đòi hỏi tính kiên nhẫn nín thở chờ đợi cho đến chính khoảnh khắc bắn.
+- **Ngữ pháp:**
+  - 또한 (hơn nữa — phó từ bổ sung) · [[ADV_bo_sung]]
+  - N까지 (cho đến ~ — 순간까지)
+  - V-고 (và — 멈추고)
+  - V-는 + N (định ngữ — 기다리는 인내심)
+  - N이/가 요구되다 (được đòi hỏi — bị động)
+- **Từ vựng:**
+  - 숨을 멈추다 — nín thở
+  - 기다리다 — chờ đợi
+  - 요구되다 — được đòi hỏi
+
+> 그렇기 때문에 판단력이 부족한 사람이나 인내심이 필요한 사람에게 매우 좋은 운동이라고 할 수 있다.
+→ Chính vì vậy, có thể nói đây là môn thể thao rất tốt cho người thiếu năng lực phán đoán hoặc người cần tính kiên nhẫn.
+- **Ngữ pháp:**
+  - 그렇기 때문에 (chính vì vậy — nêu lý do)
+  - A-(으)ㄴ + N (định ngữ — 부족한 사람)
+  - N(이)나 (hoặc — 사람이나)
+  - N에게 (cho/với — 사람에게)
+  - N(이)라고 할 수 있다 (có thể nói là ~)
+- **Từ vựng:**
+  - 부족하다 — thiếu
+  - 매우 — rất
+
+---
+
+## Câu 20 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 활쏘기는 쉬워 보이지만 판단력과 인내심이 필요한 운동이다. 활쏘기에서는 활을 쏘는 순간이 제일 중요하다. 특히 언제 활을 쏠지 판단하는 것이 핵심이다. 또한 활을 쏘는 그 순간까지 숨을 멈추고 기다리는 인내심이 요구된다. 그렇기 때문에 판단력이 부족한 사람이나 인내심이 필요한 사람에게 매우 좋은 운동이라고 할 수 있다.
+
+**Dịch:**
+> Bắn cung nhìn thì dễ nhưng là môn thể thao cần năng lực phán đoán và tính kiên nhẫn. Trong bắn cung, khoảnh khắc bắn cung là quan trọng nhất. Đặc biệt, việc phán đoán khi nào bắn cung mới là điều cốt lõi. Hơn nữa, còn đòi hỏi tính kiên nhẫn nín thở chờ đợi cho đến chính khoảnh khắc bắn. Chính vì vậy, có thể nói đây là môn thể thao rất tốt cho người thiếu phán đoán hoặc người cần kiên nhẫn.
+
+**Chủ đề:** 운동효과 (bắn cung rèn phán đoán & kiên nhẫn) → [[TOPIC_운동효과]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 활쏘기로 판단력을 높일 수 있다 | Có thể nâng cao năng lực phán đoán nhờ bắn cung | ✅ | Bài: môn tốt cho người **판단력이 부족한 사람** → giúp rèn phán đoán → khớp. |
+| ② | 활쏘기의 핵심은 숨을 참는 것이다 | Cốt lõi của bắn cung là nín thở | ❌ | Bài: 핵심=언제 쏠지 **판단**; nín thở là 인내심 (yếu tố khác) → đảo trọng tâm — [[TRAP_dao_thong_tin]]. |
+| ③ | 활쏘기로 참을성을 기르기 어렵다 | Khó rèn tính kiên nhẫn qua bắn cung | ❌ | Bài: môn tốt cho người **인내심이 필요한 사람** (rèn được) → nói ngược — [[TRAP_khong_co_thong_tin]]. |
+| ④ | 활쏘기는 단순한 운동이라 주목을 받았다 | Bắn cung là môn đơn giản nên được chú ý | ❌ | Bài: nhìn dễ nhưng cần phán đoán·kiên nhẫn (không đơn giản); 주목 không được nhắc → bịa — [[TRAP_khong_co_thong_tin]]. |
+
+> **Chú giải chi tiết:** đoạn văn dùng chung với Câu 19 — xem **Câu 19** phía trên.

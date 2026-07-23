@@ -831,3 +831,332 @@ tags: [korean/topik, exam]
   - 풍부하다 — dồi dào/giàu
   - 견과류 — các loại hạt
   - 바나나 — chuối
+
+---
+
+## Câu 16 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 원래 악수는 상대를 안심시키기 위한 행동이었다. 중세 시대의 기사들은 칼과 같은 무기를 가지고 다니다가 적과 싸울 때 꺼내 들었다. 하지만 (   ) 때에는 악수를 하면서 손에 무기가 없음을 보여 주었다. 이렇게 안전을 확인시켜 주기 위한 행동이 오늘날에는 반가움과 존중을 표시하는 인사법이 되었다.
+
+**Dịch:**
+> Vốn dĩ bắt tay là hành động để trấn an đối phương. Các hiệp sĩ thời trung cổ mang theo vũ khí như gươm, khi đánh nhau với địch thì rút ra. Nhưng khi (   ), họ vừa bắt tay vừa cho thấy trong tay không có vũ khí. Hành động xác nhận sự an toàn như thế ngày nay đã trở thành cách chào biểu thị sự thân thiện và tôn trọng.
+
+**Quan hệ:** đối-lập ("하지만" — rút vũ khí khi đánh ↔ khi không có ý đánh thì bắt tay) → [[BLK_doi_lap]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 싸울 생각이 없을 | (khi) không có ý định đánh nhau | ✅ | Tương phản "적과 싸울 때 꺼내 들었다" qua "하지만": khi KHÔNG định đánh thì bắt tay để cho thấy tay không cầm vũ khí. Khớp đối-lập. |
+| ② | 상대의 도움을 받을 | (khi) nhận sự giúp đỡ của đối phương | ❌ | Không có trong mạch; bài xoay quanh ý định đánh/không đánh. |
+| ③ | 자신의 잘못을 사과할 | (khi) xin lỗi lỗi của mình | ❌ | Bắt tay ở đây để trấn an (không vũ khí), không phải xin lỗi. |
+| ④ | 무기를 새로 구해야 할 | (khi) phải kiếm vũ khí mới | ❌ | Ngược ý (bài nói cho thấy KHÔNG có vũ khí). |
+
+### Chú giải chi tiết
+
+> 원래 악수는 상대를 안심시키기 위한 행동이었다.
+→ Vốn dĩ bắt tay là hành động để trấn an đối phương.
+- **Ngữ pháp:**
+  - N을/를 안심시키다 (làm ~ yên tâm — 상대를 안심시키기)
+  - V-기 위한 + N (định ngữ mục đích — 안심시키기 위한 행동)
+- **Từ vựng:**
+  - 원래 — vốn dĩ
+  - 악수 — cái bắt tay
+  - 상대 — đối phương
+  - 안심시키다 — trấn an
+
+> 중세 시대의 기사들은 칼과 같은 무기를 가지고 다니다가 적과 싸울 때 꺼내 들었다.
+→ Hiệp sĩ thời trung cổ mang theo vũ khí như gươm, khi đánh nhau với địch thì rút ra.
+- **Ngữ pháp:**
+  - N과/와 같은 + N (như là — 칼과 같은 무기)
+  - V-고 다니다 (mang theo bên mình — 가지고 다니다가) · [[VC_V고_다니다]]
+  - V-다가 (đang… thì — 다니다가) · [[GR_다가]]
+  - V-을 때 (khi — 싸울 때)
+- **Từ vựng:**
+  - 중세 시대 — thời trung cổ
+  - 기사 — hiệp sĩ
+  - 칼 — dao, gươm
+  - 무기 — vũ khí
+  - 적 — kẻ địch
+  - 꺼내 들다 — rút ra (cầm lên)
+
+> 하지만 (   ) 때에는 악수를 하면서 손에 무기가 없음을 보여 주었다.
+→ Nhưng khi (   ), họ vừa bắt tay vừa cho thấy trong tay không có vũ khí.
+- **Ngữ pháp:**
+  - 하지만 (nhưng — tương phản)
+  - V-을 때에는 (khi thì — (…)ㄹ 때에는)
+  - V-(으)면서 (vừa… vừa — 하면서)
+  - N이/가 없음을 (rằng không có ~ — 무기가 없음을)
+  - V-아/어 주다 (cho thấy (giúp) — 보여 주었다)
+- **Từ vựng:**
+  - 손 — bàn tay
+  - 보여 주다 — cho xem, cho thấy
+
+> 이렇게 안전을 확인시켜 주기 위한 행동이 오늘날에는 반가움과 존중을 표시하는 인사법이 되었다.
+→ Hành động xác nhận sự an toàn như thế nay đã thành cách chào biểu thị sự thân thiện và tôn trọng.
+- **Ngữ pháp:**
+  - 이렇게 (như thế này — hồi chiếu)
+  - V-기 위한 + N (định ngữ mục đích — 확인시켜 주기 위한 행동)
+  - V-는 + N (định ngữ — 표시하는 인사법)
+  - N이/가 되다 (trở thành — 인사법이 되었다)
+- **Từ vựng:**
+  - 안전 — sự an toàn
+  - 확인시키다 — xác nhận (cho thấy)
+  - 오늘날 — ngày nay
+  - 반가움 — sự vui mừng/thân thiện
+  - 존중 — sự tôn trọng
+  - 표시하다 — biểu thị
+  - 인사법 — cách chào
+
+---
+
+## Câu 17 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 특별한 사건 없이 주인공의 단조롭고 반복적인 일상을 다룬 영화가 인기를 끌고 있다. 주인공이 하루하루를 평범하게 보낼 뿐 별다른 일을 하지 않는데도 관객들은 영화에 빠져든다. 관객들은 그동안 잊고 지냈던 일상의 기쁨을 새삼 느끼게 되는 것이다. 그리고 행복은 크고 거창한 꿈에 있는 것이 아니라 (   ) 일에서 찾을 수 있음을 발견하게 된다.
+
+**Dịch:**
+> Những bộ phim khắc họa đời thường đơn điệu, lặp đi lặp lại của nhân vật chính mà không có sự kiện đặc biệt đang được yêu thích. Dù nhân vật chỉ sống qua từng ngày một cách bình thường, chẳng làm gì khác lạ, khán giả vẫn bị cuốn vào phim. Khán giả chợt cảm nhận lại niềm vui đời thường mà bấy lâu đã quên lãng. Và họ phát hiện ra rằng hạnh phúc không nằm ở giấc mơ to tát vĩ đại, mà có thể tìm thấy trong những điều (   ).
+
+**Quan hệ:** đối-lập ("~아니라" — không phải giấc mơ lớn mà điều nhỏ nhặt) → [[BLK_doi_lap]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 스스로 인정하지 않는 | (việc) bản thân không thừa nhận | ❌ | Không thuộc mạch "niềm vui đời thường"; lạc đề. |
+| ② | 현실 속의 작고 소소한 | nhỏ nhặt bình dị trong hiện thực | ✅ | "행복은 크고 거창한 꿈에 있는 것이 아니라 (X) 일에서" — X đối lập "크고 거창한 꿈"; khớp "일상의 기쁨" → điều nhỏ bé bình dị. |
+| ③ | 평소 자주 하지 못하는 | (việc) thường ít khi làm được | ❌ | Trái với "일상/평범" mà bài ca ngợi. |
+| ④ | 일상에서 하기 쉽지 않은 | (việc) khó làm trong ngày thường | ❌ | Ngược ý (bài nhấn niềm vui DỄ thấy trong đời thường). |
+
+### Chú giải chi tiết
+
+> 특별한 사건 없이 주인공의 단조롭고 반복적인 일상을 다룬 영화가 인기를 끌고 있다.
+→ Phim khắc họa đời thường đơn điệu, lặp lại của nhân vật chính mà không có sự kiện đặc biệt đang được yêu thích.
+- **Ngữ pháp:**
+  - N 없이 (không có ~ mà — 사건 없이)
+  - A-고 (và — 단조롭고)
+  - V-(으)ㄴ + N (định ngữ quá khứ — 다룬 영화)
+  - N을/를 끌다 + -고 있다 (đang thu hút — 인기를 끌고 있다) · [[VC_인기를_끌다]]
+- **Từ vựng:**
+  - 특별하다 — đặc biệt
+  - 사건 — sự kiện
+  - 주인공 — nhân vật chính
+  - 단조롭다 — đơn điệu
+  - 반복적 — (mang tính) lặp lại
+  - 일상 — đời thường
+  - 다루다 — khắc họa, xử lý
+  - 인기 — sự yêu thích
+
+> 주인공이 하루하루를 평범하게 보낼 뿐 별다른 일을 하지 않는데도 관객들은 영화에 빠져든다.
+→ Dù nhân vật chỉ sống qua từng ngày bình thường, chẳng làm gì khác lạ, khán giả vẫn bị cuốn vào phim.
+- **Ngữ pháp:**
+  - A/V-을 뿐 (chỉ ~ mà thôi — 보낼 뿐)
+  - V-지 않는데도 (dù không ~ — 하지 않는데도)
+  - N에 빠져들다 (bị cuốn vào — 영화에 빠져든다)
+- **Từ vựng:**
+  - 하루하루 — từng ngày
+  - 평범하다 — bình thường
+  - 별다르다 — khác lạ
+  - 관객 — khán giả
+  - 빠져들다 — bị cuốn vào
+
+> 관객들은 그동안 잊고 지냈던 일상의 기쁨을 새삼 느끼게 되는 것이다.
+→ Khán giả chợt cảm nhận lại niềm vui đời thường mà bấy lâu đã quên lãng.
+- **Ngữ pháp:**
+  - V-고 지내다 (cứ sống trong trạng thái ~ — 잊고 지냈던) · [[VC_고_지내다]]
+  - V-던 + N (định ngữ hồi tưởng — 지냈던 기쁨)
+  - V-게 되는 것이다 (chính là đi đến chỗ — 느끼게 되는 것이다) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 그동안 — bấy lâu
+  - 잊다 — quên
+  - 기쁨 — niềm vui
+  - 새삼 — chợt (lại), lần nữa
+
+> 그리고 행복은 크고 거창한 꿈에 있는 것이 아니라 (   ) 일에서 찾을 수 있음을 발견하게 된다.
+→ Và họ phát hiện hạnh phúc không nằm ở giấc mơ to tát, mà tìm thấy được trong những điều (   ).
+- **Ngữ pháp:**
+  - A-고 (và — 크고)
+  - V-는 것이 아니라 (không phải là… mà — 있는 것이 아니라 — dấu hiệu đối-lập)
+  - N에서 찾을 수 있음을 (rằng có thể tìm thấy ở ~ — 일에서 찾을 수 있음을)
+  - V-게 되다 (đi đến chỗ — 발견하게 된다) · [[GR_게_되다]]
+- **Từ vựng:**
+  - 행복 — hạnh phúc
+  - 거창하다 — to tát, vĩ đại
+  - 꿈 — giấc mơ
+  - 발견하다 — phát hiện
+
+---
+
+## Câu 18 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> '씨앗 저장고'는 미래의 식량 문제를 대비하기 위해 식물 자원을 영구적으로 보호하는 시설이다. 이곳의 연구원들은 보존 중인 씨앗을 연구하는 일뿐만 아니라 (   ) 활동도 한다. 이들은 씨앗 하나를 구하기 위해 전국 곳곳을 찾아다닌다. 연구원이 직접 가서 보지 않으면 보관할 가치가 있는 씨앗인지 알 수 없기 때문이다.
+
+**Dịch:**
+> "Kho hạt giống" là cơ sở bảo vệ vĩnh viễn nguồn tài nguyên thực vật để dự phòng vấn đề lương thực tương lai. Các nghiên cứu viên ở đây không chỉ làm việc nghiên cứu hạt giống đang bảo tồn, mà còn làm cả hoạt động (   ). Họ đi khắp nơi trên cả nước để tìm cho được một hạt giống. Ấy là vì nếu nghiên cứu viên không trực tiếp đến xem thì không thể biết đó có phải hạt đáng bảo quản hay không.
+
+**Quan hệ:** căn-cứ (blank grounded bởi "전국 곳곳을 찾아다닌다 … 직접 가서 보지 않으면 … 때문이다") → [[BLK_can_cu]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 자원을 홍보하는 | quảng bá tài nguyên | ❌ | Bài không nói quảng bá; nói đi khắp nơi tìm hạt. |
+| ② | 사람을 교육하는 | giáo dục con người | ❌ | Không có hoạt động giáo dục nào trong bài. |
+| ③ | 씨앗을 수집하는 | thu thập hạt giống | ✅ | "씨앗 하나를 구하기 위해 전국 곳곳을 찾아다닌다" + "직접 가서 보지 않으면 … 때문이다" → hoạt động = thu thập hạt giống. Khớp căn cứ. |
+| ④ | 저장고를 관리하는 | quản lý kho | ❌ | Bài nói đi tìm hạt bên ngoài, không phải quản lý kho. |
+
+### Chú giải chi tiết
+
+> '씨앗 저장고'는 미래의 식량 문제를 대비하기 위해 식물 자원을 영구적으로 보호하는 시설이다.
+→ "Kho hạt giống" là cơ sở bảo vệ vĩnh viễn tài nguyên thực vật để dự phòng vấn đề lương thực tương lai.
+- **Ngữ pháp:**
+  - N을/를 대비하다 (dự phòng — 문제를 대비하기)
+  - V-기 위해 (để — 대비하기 위해) · [[GR_기_위해]]
+  - V-는 + N (định ngữ — 보호하는 시설)
+- **Từ vựng:**
+  - 씨앗 — hạt giống
+  - 저장고 — kho chứa
+  - 식량 — lương thực
+  - 대비하다 — dự phòng, chuẩn bị đối phó
+  - 자원 — tài nguyên
+  - 영구적 — vĩnh viễn
+  - 보호하다 — bảo vệ
+  - 시설 — cơ sở, thiết bị
+
+> 이곳의 연구원들은 보존 중인 씨앗을 연구하는 일뿐만 아니라 (   ) 활동도 한다.
+→ Nghiên cứu viên ở đây không chỉ nghiên cứu hạt đang bảo tồn, mà còn làm cả hoạt động (   ).
+- **Ngữ pháp:**
+  - 이곳의 (của nơi này — hồi chiếu)
+  - N 중인 + N (đang trong ~ — 보존 중인 씨앗)
+  - V-는 일뿐만 아니라 (không chỉ việc ~ mà còn — 연구하는 일뿐만 아니라)
+  - N도 하다 (làm cả ~ — 활동도 한다)
+- **Từ vựng:**
+  - 연구원 — nghiên cứu viên
+  - 보존 — sự bảo tồn
+  - 연구하다 — nghiên cứu
+  - 활동 — hoạt động
+
+> 이들은 씨앗 하나를 구하기 위해 전국 곳곳을 찾아다닌다.
+→ Họ đi khắp nơi trên cả nước để tìm cho được một hạt giống.
+- **Ngữ pháp:**
+  - V-기 위해 (để — 구하기 위해) · [[GR_기_위해]]
+  - V-아/어 다니다 (đi khắp ~ để — 찾아다닌다)
+- **Từ vựng:**
+  - 구하다 — tìm/kiếm được
+  - 전국 — cả nước
+  - 곳곳 — khắp nơi
+  - 찾아다니다 — đi tìm khắp nơi
+
+> 연구원이 직접 가서 보지 않으면 보관할 가치가 있는 씨앗인지 알 수 없기 때문이다.
+→ Ấy là vì nếu nghiên cứu viên không trực tiếp đến xem thì không thể biết đó có phải hạt đáng bảo quản hay không.
+- **Ngữ pháp:**
+  - V-아/어서 (rồi — 가서)
+  - V-지 않으면 (nếu không — 보지 않으면)
+  - V-을 가치가 있다 (đáng ~ — 보관할 가치가 있는)
+  - N인지 (có phải là ~ không — 씨앗인지)
+  - V-을 수 없기 때문이다 (là vì không thể — 알 수 없기 때문이다)
+- **Từ vựng:**
+  - 직접 — trực tiếp
+  - 보관하다 — bảo quản
+  - 가치 — giá trị
+
+---
+
+## Câu 19 — dạng điền-phó-từ (빈칸에 들어갈 알맞은 부사)
+
+**문제:**
+> 시각 장애인의 안내견은 주인과 있을 때 행인에게 관심을 두지 않는다. (   ) 안내견이 주인을 남겨 두고 행인에게 다가간다면 이는 주인이 위험에 처해 있다는 뜻이다. 안내견은 주인에게 문제가 발생하면 곧장 주변 사람에게 달려가 도움을 요청하도록 훈련을 받기 때문이다. 안내견이 행인의 주위를 맴돌면 안내견을 따라가 주인의 상태를 확인하고 구조 센터에 연락해야 한다.
+
+**Dịch:**
+> Chó dẫn đường của người khiếm thị, khi ở cùng chủ thì không để tâm đến người đi đường. (   ) chó dẫn đường bỏ chủ lại mà tiến đến người đi đường thì điều đó có nghĩa là chủ đang gặp nguy hiểm. Ấy là vì chó dẫn đường được huấn luyện để khi chủ gặp vấn đề thì lập tức chạy đến người xung quanh xin giúp đỡ. Nếu chó dẫn đường quẩn quanh người đi đường thì hãy đi theo nó, kiểm tra tình trạng của chủ và liên hệ trung tâm cứu hộ.
+
+**Chức năng:** điều-kiện (tương liên 만약…-다면, đặt giả định) → [[ADV_dieu_kien]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 비록 | mặc dù | ❌ | Nhượng bộ, phải đi với -지만/-아도; vế sau là giả định -다면 → sai. |
+| ② | 물론 | tất nhiên | ❌ | Nhượng bộ thừa nhận; không có cặp tương phản, vế sau là giả định → sai. |
+| ③ | 만약 | nếu như | ✅ | Tương liên **만약 … 다가간다면** (đặt giả định) → phó từ điều-kiện. |
+| ④ | 과연 | quả nhiên | ❌ | Xác nhận/cảm thán; không hợp mạch giả định → sai. |
+
+### Chú giải chi tiết
+
+> 시각 장애인의 안내견은 주인과 있을 때 행인에게 관심을 두지 않는다.
+→ Chó dẫn đường của người khiếm thị, khi ở cùng chủ thì không để tâm đến người đi đường.
+- **Ngữ pháp:**
+  - N의 (của — 장애인의 안내견)
+  - N과/와 있을 때 (khi ở cùng ~ — 주인과 있을 때)
+  - N에게 (với/đến — 행인에게)
+  - N에 관심을 두다 (để tâm đến ~ — 관심을 두지 않는다)
+  - V-지 않다 (không)
+- **Từ vựng:**
+  - 시각 장애인 — người khiếm thị · [[TOPIC_안내견]]
+  - 안내견 — chó dẫn đường · [[TOPIC_안내견]]
+  - 주인 — chủ
+  - 행인 — người đi đường
+  - 관심 — sự quan tâm
+
+> (만약) 안내견이 주인을 남겨 두고 행인에게 다가간다면 이는 주인이 위험에 처해 있다는 뜻이다.
+→ (Nếu như) chó dẫn đường bỏ chủ lại mà tiến đến người đi đường thì điều đó nghĩa là chủ đang gặp nguy hiểm.
+- **Ngữ pháp:**
+  - 만약 …-다면 (nếu như ~ thì — tương liên giả định) · [[ADV_dieu_kien]]
+  - V-아/어 두고 (để ~ lại rồi — 남겨 두고)
+  - V-ㄴ다면 (nếu ~ — 다가간다면) · [[GR_다면]]
+  - 이는 …는 뜻이다 (điều này nghĩa là ~)
+  - N에 처해 있다 (đang lâm vào ~ — 위험에 처해 있다) · [[GR_아어_있다]]
+- **Từ vựng:**
+  - 남기다 — để lại
+  - 다가가다 — tiến lại gần
+  - 위험 — nguy hiểm
+  - 처하다 — lâm vào
+  - 뜻 — ý nghĩa
+
+> 안내견은 주인에게 문제가 발생하면 곧장 주변 사람에게 달려가 도움을 요청하도록 훈련을 받기 때문이다.
+→ Ấy là vì chó dẫn đường được huấn luyện để khi chủ gặp vấn đề thì lập tức chạy đến người xung quanh xin giúp đỡ.
+- **Ngữ pháp:**
+  - -(으)면 (nếu/khi — 발생하면)
+  - V-아/어 (rồi — 달려가)
+  - V-도록 (để/sao cho — 요청하도록) · [[GR_도록]]
+  - N을/를 받다 (được ~ — 훈련을 받다)
+  - V-기 때문이다 (là vì ~)
+- **Từ vựng:**
+  - 발생하다 — phát sinh, xảy ra
+  - 곧장 — ngay lập tức
+  - 주변 사람 — người xung quanh
+  - 달려가다 — chạy đến
+  - 도움을 요청하다 — xin giúp đỡ
+  - 훈련 — huấn luyện
+
+> 안내견이 행인의 주위를 맴돌면 안내견을 따라가 주인의 상태를 확인하고 구조 센터에 연락해야 한다.
+→ Nếu chó dẫn đường quẩn quanh người đi đường thì hãy đi theo nó, kiểm tra tình trạng của chủ và liên hệ trung tâm cứu hộ.
+- **Ngữ pháp:**
+  - -(으)면 (nếu — 맴돌면)
+  - V-아/어 (rồi — 따라가)
+  - V-고 (và — 확인하고)
+  - N에 연락하다 (liên hệ ~ — 구조 센터에 연락)
+  - V-아/어야 한다 (phải/nên ~) · [[GR_아어야_하다]]
+- **Từ vựng:**
+  - 주위를 맴돌다 — quẩn quanh
+  - 따라가다 — đi theo
+  - 상태 — tình trạng
+  - 확인하다 — kiểm tra
+  - 구조 센터 — trung tâm cứu hộ · [[TOPIC_안내견]]
+  - 연락하다 — liên hệ
+
+---
+
+## Câu 20 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 시각 장애인의 안내견은 주인과 있을 때 행인에게 관심을 두지 않는다. 만약 안내견이 주인을 남겨 두고 행인에게 다가간다면 이는 주인이 위험에 처해 있다는 뜻이다. 안내견은 주인에게 문제가 발생하면 곧장 주변 사람에게 달려가 도움을 요청하도록 훈련을 받기 때문이다. 안내견이 행인의 주위를 맴돌면 안내견을 따라가 주인의 상태를 확인하고 구조 센터에 연락해야 한다.
+
+**Dịch:**
+> Chó dẫn đường của người khiếm thị, khi ở cùng chủ thì không để tâm đến người đi đường. Nếu như chó bỏ chủ lại mà tiến đến người đi đường thì nghĩa là chủ đang gặp nguy hiểm. Ấy là vì chó được huấn luyện để khi chủ gặp vấn đề thì lập tức chạy đến người xung quanh xin giúp đỡ. Nếu chó quẩn quanh người đi đường thì hãy đi theo nó, kiểm tra tình trạng chủ và liên hệ trung tâm cứu hộ.
+
+**Chủ đề:** 안내견 (chó dẫn đường — tín hiệu cầu cứu) → [[TOPIC_안내견]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 안내견이 주인 곁을 떠나는 경우는 없다 | Chó dẫn đường không bao giờ rời chủ | ❌ | Bài: khi nguy hiểm nó **주인을 남겨 두고** đến người đi đường → nói ngược — [[TRAP_dao_thong_tin]]. |
+| ② | 안내견은 문제가 생기면 구조 센터로 달려간다 | Khi có vấn đề chó chạy đến trung tâm cứu hộ | ❌ | Bài: chạy đến **주변 사람** xin giúp (người kiểm tra mới gọi 구조 센터) → đảo đối tượng — [[TRAP_dao_thong_tin]]. |
+| ③ | 안내견이 다가오는 것은 위급한 상황이 생겼다는 뜻이다 | Việc chó lại gần nghĩa là có tình huống khẩn cấp | ✅ | Bài: 행인에게 다가간다면 = 주인이 **위험에 처해 있다**는 뜻 → khớp. |
+| ④ | 안내견은 항상 주변의 사람들에게 관심을 갖도록 훈련을 받는다 | Chó luôn được huấn luyện để quan tâm người xung quanh | ❌ | Bài: khi ở với chủ **관심을 두지 않는다**; "항상" tuyệt đối hóa → nói quá — [[TRAP_noi_qua]]. |
+
+> **Chú giải chi tiết:** đoạn văn dùng chung với Câu 19 — xem **Câu 19** phía trên.

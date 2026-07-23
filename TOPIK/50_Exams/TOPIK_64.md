@@ -817,3 +817,301 @@ tags: [korean/topik, exam]
   - 고객 — khách hàng
   - 줄이다 — làm giảm
   - 유도하다 — dẫn dắt/thúc đẩy
+
+---
+
+## Câu 16 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 상담을 통해 책을 추천해 주는 서점이 있어 화제가 되고 있다. 서점 주인은 손님과 오랜 시간 대화를 나눈 후 (   ) 책을 추천해 준다. 상처 받은 사람에게는 위로가 되는 책을, 자신감이 부족한 사람에게는 용기를 주는 책을 추천하는 방식으로 서비스를 제공한다.
+
+**Dịch:**
+> Có một hiệu sách giới thiệu sách thông qua tư vấn, đang gây chú ý. Chủ hiệu sách sau khi trò chuyện lâu với khách sẽ giới thiệu cuốn sách (   ). (Họ) cung cấp dịch vụ theo cách: với người bị tổn thương thì giới thiệu sách an ủi, với người thiếu tự tin thì giới thiệu sách tiếp thêm can đảm.
+
+**Quan hệ:** khái-quát (blank = câu khái quát, 2 ví dụ minh họa sau) → [[BLK_khai_quat]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 내용이 재미있는 | (sách) nội dung thú vị | ❌ | Không khớp; bài không chọn sách theo độ thú vị. |
+| ② | 지식을 전달하는 | (sách) truyền đạt kiến thức | ❌ | Không phải tiêu chí; sách chọn theo hoàn cảnh khách. |
+| ③ | 사람들이 많이 읽는 | (sách) nhiều người đọc | ❌ | Sách bán chạy không phải cách tư vấn cá nhân hóa. |
+| ④ | 손님의 상황에 맞는 | (sách) hợp hoàn cảnh của khách | ✅ | Sau khi trò chuyện lâu → giới thiệu sách hợp hoàn cảnh; 2 ví dụ (người tổn thương→sách an ủi; người thiếu tự tin→sách can đảm) minh họa "hợp hoàn cảnh khách". Khớp khái-quát. |
+
+### Chú giải chi tiết
+
+> 상담을 통해 책을 추천해 주는 서점이 있어 화제가 되고 있다.
+→ Có một hiệu sách giới thiệu sách thông qua tư vấn, đang gây chú ý.
+- **Ngữ pháp:**
+  - N을/를 통해 (thông qua — 상담을 통해)
+  - V-아/어 주는 + N (định ngữ — 추천해 주는 서점)
+  - V-아/어 (do/nên — 있어)
+  - N이/가 되다 + -고 있다 (đang trở thành — 화제가 되고 있다) · [[VC_화제가_되다]]
+- **Từ vựng:**
+  - 상담 — sự tư vấn
+  - 추천하다 — giới thiệu, đề xuất
+  - 서점 — hiệu sách
+  - 화제 — chủ đề bàn tán, sự chú ý
+
+> 서점 주인은 손님과 오랜 시간 대화를 나눈 후 (   ) 책을 추천해 준다.
+→ Chủ hiệu sách sau khi trò chuyện lâu với khách sẽ giới thiệu cuốn sách (   ).
+- **Ngữ pháp:**
+  - N과/와 대화를 나누다 (trò chuyện với — 손님과 … 나눈)
+  - V-(으)ㄴ 후 (sau khi — 나눈 후)
+  - (   ) + N (định ngữ bổ nghĩa 책)
+- **Từ vựng:**
+  - 주인 — chủ
+  - 손님 — khách
+  - 오랜 — lâu
+  - 대화 — cuộc trò chuyện
+
+> 상처 받은 사람에게는 위로가 되는 책을, 자신감이 부족한 사람에게는 용기를 주는 책을 추천하는 방식으로 서비스를 제공한다.
+→ Với người tổn thương thì giới thiệu sách an ủi, với người thiếu tự tin thì giới thiệu sách tiếp thêm can đảm.
+- **Ngữ pháp:**
+  - N에게는 (với ~ thì — 사람에게는)
+  - N이/가 되는 + N (định ngữ — 위로가 되는 책)
+  - A-(으)ㄴ + N (định ngữ — 부족한 사람)
+  - V-는 방식으로 (theo cách ~ — 추천하는 방식으로)
+- **Từ vựng:**
+  - 상처 받다 — bị tổn thương
+  - 위로 — sự an ủi
+  - 자신감 — sự tự tin
+  - 부족하다 — thiếu
+  - 용기 — sự can đảm
+  - 방식 — cách thức
+  - 제공하다 — cung cấp
+
+---
+
+## Câu 17 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 샌드위치나 샐러드 등은 오래 보관할 수 없어 신선할 때 팔아야 한다. 이런 식품을 영업 마감 시간을 앞두고 싸게 판매하는 서비스가 큰 호응을 얻고 있다. 음식점은 남은 음식을 팔아 수익을 얻을 수 있고, 소비자는 (   ) 이용자들의 만족도가 높다.
+
+**Dịch:**
+> Sandwich hay salad… không bảo quản được lâu nên phải bán khi còn tươi. Dịch vụ bán rẻ những thực phẩm này trước giờ đóng cửa đang được hưởng ứng lớn. Nhà hàng có thể bán đồ ăn còn dư để thu lợi, còn người tiêu dùng (   ) nên độ hài lòng của người dùng cao.
+
+**Quan hệ:** nhân-quả (blank -어서 = lý do độ hài lòng cao; song song với "음식점은 수익") → [[BLK_nhan_qua]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 자원을 아낄 수 있어서 | (vì) tiết kiệm được tài nguyên | ❌ | Bài không nói tài nguyên; lợi ích người dùng là giá rẻ. |
+| ② | 식품을 저렴하게 살 수 있어서 | (vì) mua thực phẩm giá rẻ | ✅ | Song song "음식점은 수익 … 소비자는 (mua rẻ được)" → "-어서" = lý do "이용자들의 만족도가 높다". Khớp nhân-quả. |
+| ③ | 요리법을 배울 수 있기 때문에 | vì học được cách nấu | ❌ | Không liên quan; dịch vụ bán rẻ đồ dư, không dạy nấu. |
+| ④ | 음식을 선택할 수 있기 때문에 | vì được chọn món | ❌ | Bài không nhấn quyền chọn món mà nhấn giá rẻ. |
+
+### Chú giải chi tiết
+
+> 샌드위치나 샐러드 등은 오래 보관할 수 없어 신선할 때 팔아야 한다.
+→ Sandwich hay salad… không bảo quản được lâu nên phải bán khi còn tươi.
+- **Ngữ pháp:**
+  - N(이)나 N 등 (hay… v.v. — 샌드위치나 샐러드 등)
+  - V-을 수 없어 (không thể ~ nên — 보관할 수 없어)
+  - A-을 때 (khi — 신선할 때)
+  - V-아/어야 한다 (phải — 팔아야 한다)
+- **Từ vựng:**
+  - 보관하다 — bảo quản
+  - 신선하다 — tươi
+  - 팔다 — bán
+
+> 이런 식품을 영업 마감 시간을 앞두고 싸게 판매하는 서비스가 큰 호응을 얻고 있다.
+→ Dịch vụ bán rẻ những thực phẩm này trước giờ đóng cửa đang được hưởng ứng lớn.
+- **Ngữ pháp:**
+  - 이런 + N (chỉ định — 이런 식품)
+  - N을/를 앞두고 (trước (thời điểm) — 마감 시간을 앞두고)
+  - A-게 (một cách — 싸게)
+  - V-는 + N (định ngữ — 판매하는 서비스)
+  - N을/를 얻다 + -고 있다 (đang nhận được — 호응을 얻고 있다)
+- **Từ vựng:**
+  - 식품 — thực phẩm
+  - 영업 마감 — đóng cửa (kết thúc kinh doanh)
+  - 앞두다 — sắp đến (trước ~)
+  - 판매하다 — bán
+  - 호응 — sự hưởng ứng
+
+> 음식점은 남은 음식을 팔아 수익을 얻을 수 있고, 소비자는 (   ) 이용자들의 만족도가 높다.
+→ Nhà hàng có thể bán đồ dư để thu lợi, còn người tiêu dùng (   ) nên độ hài lòng của người dùng cao.
+- **Ngữ pháp:**
+  - V-(으)ㄴ + N (định ngữ — 남은 음식)
+  - V-아/어 (để/rồi — 팔아)
+  - -을 수 있고 (có thể… và — 얻을 수 있고)
+  - A/V-아/어서 (vì nên — (…)어서: nêu lý do độ hài lòng)
+- **Từ vựng:**
+  - 음식점 — nhà hàng, quán ăn
+  - 남다 — còn dư
+  - 수익 — lợi nhuận
+  - 소비자 — người tiêu dùng
+  - 저렴하다 — rẻ
+  - 이용자 — người sử dụng
+  - 만족도 — mức độ hài lòng
+
+---
+
+## Câu 18 — dạng điền-nội-dung (빈칸에 들어갈 알맞은 내용)
+
+**문제:**
+> 뮤지컬은 보통 한 역할에 여러 명의 배우들이 출연한다. 배우에 따라 연기나 분위기가 다르기 때문에 같은 작품이라도 색다른 느낌을 받을 수 있다. 그래서 뮤지컬 팬들은 (   ) 작품을 즐기기 위해 공연을 반복해서 관람한다.
+
+**Dịch:**
+> Nhạc kịch thường có nhiều diễn viên đóng cùng một vai. Vì diễn xuất và không khí khác nhau tùy diễn viên nên dù cùng một tác phẩm vẫn có thể cảm nhận được cảm giác mới lạ. Vì thế, người hâm mộ nhạc kịch xem lại buổi diễn nhiều lần để thưởng thức tác phẩm (   ).
+
+**Quan hệ:** nhân-quả ("그래서" → kết quả: khác nhau theo diễn viên → xem lại để thưởng thức cá tính mỗi diễn viên) → [[BLK_nhan_qua]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 입장료를 할인해 주는 | (tác phẩm) giảm giá vé | ❌ | Bài không nói giá vé; lý do xem lại là cảm nhận khác theo diễn viên. |
+| ② | 공연장에서 인기가 있는 | được ưa chuộng ở nhà hát | ❌ | Không phải điểm bài nhấn (độ nổi tiếng). |
+| ③ | 유행하는 노래가 나오는 | có bài hát đang thịnh hành | ❌ | Không liên quan; bài nói về cá tính diễn viên. |
+| ④ | 각 배우의 개성이 담긴 | (tác phẩm) đậm cá tính mỗi diễn viên | ✅ | "배우에 따라 … 색다른 느낌" → "그래서" xem lại để thưởng thức tác phẩm mang cá tính riêng của từng diễn viên. Khớp nhân-quả. |
+
+### Chú giải chi tiết
+
+> 뮤지컬은 보통 한 역할에 여러 명의 배우들이 출연한다.
+→ Nhạc kịch thường có nhiều diễn viên đóng cùng một vai.
+- **Ngữ pháp:**
+  - N에 (vào/cho — 한 역할에)
+  - 여러 명의 + N (nhiều ~ — 여러 명의 배우들)
+  - N이/가 출연하다 (xuất hiện/đóng — 배우들이 출연한다)
+- **Từ vựng:**
+  - 뮤지컬 — nhạc kịch
+  - 역할 — vai (diễn)
+  - 배우 — diễn viên
+  - 출연하다 — tham gia diễn
+
+> 배우에 따라 연기나 분위기가 다르기 때문에 같은 작품이라도 색다른 느낌을 받을 수 있다.
+→ Vì diễn xuất và không khí khác nhau tùy diễn viên nên dù cùng một tác phẩm vẫn cảm nhận được cảm giác mới lạ.
+- **Ngữ pháp:**
+  - N에 따라 (tùy theo — 배우에 따라)
+  - N(이)나 (hay — 연기나 분위기)
+  - A-기 때문에 (vì — 다르기 때문에)
+  - N(이)라도 (dù là — 작품이라도)
+  - -을 수 있다 (có thể — 받을 수 있다)
+- **Từ vựng:**
+  - 연기 — diễn xuất
+  - 분위기 — không khí
+  - 다르다 — khác
+  - 작품 — tác phẩm
+  - 색다르다 — mới lạ, khác biệt
+  - 느낌 — cảm giác
+
+> 그래서 뮤지컬 팬들은 (   ) 작품을 즐기기 위해 공연을 반복해서 관람한다.
+→ Vì thế, người hâm mộ nhạc kịch xem lại buổi diễn nhiều lần để thưởng thức tác phẩm (   ).
+- **Ngữ pháp:**
+  - 그래서 (vì thế — hệ quả)
+  - (   ) + N (định ngữ bổ nghĩa 작품)
+  - V-기 위해 (để — 즐기기 위해) · [[GR_기_위해]]
+  - V-아/어서 (rồi/lặp — 반복해서)
+- **Từ vựng:**
+  - 팬 — người hâm mộ
+  - 즐기다 — thưởng thức
+  - 공연 — buổi biểu diễn
+  - 반복하다 — lặp lại
+  - 관람하다 — xem, thưởng lãm
+  - 개성 — cá tính
+  - 담기다 — được chứa đựng, thấm đượm
+
+---
+
+## Câu 19 — dạng điền-phó-từ (빈칸에 들어갈 알맞은 부사)
+
+**문제:**
+> 해파리는 몸의 95%가 물로 구성되어 있어 열량이 낮다. 그래서 해파리를 먹고 사는 동물이 거의 없다고 알려져 있다. 하지만 새나 펭귄, 뱀장어 등 많은 동물들에게 해파리는 좋은 먹잇감이다. 해파리에는 비타민이나 콜라겐 같은 영양 성분이 있기 때문이다. (   ) 해파리는 바다 어디에나 있고 도망치지 않아 사냥하기 쉽기 때문이다.
+
+**Dịch:**
+> Sứa có 95% cơ thể cấu tạo từ nước nên nhiệt lượng thấp. Vì thế được cho rằng hầu như không có loài vật nào sống bằng cách ăn sứa. Nhưng đối với nhiều loài vật như chim, chim cánh cụt, lươn... thì sứa là con mồi tốt. Ấy là vì trong sứa có các thành phần dinh dưỡng như vitamin hay collagen. (   ) ấy còn vì sứa ở khắp nơi trong biển và không chạy trốn nên dễ săn.
+
+**Chức năng:** bổ-sung (thêm một lý do nữa cùng chiều) → [[ADV_bo_sung]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 과연 | quả nhiên | ❌ | Xác nhận/cảm thán; không hợp mạch thêm lý do → sai. |
+| ② | 만약 | nếu như | ❌ | Điều kiện, cần đuôi giả định -면/-다면; vế sau là lý do 때문이다 → sai. |
+| ③ | 게다가 | hơn nữa, thêm vào đó | ✅ | Sau lý do 1 (영양 성분 있기 때문), blank thêm lý do 2 (사냥하기 쉽기 때문) — cùng chiều → bổ-sung. |
+| ④ | 이처럼 | như thế này | ❌ | Khái quát/hồi chiếu tổng kết; câu sau là lý do mới chứ không tổng kết → sai. |
+
+### Chú giải chi tiết
+
+> 해파리는 몸의 95%가 물로 구성되어 있어 열량이 낮다.
+→ Sứa có 95% cơ thể cấu tạo từ nước nên nhiệt lượng thấp.
+- **Ngữ pháp:**
+  - N의 (của — 몸의 95%)
+  - N(으)로 구성되어 있다 (được cấu tạo từ ~ — 물로 구성되어 있어) · [[GR_아어_있다]]
+  - A/V-아/어 (nên — 있어)
+- **Từ vựng:**
+  - 해파리 — con sứa · [[TOPIC_해양생물]]
+  - 몸 — cơ thể
+  - 물 — nước
+  - 구성되다 — được cấu tạo
+  - 열량 — nhiệt lượng, calo
+  - 낮다 — thấp
+
+> 그래서 해파리를 먹고 사는 동물이 거의 없다고 알려져 있다.
+→ Vì thế được cho rằng hầu như không có loài vật nào sống bằng cách ăn sứa.
+- **Ngữ pháp:**
+  - 그래서 (vì thế — kết quả)
+  - V-고 살다 (sống bằng cách ~ — 먹고 사는)
+  - 거의 없다 (hầu như không có)
+  - A/V-다고 알려져 있다 (được cho rằng ~ — 없다고 알려져 있다) · [[GR_아어_있다]]
+- **Từ vựng:**
+  - 동물 — động vật
+  - 거의 — hầu như
+  - 알려지다 — được biết đến
+
+> 하지만 새나 펭귄, 뱀장어 등 많은 동물들에게 해파리는 좋은 먹잇감이다.
+→ Nhưng đối với nhiều loài vật như chim, chim cánh cụt, lươn... thì sứa là con mồi tốt.
+- **Ngữ pháp:**
+  - 하지만 (nhưng)
+  - N(이)나 (như/hoặc — 새나 펭귄)
+  - N 등 (v.v. — 뱀장어 등)
+  - N들에게 (đối với ~ — 동물들에게)
+- **Từ vựng:**
+  - 새 — chim
+  - 펭귄 — chim cánh cụt
+  - 뱀장어 — con lươn
+  - 먹잇감 — con mồi, thức ăn (cho thú) · [[TOPIC_해양생물]]
+
+> 해파리에는 비타민이나 콜라겐 같은 영양 성분이 있기 때문이다.
+→ Ấy là vì trong sứa có các thành phần dinh dưỡng như vitamin hay collagen.
+- **Ngữ pháp:**
+  - N에는 (trong ~ có — 해파리에는)
+  - N(이)나 (hay — 비타민이나)
+  - N 같은 + N (như ~ — 콜라겐 같은 영양 성분)
+  - N이/가 있기 때문이다 (là vì có ~)
+- **Từ vựng:**
+  - 비타민 — vitamin · [[TOPIC_해양생물]]
+  - 콜라겐 — collagen · [[TOPIC_해양생물]]
+  - 영양 성분 — thành phần dinh dưỡng · [[TOPIC_해양생물]]
+
+> (게다가) 해파리는 바다 어디에나 있고 도망치지 않아 사냥하기 쉽기 때문이다.
+→ (Hơn nữa,) ấy còn vì sứa ở khắp nơi trong biển và không chạy trốn nên dễ săn.
+- **Ngữ pháp:**
+  - 게다가 (hơn nữa — phó từ bổ sung) · [[ADV_bo_sung]]
+  - N 어디에나 (ở bất cứ đâu ~ — 바다 어디에나)
+  - V-고 (và — 있고)
+  - V-지 않아 (không ~ nên — 도망치지 않아)
+  - V-기 쉽다 (dễ ~ — 사냥하기 쉽다)
+  - V-기 때문이다 (là vì ~)
+- **Từ vựng:**
+  - 바다 — biển
+  - 도망치다 — chạy trốn
+  - 사냥하다 — săn
+
+---
+
+## Câu 20 — dạng câu-giống-đoạn-văn-dài (글의 내용과 같은 것)
+
+**문제:**
+> 해파리는 몸의 95%가 물로 구성되어 있어 열량이 낮다. 그래서 해파리를 먹고 사는 동물이 거의 없다고 알려져 있다. 하지만 새나 펭귄, 뱀장어 등 많은 동물들에게 해파리는 좋은 먹잇감이다. 해파리에는 비타민이나 콜라겐 같은 영양 성분이 있기 때문이다. 게다가 해파리는 바다 어디에나 있고 도망치지 않아 사냥하기 쉽기 때문이다.
+
+**Dịch:**
+> Sứa có 95% cơ thể cấu tạo từ nước nên nhiệt lượng thấp. Vì thế được cho rằng hầu như không có loài vật nào sống bằng cách ăn sứa. Nhưng đối với nhiều loài vật như chim, chim cánh cụt, lươn... thì sứa là con mồi tốt. Ấy là vì trong sứa có thành phần dinh dưỡng như vitamin hay collagen. Hơn nữa, ấy còn vì sứa ở khắp nơi trong biển và không chạy trốn nên dễ săn.
+
+**Chủ đề:** 해양생물 (sứa — nguồn mồi giàu dinh dưỡng) → [[TOPIC_해양생물]]
+
+| # | Phương án | Nghĩa | Vai | Căn cứ / Phân tích |
+|---|---|---|---|---|
+| ① | 해파리는 바다 생태계에 피해를 준다 | Sứa gây hại cho hệ sinh thái biển | ❌ | Bài không đề cập 피해 (gây hại) → bịa — [[TRAP_khong_co_thong_tin]]. |
+| ② | 해파리는 잡기 어려운 먹이 자원이다 | Sứa là nguồn thức ăn khó bắt | ❌ | Bài: 도망치지 않아 **사냥하기 쉽다** (dễ săn) → nói ngược — [[TRAP_dao_thong_tin]]. |
+| ③ | 해파리는 여러 동물의 먹이가 되고 있다 | Sứa đang là thức ăn của nhiều loài vật | ✅ | Bài: 많은 동물들에게 해파리는 **좋은 먹잇감** → khớp. |
+| ④ | 해파리는 대부분 콜라겐으로 이루어져 있다 | Sứa hầu hết cấu tạo từ collagen | ❌ | Bài: **95%가 물** (collagen chỉ là 1 thành phần dinh dưỡng) → đảo số liệu — [[TRAP_dao_thong_tin]]. |
+
+> **Chú giải chi tiết:** đoạn văn dùng chung với Câu 19 — xem **Câu 19** phía trên.
